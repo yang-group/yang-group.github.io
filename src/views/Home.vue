@@ -5,24 +5,28 @@
     <v-row>
       {{welcome}}
     </v-row>
-    <v-row class="">
-      <v-col>
-        <v-banner>
-        <div id="intro"> {{intro}} </div>
-        <div id="carousel"></div>
-      </v-banner>
+    <v-row class="row-con" style="display:flex; justify-content:space-between">
+      <v-col class="flex-grow-1  flex-shrink-0 mr-10">
+          <div id="intro" style="width:20em"> {{intro}} </div>
       </v-col>
-      <v-col>
-        <Carousel/>
-        <RecentNews/>
-
+      <v-col class="flex-grow-1">
+        <Carousel class="car"/>
       </v-col>
     </v-row>
+    <RecentNews/>
 
   </v-main>
 </template>
 <style lang="css" scoped>
-
+.home, .row-con {
+  width: 100%;
+}
+.row-con {
+  flex-wrap: nowrap;
+}
+.row-con v-col {
+  width: 40%;
+}
 </style>
 <script>
 

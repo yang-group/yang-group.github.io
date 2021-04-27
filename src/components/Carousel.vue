@@ -1,5 +1,5 @@
 <template>
-  <v-carousel hide-delimiter-background show-arrows-on-hover height="400">
+  <v-carousel class="i-carousel" hide-delimiter-background show-arrows-on-hover>
     <v-carousel-item
       v-for="(item, i) in items"
       :key="i"
@@ -9,6 +9,14 @@
     ></v-carousel-item>
   </v-carousel>
 </template>
+
+<style lang="css" scoped>
+.i-carousel {
+  width: 40em;
+
+}
+</style>
+
 <script>
 
 // @ is an alias to /src
@@ -32,6 +40,9 @@ export default {
       },
       {
         src: 'https://cdn.vuetifyjs.com/images/carousel/planet.jpg'
+      },
+      {
+        src: 'https://github.com/KeepThinkingYX/Xi-Yang/raw/master/XiYang.JPG'
       }
     ]
   })
