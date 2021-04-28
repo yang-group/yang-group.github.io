@@ -26,12 +26,12 @@
 }
 </style>
 <script>
-import YAML from 'yamljs'
+// import YAML from 'yamljs'
 // @ is an alias to /src
 import Carousel from '@/components/Carousel.vue'
 import RecentNews from '@/components/RecentNews.vue'
-var nativeObject = YAML.load('./data/data.yml')
-var jsonstr = JSON.stringify(nativeObject)
+// var nativeObject = YAML.load('./data/data.yml')
+// var jsonstr = JSON.stringify(nativeObject)
 // Contact
 
 export default {
