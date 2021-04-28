@@ -12,7 +12,11 @@
           <Carousel class="car"/>
       </v-col>
     </v-row>
-    <RecentNews/>
+    <v-row>
+      <v-col>
+        <RecentNews/>
+      </v-col>
+    </v-row>
 
   </v-main>
 </template>
@@ -22,10 +26,12 @@
 }
 </style>
 <script>
-
+import YAML from 'yamljs'
 // @ is an alias to /src
 import Carousel from '@/components/Carousel.vue'
 import RecentNews from '@/components/RecentNews.vue'
+var nativeObject = YAML.load('./data/data.yml')
+var jsonstr = JSON.stringify(nativeObject)
 // Contact
 
 export default {

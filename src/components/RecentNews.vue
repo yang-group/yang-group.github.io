@@ -3,7 +3,7 @@
     <v-card-title>Recent News</v-card-title>
     <v-card-text>
       <v-list dense>
-        <v-list-item-group color="primary">
+        <v-list-item-group color="">
           <v-container
             id="scroll-target"
             style="max-height: 200px"
@@ -18,6 +18,9 @@
     </v-card-text>
   </v-card>
 </template>
+<style lang="css" scoped>
+
+</style>
 <script>
 export default {
   data: () => ({
