@@ -3,13 +3,16 @@
     <!-- <img alt="Vue logo" src="../assets/logo.png"> -->
     <!-- <HelloWorld msg="Welcome to Your Vue.js App"/> -->
     <v-row>
-      {{welcome}}
+      <v-card-title>
+        {{welcome}}
+      </v-card-title>
     </v-row>
     <v-row class="row-con" style="display:flex; justify-content:space-between">
       <v-col class="flex-grow-1  flex-shrink-0 mr-10">
-          <div id="intro" style="width:20em"> {{intro}} </div>
+          <p id="intro" style="max-width:40em"> {{intro}} </p>
+          <p id="intro" style="max-width:40em"> {{admission}} </p>
       </v-col>
-      <v-col class="flex-grow-1">
+      <v-col class="flex-grow-0">
         <Carousel class="car"/>
       </v-col>
     </v-row>
@@ -18,21 +21,13 @@
   </v-main>
 </template>
 <style lang="css" scoped>
-.home, .row-con {
-  width: 100%;
-}
-.row-con {
-  flex-wrap: nowrap;
-}
-.row-con v-col {
-  width: 40%;
-}
 </style>
 <script>
 
 // @ is an alias to /src
 import Carousel from '@/components/Carousel.vue'
 import RecentNews from '@/components/RecentNews.vue'
+// Contact
 
 export default {
   // name: 'Home',
@@ -43,6 +38,7 @@ export default {
   data: () => ({
     welcome: 'Welcome To GPXG！！！',
     intro: '实验室简单介绍 实验室简单介绍 实验室简单介绍 实验室简单介绍 实验室简单介绍 实验室简单介绍 实验室简单介绍 实验室简单介绍 实验室简单介绍 实验室简单介绍 实验室简单介绍 实验室简单介绍 实验室简单介绍 实验室简单介绍 实验室简单介绍',
+    admission: '招生介绍 招生介绍 招生介绍 招生介绍 招生介绍 招生介绍 招生介绍 招生介绍 招生介绍 招生介绍 招生介绍 招生介绍 招生介绍 招生介绍 招生介绍 招生介绍 招生介绍 招生介绍 招生介绍 招生介绍',
     items: [
       {
         src: 'https://cdn.vuetifyjs.com/images/carousel/squirrel.jpg'

@@ -12,7 +12,7 @@
 
 <style lang="css" scoped>
 .i-carousel {
-  width: 40em;
+  width: 60em;
 
 }
 </style>

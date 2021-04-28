@@ -1,9 +1,8 @@
 <template>
   <v-app id="app">
-    <v-app-bar id="nav" height="88px" app>
-      <v-img class="logo" contain src="./assets/logo.png" alt="人工智能学院" />
-      <v-spacer></v-spacer>
-      <v-tabs id="tabs" class="ml-10">
+    <v-app-bar id="nav" height="88px" app class="justify-space-between">
+      <v-img class="logo flex-grow-1 ml-5" contain src="./assets/logo.png" alt="人工智能学院" />
+      <v-tabs id="tabs" class="flex-grow-1 mr-5" right color="pink darken-1">
         <v-tab to="/">
           Home
         </v-tab>
@@ -18,9 +17,9 @@
         </v-tab>
       </v-tabs>
     </v-app-bar>
-    <v-main class="main">
+    <v-container class="main">
       <router-view/>
-    </v-main>
+    </v-container>
   </v-app>
 </template>
 
@@ -30,8 +29,7 @@ a, a:hover {
   color: black;
   font-family: Arial, Helvetica, sans-serif;
 }
-.main {
-  width: 80%;
-  margin: 0 auto;
+#nav {
+  background-image: linear-gradient(25deg, #1f6170, #4a7f94, #719eb9, #99bee0)
 }
 </style>
