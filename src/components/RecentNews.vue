@@ -1,6 +1,6 @@
 <template>
   <v-card flat>
-    <v-card-title>Recent News in GPXG Lab</v-card-title>
+    <v-card-title>Recent News</v-card-title>
     <v-card-text>
       <v-list dense>
         <v-list-item-group color="primary">

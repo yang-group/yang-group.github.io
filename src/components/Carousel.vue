@@ -1,20 +1,15 @@
 <template>
-  <v-carousel class="i-carousel" hide-delimiter-background show-arrows-on-hover>
+  <v-carousel class="i-carousel" hide-delimiter-background show-arrows-on-hover >
     <v-carousel-item
       v-for="(item, i) in items"
       :key="i"
       :src="item.src"
-      reverse-transition="fade-transition"
-      transition="fade-transition"
     ></v-carousel-item>
   </v-carousel>
 </template>
 
 <style lang="css" scoped>
-.i-carousel {
-  width: 60em;
 
-}
 </style>
 
 <script>
@@ -30,19 +25,19 @@ export default {
   data: () => ({
     items: [
       {
-        src: 'https://cdn.vuetifyjs.com/images/carousel/squirrel.jpg'
+        src: 'http://sai.jlu.edu.cn/images/20210416-1.jpg'
       },
       {
-        src: 'https://cdn.vuetifyjs.com/images/carousel/sky.jpg'
+        src: 'http://sai.jlu.edu.cn/images/20210326.jpg'
       },
       {
-        src: 'https://cdn.vuetifyjs.com/images/carousel/bird.jpg'
+        src: 'http://sai.jlu.edu.cn/images/20210315.jpg'
       },
       {
-        src: 'https://cdn.vuetifyjs.com/images/carousel/planet.jpg'
+        src: 'http://sai.jlu.edu.cn/images/gongxun.jpg'
       },
       {
-        src: 'https://github.com/KeepThinkingYX/Xi-Yang/raw/master/XiYang.JPG'
+        src: 'http://sai.jlu.edu.cn/images/20210317.jpg'
       }
     ]
   })

@@ -9,15 +9,15 @@
         <v-tab to="/people">
           People
         </v-tab>
-        <v-tab to="/research">
+        <!-- <v-tab to="/research">
           Research
-        </v-tab>
+        </v-tab> -->
         <v-tab to="/publication">
           Publication
         </v-tab>
       </v-tabs>
     </v-app-bar>
-    <v-container class="main">
+    <v-container class="main mt-5">
       <router-view/>
     </v-container>
   </v-app>

@@ -1,19 +1,15 @@
 <template>
   <v-main class="home">
-    <!-- <img alt="Vue logo" src="../assets/logo.png"> -->
-    <!-- <HelloWorld msg="Welcome to Your Vue.js App"/> -->
-    <v-row>
-      <v-card-title>
-        {{welcome}}
-      </v-card-title>
-    </v-row>
     <v-row class="row-con" style="display:flex; justify-content:space-between">
-      <v-col class="flex-grow-1  flex-shrink-0 mr-10">
-          <p id="intro" style="max-width:40em"> {{intro}} </p>
-          <p id="intro" style="max-width:40em"> {{admission}} </p>
+      <v-col cols="6" class="briefText">
+        <h1>
+          {{welcome}}
+        </h1>
+          <p id="intro" > {{intro}} </p>
+          <p id="admission"> {{admission}} </p>
       </v-col>
-      <v-col class="flex-grow-0">
-        <Carousel class="car"/>
+      <v-col cols="6">
+          <Carousel class="car"/>
       </v-col>
     </v-row>
     <RecentNews/>
@@ -21,6 +17,9 @@
   </v-main>
 </template>
 <style lang="css" scoped>
+.briefText p {
+  text-indent: 2em;
+}
 </style>
 <script>
 
@@ -36,7 +35,7 @@ export default {
     RecentNews
   },
   data: () => ({
-    welcome: 'Welcome To GPXG！！！',
+    welcome: 'Welcome To GPXG !!!',
     intro: '实验室简单介绍 实验室简单介绍 实验室简单介绍 实验室简单介绍 实验室简单介绍 实验室简单介绍 实验室简单介绍 实验室简单介绍 实验室简单介绍 实验室简单介绍 实验室简单介绍 实验室简单介绍 实验室简单介绍 实验室简单介绍 实验室简单介绍',
     admission: '招生介绍 招生介绍 招生介绍 招生介绍 招生介绍 招生介绍 招生介绍 招生介绍 招生介绍 招生介绍 招生介绍 招生介绍 招生介绍 招生介绍 招生介绍 招生介绍 招生介绍 招生介绍 招生介绍 招生介绍',
     items: [
