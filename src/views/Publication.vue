@@ -3,7 +3,7 @@
     <h1>Publications</h1>
     <v-container class="">
       <v-row>
-        <v-col v-for="(paper, i) in papers" :key="i" cols="6">
+        <v-col v-for="(paper, i) in papers" :key="i" cols="auto" md="10" >
           <v-card height="200" flat>
             <Paper :paper="paper" />
           </v-card>

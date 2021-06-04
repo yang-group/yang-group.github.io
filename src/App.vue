@@ -1,12 +1,16 @@
 <template>
   <v-app id="app">
     <v-app-bar id="nav" height="88" app class="justify-space-between">
-      <v-img
-        class="logo flex-grow-1 ml-5"
-        contain
-        src="./assets/logo.png"
-        alt="人工智能学院"
-      />
+      <a href="https://gpxg-lab.vercel.app/">
+        <v-img
+          class="logo flex-grow-1 ml-1"
+          contain
+          max-width="150px"
+          max-height="85px"
+          src="./assets/logo.png"
+          alt="人工智能学院"
+        />
+      </a>
       <v-tabs id="tabs" class="flex-grow-1 mr-5" right color="blue darken-1">
         <v-tab to="/">
           <strong>

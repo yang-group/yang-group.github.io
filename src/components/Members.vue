@@ -16,7 +16,7 @@
               v-for="(stu,idx) in value"
               :key="`${key}${idx}`"
               cols="auto"
-              md="2"
+              md="3"
             >
               <v-sheet>
                 <Student :stu="stu" />
@@ -32,32 +32,16 @@
 import Student from '@/components/Student'
 
 export default {
-  props: {
-
-  },
+  props: ['memberData'],
   components: {
     Student
   },
   data: () => ({
-    std_cat: {
-      PhD: [
-        { name: 'Tang Chuan', year: '2020-Now', email: 'tangchuan20@mails.jlu.edu.cn', inerest: ['3D Deep Learning', 'Mutli-modal', 'CV', 'NLP'], photo: 'img/yangxi.png', github: 'JLUtangchuan' },
-        { name: 'Tang Chuan', year: '2020-Now', email: 'tangchuan20@mails.jlu.edu.cn', inerest: ['3D Deep Learning', 'Mutli-modal'], photo: 'img/yangxi.png', github: 'JLUtangchuan' },
-        { name: 'Tang Chuan', year: '2020-Now', email: 'tangchuan20@mails.jlu.edu.cn', inerest: ['3D Deep Learning', 'Mutli-modal'], photo: 'img/yangxi.png', github: 'JLUtangchuan' }
-      ],
-      Master: [
-        { name: 'Tang Chuan', year: '2020-Now', inerest: ['3D Deep Learning', 'Mutli-modal'], photo: 'img/yangxi.png', github: 'JLUtangchuan' },
-        { name: 'Tang Chuan', year: '2020-Now', email: 'tangchuan20@mails.jlu.edu.cn', inerest: ['3D Deep Learning', 'Mutli-modal'], photo: 'img/yangxi.png', github: 'JLUtangchuan' },
-        { name: 'Tang Chuan', year: '2020-Now', email: 'tangchuan20@mails.jlu.edu.cn', inerest: ['3D Deep Learning', 'Mutli-modal'], photo: 'img/yangxi.png', github: 'JLUtangchuan' },
-        { name: 'Tang Chuan', year: '2020-Now', email: 'tangchuan20@mails.jlu.edu.cn', inerest: ['3D Deep Learning', 'Mutli-modal'], photo: 'img/yangxi.png', github: 'JLUtangchuan' },
-        { name: 'Tang Chuan', year: '2020-Now', email: 'tangchuan20@mails.jlu.edu.cn', inerest: ['3D Deep Learning', 'Mutli-modal'], photo: 'img/yangxi.png', github: 'JLUtangchuan' },
-        { name: 'Tang Chuan', year: '2020-Now', email: 'tangchuan20@mails.jlu.edu.cn', inerest: ['3D Deep Learning', 'Mutli-modal'], photo: 'img/yangxi.png', github: 'JLUtangchuan' },
-        { name: 'Tang Chuan', year: '2020-Now', email: 'tangchuan20@mails.jlu.edu.cn', inerest: ['3D Deep Learning', 'Mutli-modal'], photo: 'img/yangxi.png', github: 'JLUtangchuan' },
-        { name: 'Tang Chuan', year: '2020-Now', email: 'tangchuan20@mails.jlu.edu.cn', inerest: ['3D Deep Learning', 'Mutli-modal'], photo: 'img/yangxi.png', github: 'JLUtangchuan' }
-      ],
-      Album: []
-    }
-  })
+    std_cat: {}
+  }),
+  mounted () {
+    this.std_cat = this.memberData
+  }
 }
 </script>
 

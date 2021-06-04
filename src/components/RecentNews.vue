@@ -23,29 +23,12 @@
 </style>
 <script>
 export default {
+  props: ['recentNews'],
   data: () => ({
-    news: [
-      {
-        date: '2021.01.09',
-        content: 'Our paper has been accepted by <b>ISBI</b> 2021.'
-      },
-      {
-        date: '2021.01.09',
-        content: 'Our paper has been accepted by <b>ISBI</b> 2021.'
-      },
-      {
-        date: '2021.01.09',
-        content: 'Our paper has been accepted by <b>ISBI</b> 2021.'
-      },
-      {
-        date: '2021.01.09',
-        content: 'Our paper has been accepted by <b>ISBI</b> 2021.'
-      },
-      {
-        date: '2020.09.17',
-        content: 'Our paper has been accepted by ACM <b>SIGGRAPH ASIA</b> 2020 Technical Communications.'
-      }
-    ]
-  })
+    news: []
+  }),
+  mounted () {
+    this.news = this.recentNews
+  }
 }
 </script>

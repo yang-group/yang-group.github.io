@@ -1,6 +1,60 @@
-YAML:
-  - A human-readable data serialization language
-  - https://en.wikipedia.org/wiki/YAML
-yaml:
-  - A complete JavaScript implementation
-  - https://www.npmjs.com/package/yaml
+admission: HelloWorld
+intro: 实验室简单介绍 实验室简单介绍 实验室简单介绍 实验室简单介绍 实验室简单介绍 实验室简单介绍 实验室简单介绍 实验室简单介绍 实验室简单介绍 实验室简单介绍 实验室简单介绍 实验室简单介绍 实验室简单介绍 实验室简单介绍 实验室简单介绍
+welcome: Welcome To GPXG !!!
+imgItems:
+  - http://sai.jlu.edu.cn/images/20210416-1.jpg
+  - http://sai.jlu.edu.cn/images/20210326.jpg
+recentNews:
+  -
+    date: 2021.01.09
+    content: Our paper has been accepted by <b>ISBI</b> 2021.
+  - 
+    date: 2020.09.17
+    content: Our paper has been accepted by ACM <b>SIGGRAPH ASIA</b> 2020 Technical Communications.
+memberData:
+  Master:
+    - 
+      name: 唐川
+      year: 2020-Now
+      email: tangchuan20@mails.jlu.edu.cn
+      inerest:
+        - 3D Deep Learning
+      github: JLUtangchuan
+      photo: img/studentImg/tangchuan.jpg
+    - 
+      name: 孙金浩
+      year: 2020-Now
+      inerest:
+        - CV
+      photo: img/studentImg/sunjinhao.jpg
+    - 
+      name: 金逸凡
+      year: 2020-Now
+      inerest:
+        - GAN
+      photo: img/yangxi.png
+    - 
+      name: 刘强
+      year: 2020-Now
+      inerest:
+        - 3D Reconstraction
+      photo: img/studentImg/liuqiang.jpg
+    - 
+      name: 刘家成
+      year: 2021-Now
+      inerest:
+        - CV
+      photo: img/studentImg/liujiacheng.jpg
+    - 
+      name: 艾阳
+      year: 2021-Now
+      inerest:
+        - CV
+      photo: img/studentImg/aiyang.jpg
+    - 
+      name: 魏家富
+      year: 2021-Now
+      inerest:
+        - CV
+      photo: img/studentImg/weijiafu.jpg
+
