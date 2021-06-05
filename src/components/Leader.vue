@@ -2,13 +2,13 @@
   <div>
       <h1>Lab Director</h1>
       <v-row>
-        <v-col cols="3">
-          <v-avatar size="350">
-            <v-img :src="photo"></v-img>
-          </v-avatar>
+        <v-col cols="2">
+          <div>
+              <v-img :src="photo" style="border-radius:100%"></v-img>
+          </div>
         </v-col>
         <v-col cols="3">
-          <div class="mt-3">
+          <div class="mt-1">
             <h2 class="mb-2">{{name}}</h2>
             <p v-for="t in titles" :key="t">{{t}}</p>
             <a :href="homepage">Homepage</a>

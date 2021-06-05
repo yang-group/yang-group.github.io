@@ -59,7 +59,9 @@ a:hover {
   font-family: Arial, Helvetica, sans-serif;
 }
 #nav {
-  background-image: linear-gradient(25deg, #1f6170, #4a7f94, #719eb9, #99bee0);
+  // background-image: linear-gradient(25deg, #1f6170, #4a7f94, #719eb9, #99bee0);
+  // background-image: linear-gradient(84deg, #3c1b8a, #4959a2, #4691ba, #1cccd2);
+  background-image: linear-gradient(298deg, #bb6a2a, #c79030, #d1b536, #d9da3c);
   overflow: hidden;
 }
 #footer {
