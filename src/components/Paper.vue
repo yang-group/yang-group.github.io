@@ -1,20 +1,21 @@
 <template>
   <div>
-    <v-row class="mt-3">
-      <v-col class="pa-0">
+    <v-row class="mt-1">
+      <v-col class="pa-0" cols="3">
         <v-img
           :src="paper.image"
           max-height="150"
-          class="pa-0"
+          class="pa-0 mr-5"
           max-width="250"
           :aspect-ratio="1 / 1"
+          style="margin: 0 auto"
         />
       </v-col>
-      <v-col cols="8" class="pa-0">
-        <div>
+      <v-col cols="9" class="pa-0">
+        <div class="mb-2">
           <b>{{ paper.title }}</b>
         </div>
-        <div>
+        <div class="mb-2">
           <i v-html="paper.authors"></i>
         </div>
         <div>

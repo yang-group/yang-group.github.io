@@ -1,8 +1,8 @@
 <template>
     <div class="lighten-2">
       <v-container>
-        <v-row>
-          <template v-for="(value,key,index) in std_cat" >
+        <template v-for="(value,key,index) in std_cat" >
+          <v-row :key="index">
             <v-col
               :key="index"
               class="mt-2"
@@ -11,19 +11,19 @@
             >
               <h2>{{ key }}</h2>
             </v-col>
-
+          </v-row>
+          <v-row :key="index">
             <v-col
               v-for="(stu,idx) in value"
               :key="`${key}${idx}`"
-              cols="auto"
-              md="3"
+              cols="3"
             >
               <v-sheet>
                 <Student :stu="stu" />
               </v-sheet>
             </v-col>
-          </template>
-        </v-row>
+          </v-row>
+        </template>
       </v-container>
     </div>
 </template>
