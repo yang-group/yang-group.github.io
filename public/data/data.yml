@@ -46,7 +46,7 @@ memberData:
       name: 刘强
       year: 2020-Now
       inerest:
-        - 3D Reconstraction
+        - 3D Reconstruction
       photo: img/studentImg/liuqiang.jpg
     - 
       name: 刘家成
@@ -71,17 +71,17 @@ paperList:
     title: Brain Surface Reconstruction from MRI Images Based on Segmentation Networks Applying Signed Distance Maps
     authors: Heng Fang, <b>Xi Yang</b>, Taichi Kin, Takeo Igarashi
     year: 2021
-    pub: ISBI,
-    image: img/researchImg/ISBI 2021.jpg
+    pub: ISBI
+    image: img/researchImg/ISBI2021.jpg
     links:
       paper: https://arxiv.org/pdf/2104.04291.pdf
   -
     title: IntrA: 3D Intracranial Aneurysm Dataset for Deep Learning
     authors: <b>Xi Yang</b>, Ding Xia, Taichi Kin, and Takeo Igarashi
     year: 2020
-    pub: CVPR,
+    pub: CVPR
     ccf: A
-    image: https://keepthinkingyx.github.io/Xi-Yang/pic/paperfinal.jpg
+    image: img/researchImg/CVPR2020.jpg
     links:
       code: https://github.com/intra3d2019/IntrA
       paper: https://arxiv.org/abs/2003.02920
