@@ -5,7 +5,7 @@
           <v-col>
             <div><strong >Admin:</strong> Xi Yang</div>
             <div><strong >E-mail:</strong> earthyangxi@sina.com</div>
-            <div><strong >Phone:</strong> 110</div>
+            <!-- <div><strong >Phone:</strong> 110</div> -->
           </v-col>
           <v-col class="text-right">
             <div>School of Artificial Intelligence, Jilin University</div>

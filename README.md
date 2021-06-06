@@ -34,9 +34,9 @@ npm run lint
 ### 发布
 ```
 npm run build
-git checkout -b gh-pages
-git add -f dist
+git add -u
 git commit -m 'some tips'
+git push origin dev
 git subtree push --prefix dist origin gh-pages
 ```
 
