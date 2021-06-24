@@ -1,16 +1,16 @@
 <template>
   <v-main class="home">
     <v-row class="row-con" style="display:flex; justify-content:space-between">
-      <v-col cols="6" class="briefText">
         <h1>
           {{welcome}}
         </h1>
-          <p id="intro" > {{intro}} </p>
-          <p id="admission"> {{admission}} </p>
-      </v-col>
-      <v-col cols="6">
-          <Carousel class="car" :imgItem="items" />
-      </v-col>
+    </v-row>
+    <v-row>
+          <Carousel id="carousel" class="car" :imgItem="items" />
+    </v-row>
+    <v-row class="briefText">
+      <p id="intro" > {{intro}} </p>
+      <p id="admission"> {{admission}} </p>
     </v-row>
     <v-row>
       <v-col>
@@ -23,6 +23,10 @@
 <style lang="css" scoped>
 .briefText p {
   text-indent: 2em;
+}
+#carousel {
+  width: 80%;
+  margin: 0 auto;
 }
 </style>
 <script>

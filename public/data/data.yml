@@ -67,29 +67,50 @@ memberData:
     -
   Collaborators:
     - 
-      name: Yi Zhang
-    - 
-      name: Chao Zhang
-    - 
-      name: Haoran Xie
-    - 
-      name: Takeo Igarashi
-    - 
-      name: Fukusato
-    - 
-      name: Ding Xia
-    - 
-      name: Bojian Wu
-    - 
-      name: Zhizhong Han
-    - 
-      name: Chiaming Chang
+      name: Bojian Wu 
+      danwei: Alibaba DAMO Academy, China.
+      homepage: https://bojianwu.github.io/
     - 
       name: Tong Zhang
+      danwei: Changchun Institute of Applied Chemeistry Chinese Academy of Sciences, China.
+      homepage: http://xnyang.ciac.jl.cn/members/张通/
     - 
-      name: Taichi Kin
+      name: Chao Zhang
+      danwei: Fukui University, Japan.
+      homepage: https://sites.google.com/view/chao-zhang/profile
     - 
       name: Kouichi Konno
+      danwei: Iwate University, Japan.
+      homepage: http://gmhost.lk.cis.iwate-u.ac.jp/en/index.html
+    - 
+      name: Haoran Xie
+      danwei: Japan Advanced Institute of Science and Technology, Japan.
+      homepage: http://www.jaist.ac.jp/~xie/
+    - 
+      name: Yi Zhang
+      danwei: National University of Defense Technology, China.
+    - 
+      name: Takeo Igarashi
+      danwei: The University of Tokyo, Japan.
+      homepage: https://www-ui.is.s.u-tokyo.ac.jp/~takeo/
+    - 
+      name: Taichi Kin
+      danwei: The University of Tokyo, Japan.
+      homepage: https://www.u-tokyo.ac.jp/focus/en/people/people003717.html
+    - 
+      name: Tsukasa Fukusato
+      danwei: The University of Tokyo, Japan.
+      homepage: https://sites.google.com/view/tsukasafukusato
+    - 
+      name: Chiaming Chang
+      danwei: The University of Tokyo, Japan.
+    - 
+      name: Ding Xia
+      danwei: The University of Tokyo, Japan.
+    - 
+      name: Zhizhong Han
+      danwei: Wayne State University, USA.
+      homepage: https://h312h.github.io/
 paperList:
   -
     title: IntrA: 3D Intracranial Aneurysm Dataset for Deep Learning

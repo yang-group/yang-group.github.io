@@ -2,10 +2,10 @@
   <div>
     <v-card class="mx-auto" max-width="400">
       <v-img class="white--text align-end" height="250px" :src="stu.photo">
-        <v-card-title> {{ stu.name }} </v-card-title>
       </v-img>
 
       <v-card-subtitle class="pb-0">
+        <h3> {{ stu.name }} </h3>
         <p>Year: {{ stu.year }}</p>
         <p>
           <i v-show="stu.email != null" class="mr-2">
