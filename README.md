@@ -6,7 +6,7 @@
 ### Project setup
 克隆dev分支的内容到本地
 ```
-git clone https://github.com:yang-group/yang-group.github.io.git
+git clone git@github.com:yang-group/yang-group.github.io.git
 ```
 安装必要依赖（可以切换镜像或者挂梯子）
 ```
