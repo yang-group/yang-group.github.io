@@ -70,6 +70,21 @@ memberData:
       inerest:
         - CV
       photo: img/studentImg/weijiafu.jpg
+  Past Members:
+    -
+  Collaborators:
+    - Yi Zhang
+    - Chao Zhang
+    - Haoran Xie
+    - Takeo Igarashi
+    - Fukusato
+    - Ding Xia
+    - Bojian Wu
+    - Zhizhong Han
+    - Chiaming Chang
+    - Tong Zhang
+    - Taichi Kin
+    - Kouichi Konno
 paperList:
   # -
     # title: IntrA: 3D Intracranial Aneurysm Dataset for Deep Learning

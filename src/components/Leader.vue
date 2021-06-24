@@ -1,6 +1,6 @@
 <template>
   <div>
-      <h1>Lab Director</h1>
+      <h1>Staff</h1>
       <v-row>
         <v-col cols="2">
           <div>
