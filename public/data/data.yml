@@ -1,8 +1,9 @@
 admission: Welcome to join our group!
-intro: 吉林大学人工智能学院GPXG
+intro:  We are the Interdisciplinary Intelligent Graphics Group (IIGG) based in the School of Artificial Intelligence, Jilin University. We conduct a broad range of research on Computer Graphics, Deep Learning, and User Interface. And focus on interdisciplinary topics across intelligent techniques and other fields, including archaeology, medicine, etc.
 welcome: Welcome To JLU SAI IIGG!
 imgItems:
   - img/yangxi.png
+  - img/studentImg/heyi.jpg
   - img/studentImg/tangchuan.jpg
   - img/studentImg/sunjinhao.jpg
   - img/studentImg/jinyifan.jpg
@@ -73,18 +74,30 @@ memberData:
   Past Members:
     -
   Collaborators:
-    - Yi Zhang
-    - Chao Zhang
-    - Haoran Xie
-    - Takeo Igarashi
-    - Fukusato
-    - Ding Xia
-    - Bojian Wu
-    - Zhizhong Han
-    - Chiaming Chang
-    - Tong Zhang
-    - Taichi Kin
-    - Kouichi Konno
+    - 
+      name: Yi Zhang
+    - 
+      name: Chao Zhang
+    - 
+      name: Haoran Xie
+    - 
+      name: Takeo Igarashi
+    - 
+      name: Fukusato
+    - 
+      name: Ding Xia
+    - 
+      name: Bojian Wu
+    - 
+      name: Zhizhong Han
+    - 
+      name: Chiaming Chang
+    - 
+      name: Tong Zhang
+    - 
+      name: Taichi Kin
+    - 
+      name: Kouichi Konno
 paperList:
   # -
     # title: IntrA: 3D Intracranial Aneurysm Dataset for Deep Learning
