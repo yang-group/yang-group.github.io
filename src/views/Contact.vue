@@ -4,7 +4,7 @@
       <v-row>
           <v-col>
             <div><strong >Admin:</strong> Xi Yang</div>
-            <div><strong >E-mail:</strong> earthyangxi@sina.com</div>
+            <div><strong >E-mail:</strong> yangxi21@jlu.edu.cn</div>
             <!-- <div><strong >Phone:</strong> 110</div> -->
           </v-col>
           <v-col class="text-right">

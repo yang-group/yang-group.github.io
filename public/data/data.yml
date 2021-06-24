@@ -1,16 +1,8 @@
-admission: Welcome to join our group!
+admission:
 intro:  We are the Interdisciplinary Intelligent Graphics Group (IIGG) based in the School of Artificial Intelligence, Jilin University. We conduct a broad range of research on Computer Graphics, Deep Learning, and User Interface. And focus on interdisciplinary topics across intelligent techniques and other fields, including archaeology, medicine, etc.
 welcome: Welcome To JLU SAI IIGG!
 imgItems:
-  - img/yangxi.png
-  - img/studentImg/heyi.jpg
-  - img/studentImg/tangchuan.jpg
-  - img/studentImg/sunjinhao.jpg
-  - img/studentImg/jinyifan.jpg
-  - img/studentImg/liuqiang.jpg
-  - img/studentImg/liujiacheng.jpg
-  - img/studentImg/aiyang.jpg
-  - img/studentImg/weijiafu.jpg
+  - img/researchImg/CVPR2020.jpg
 recentNews:
   - 
     date: 2021.06.24
@@ -99,14 +91,13 @@ memberData:
     - 
       name: Kouichi Konno
 paperList:
-  # -
-    # title: IntrA: 3D Intracranial Aneurysm Dataset for Deep Learning
-    # authors: <b>Xi Yang</b>, Ding Xia, Taichi Kin, and Takeo Igarashi
-    # year: 2020
-    # pub: CVPR
-    # ccf: A
-    # image: img/researchImg/CVPR2020.jpg
-    # links:
-      # code: https://github.com/intra3d2019/IntrA
-      # paper: https://arxiv.org/abs/2003.02920
-      # data: https://drive.google.com/drive/folders/1yjLdofRRqyklgwFOC0K4r7ee1LPKstPh?usp=sharing
+  -
+    title: IntrA: 3D Intracranial Aneurysm Dataset for Deep Learning
+    authors: <b>Xi Yang</b>, Ding Xia, Taichi Kin, and Takeo Igarashi
+    year: 2020
+    pub: CVPR
+    image: img/researchImg/CVPR2020.jpg
+    links:
+      code: https://github.com/intra3d2019/IntrA
+      paper: https://arxiv.org/abs/2003.02920
+      data: https://drive.google.com/drive/folders/1yjLdofRRqyklgwFOC0K4r7ee1LPKstPh?usp=sharing
