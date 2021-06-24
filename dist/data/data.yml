@@ -1,6 +1,6 @@
-admission: 欢迎你的加入！！！
+admission: Welcome to join our group!
 intro: 吉林大学人工智能学院GPXG
-welcome: Welcome To JLU SAI GPXG !!!
+welcome: Welcome To JLU SAI IIGG!
 imgItems:
   - img/yangxi.png
   - img/studentImg/tangchuan.jpg
@@ -12,18 +12,21 @@ imgItems:
   - img/studentImg/weijiafu.jpg
 recentNews:
   - 
-    date: 2021.06.01
-    content: Our paper is accepted by <b> SIGGRAPH </b> 2021 Posters.
-  -
-    date: 2021.01.09
-    content: Our paper has been accepted by <b>ISBI</b> 2021.
-  - 
-    date: 2020.09.17
-    content: Our paper has been accepted by ACM <b>SIGGRAPH ASIA</b> 2020 Technical Communications.
+    date: 2021.06.24
+    content: Our web page is ready! 
 memberData:
+  Ph.D.:
+    -
   Master:
     - 
-      name: 唐川
+      name: Yi He (何毅) Co-supervised with Prof. Xie, JAIST.
+      year: 2021-Now
+      email: s2010035@jaist.ac.jp
+      inerest:
+        - User Interface
+      photo: img/studentImg/heyi.jpg
+    - 
+      name: Chuan Tang (唐川) Co-supervised with Prof. Chang, JLU.
       year: 2020-Now
       email: tangchuan20@mails.jlu.edu.cn
       inerest:
@@ -31,25 +34,26 @@ memberData:
       github: JLUtangchuan
       photo: img/studentImg/tangchuan.jpg
     - 
-      name: 孙金浩
+      name: Jinhao Sun (孙金浩)
       year: 2020-Now
       inerest:
         - CV
       photo: img/studentImg/sunjinhao.jpg
     - 
-      name: 金逸凡
+      name: Yifan (金逸凡)
       year: 2020-Now
       inerest:
         - GAN
       photo: img/studentImg/jinyifan.jpg
     - 
-      name: 刘强
+      name: Qiang Liu (刘强)
       year: 2020-Now
       inerest:
         - 3D Reconstruction
       photo: img/studentImg/liuqiang.jpg
+  Undergraduate:
     - 
-      name: 刘家成
+      name: Jia Cheng (刘家成)
       year: 2021-Now
       inerest:
         - CV
@@ -67,22 +71,14 @@ memberData:
         - CV
       photo: img/studentImg/weijiafu.jpg
 paperList:
-  -
-    title: Brain Surface Reconstruction from MRI Images Based on Segmentation Networks Applying Signed Distance Maps
-    authors: Heng Fang, <b>Xi Yang</b>, Taichi Kin, Takeo Igarashi
-    year: 2021
-    pub: ISBI
-    image: img/researchImg/ISBI2021.jpg
-    links:
-      paper: https://arxiv.org/pdf/2104.04291.pdf
-  -
-    title: IntrA: 3D Intracranial Aneurysm Dataset for Deep Learning
-    authors: <b>Xi Yang</b>, Ding Xia, Taichi Kin, and Takeo Igarashi
-    year: 2020
-    pub: CVPR
-    ccf: A
-    image: img/researchImg/CVPR2020.jpg
-    links:
-      code: https://github.com/intra3d2019/IntrA
-      paper: https://arxiv.org/abs/2003.02920
-      data: https://drive.google.com/drive/folders/1yjLdofRRqyklgwFOC0K4r7ee1LPKstPh?usp=sharing
+  # -
+    # title: IntrA: 3D Intracranial Aneurysm Dataset for Deep Learning
+    # authors: <b>Xi Yang</b>, Ding Xia, Taichi Kin, and Takeo Igarashi
+    # year: 2020
+    # pub: CVPR
+    # ccf: A
+    # image: img/researchImg/CVPR2020.jpg
+    # links:
+      # code: https://github.com/intra3d2019/IntrA
+      # paper: https://arxiv.org/abs/2003.02920
+      # data: https://drive.google.com/drive/folders/1yjLdofRRqyklgwFOC0K4r7ee1LPKstPh?usp=sharing
