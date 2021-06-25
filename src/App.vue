@@ -1,7 +1,7 @@
 <template>
   <v-app id="app">
     <v-app-bar id="nav" height="88" app class="justify-space-between">
-      <a href="https://gpxg-lab.vercel.app/">
+      <a href="https://yang-group.github.io/">
         <v-img
           class="logo flex-grow-1 ml-1"
           contain
