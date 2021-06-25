@@ -1,12 +1,12 @@
 <template>
   <v-main class="home">
-    <v-row class="row-con" style="display:flex; justify-content:space-between">
-        <h1>
-          {{welcome}}
-        </h1>
-    </v-row>
     <v-row>
           <Carousel id="carousel" class="car" :imgItem="items" />
+    </v-row>
+    <v-row>
+        <h1 style="font-size:45px">
+          {{welcome}}
+        </h1>
     </v-row>
     <v-row class="briefText">
       <p id="intro" > {{intro}} </p>

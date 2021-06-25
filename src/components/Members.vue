@@ -13,8 +13,7 @@
                 <h2>{{ key }}</h2>
               </v-col>
             </v-row>
-            <v-row :key="index">
-              <!-- {{key}} -->
+            <v-row v-show="value.length != 0" :key="index">
                 <v-col
                   v-for="(stu,idx) in value"
                   :key="`${key}${idx}`"
@@ -26,14 +25,24 @@
                 </v-col>
             </v-row>
           </div>
-          <div class="mt-5" :key="index" v-if="key == 'Collaborators'">
-            <h2>{{ key }}</h2>
-            <p v-for="(collab,idx) in value" :key="`${key}${idx}`" style="line-height:15px">
-              <a :href="collab['homepage']">
-                {{collab['name']}}
-              </a>
-              {{collab['danwei']}}
-            </p>
+          <div :key="index" v-if="key == 'Collaborators'">
+            <v-row>
+              <div class="mt-2 mb-2">
+
+                <h2 class="mb-4">{{ key }}</h2>
+                <p v-for="(collab,idx) in value" :key="`${key}${idx}`" style="line-height:13px">
+                  <a v-if="collab['homepage'] != None" :href="collab['homepage']">
+                    <b>
+                      {{collab['name']}}
+                    </b>
+                  </a>
+                  <b v-else>
+                    {{collab['name']}}
+                  </b>
+                  <i>{{collab['danwei']}}</i>
+                </p>
+              </div>
+            </v-row>
           </div>
         </template>
       </v-container>
@@ -50,7 +59,7 @@ export default {
   },
   data: () => ({
     std_cat: {},
-    cards: ['Master', 'Undergraduate'] // 这里可以加入 Ph.D.以及 Past Members
+    cards: ['Master', 'Undergraduate', 'Ph.D.', 'Past Members'] // 这里可以加入 Ph.D.以及 Past Members
   }),
   mounted () {
     this.std_cat = this.memberData
