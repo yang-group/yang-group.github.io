@@ -36,7 +36,7 @@ npm run lint
 npm run build
 cd dist
 git init
-git add -u
+git add .
 git commit -m 'update pages'
 git push -f git@github.com:yang-group/yang-group.github.io master:gh-pages   
 
