@@ -68,48 +68,60 @@ memberData:
   Collaborators:
     - 
       name: Bojian Wu 
-      danwei: Alibaba DAMO Academy, China.
+      affiliation: Alibaba DAMO Academy, China.
       homepage: https://bojianwu.github.io/
+    -
+      name: Zi Ye
+      affiliation: Alibaba, China.
+      homepage: https://geo.ma.tum.de/en/people/zi-ye.html
+    - 
+      name: Oliver van Kaick
+      affiliation:  Carleton University, Canada.
+      homepage: http://people.scs.carleton.ca/~olivervankaick/
     - 
       name: Tong Zhang
-      danwei: Changchun Institute of Applied Chemeistry Chinese Academy of Sciences, China.
+      affiliation: Changchun Institute of Applied Chemeistry Chinese Academy of Sciences, China.
       homepage: http://xnyang.ciac.jl.cn/members/张通/
-    - 
-      name: Chao Zhang
-      danwei: University of Fukui, Japan.
-      homepage: https://sites.google.com/view/chao-zhang/profile
-    - 
+   - 
       name: Kouichi Konno
-      danwei: Iwate University, Japan.
+      affiliation: Iwate University, Japan.
       homepage: http://gmhost.lk.cis.iwate-u.ac.jp/en/index.html
     - 
       name: Haoran Xie
-      danwei: Japan Advanced Institute of Science and Technology, Japan.
+      affiliation: Japan Advanced Institute of Science and Technology, Japan.
       homepage: http://www.jaist.ac.jp/~xie/
+    -
+      name: Zhao Yan
+      affiliation: Jiangsu University, China.
+      homepage: https://chatyan.github.io/index_en.html
     - 
       name: Yi Zhang
-      danwei: National University of Defense Technology, China.
+      affiliation: National University of Defense Technology, China.
     - 
       name: Takeo Igarashi
-      danwei: The University of Tokyo, Japan.
+      affiliation: The University of Tokyo, Japan.
       homepage: https://www-ui.is.s.u-tokyo.ac.jp/~takeo/
     - 
       name: Taichi Kin
-      danwei: The University of Tokyo, Japan.
+      affiliation: The University of Tokyo, Japan.
       homepage: https://www.u-tokyo.ac.jp/focus/en/people/people003717.html
     - 
       name: Tsukasa Fukusato
-      danwei: The University of Tokyo, Japan.
+      affiliation: The University of Tokyo, Japan.
       homepage: https://sites.google.com/view/tsukasafukusato
     - 
       name: Chiaming Chang
-      danwei: The University of Tokyo, Japan.
+      affiliation: The University of Tokyo, Japan.
     - 
       name: Ding Xia
-      danwei: The University of Tokyo, Japan.
+      affiliation: The University of Tokyo, Japan.
+    - 
+      name: Chao Zhang
+      affiliation: University of Fukui, Japan.
+      homepage: https://sites.google.com/view/chao-zhang/profile
     - 
       name: Zhizhong Han
-      danwei: Wayne State University, USA.
+      affiliation: Wayne State University, USA.
       homepage: https://h312h.github.io/
 paperList:
   -
