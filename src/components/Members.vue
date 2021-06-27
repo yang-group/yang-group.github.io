@@ -39,7 +39,7 @@
                   <b v-else>
                     {{collab['name']}}
                   </b>
-                  <i>{{collab['danwei']}}</i>
+                  <i>{{collab['affiliation']}}</i>
                 </p>
               </div>
             </v-row>
