@@ -34,10 +34,12 @@ npm run lint
 ### 发布
 ```
 npm run build
-git add -u
-git commit -m 'some tips'
-git push origin dev
-git subtree push --prefix dist origin gh-pages
+cd dist
+git init
+git add .
+git commit -m 'update pages'
+git push -f git@github.com:yang-group/yang-group.github.io master:gh-pages   
+
 ```
 
 ### Customize configuration
