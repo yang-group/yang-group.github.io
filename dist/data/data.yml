@@ -3,6 +3,7 @@ intro:  We are the Interdisciplinary Intelligent Graphics Group (IIGG) based in 
 welcome: Welcome To JLU SAI IIGG!
 imgItems:
   - img/researchImg/CVPR2020.jpg
+  - img/researchImg/arxiv2021_tc.jpg
 recentNews:
   - 
     date: 2021.06.24
@@ -126,10 +127,18 @@ memberData:
       homepage: https://h312h.github.io/
 paperList:
   -
+    title: Part2Word: Learning Joint Embedding of Point Clouds and Text by Matching Parts to Words
+    authors: Chuan Tang, <b>Xi Yang</b>, Bojian Wu, Zhizhong Han, Yi Chang
+    year: 2021
+    pub: arXiv
+    image: img/researchImg/arxiv2021_tc.jpg
+    links:
+      paper: https://arxiv.org/abs/2107.01872
+  -
     title: IntrA: 3D Intracranial Aneurysm Dataset for Deep Learning
     authors: <b>Xi Yang</b>, Ding Xia, Taichi Kin, and Takeo Igarashi
     year: 2020
-    pub: CVPR
+    pub: CVPR (Oral)
     image: img/researchImg/CVPR2020.jpg
     links:
       code: https://github.com/intra3d2019/IntrA

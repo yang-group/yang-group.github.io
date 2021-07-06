@@ -19,7 +19,8 @@
           <i v-html="paper.authors"></i>
         </div>
         <div>
-          <b style="color:red">{{ paper.pub }} {{ paper.year }}</b>
+          <b v-html="paper.pub"></b>
+          <span> {{ paper.year }} </span>
         </div>
         <div>
           <span v-show="paper.links.paper != null">
