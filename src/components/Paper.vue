@@ -53,7 +53,7 @@
   </div>
 </template>
 <script>
-// { "title": "IntrA: 3D Intracranial Aneurysm Dataset for Deep Learning", "authors": "<b>Xi Yang</b>, Ding Xia, Taichi Kin, and Takeo Igarashi", "year": "2020", "pub": "CVPR", "ccf": "A", "image": "https://keepthinkingyx.github.io/Xi-Yang/pic/paperfinal.jpg", "links": { "code": "https://github.com/intra3d2019/IntrA", "paper": "https://arxiv.org/abs/2003.02920", "data": "https://drive.google.com/drive/folders/1yjLdofRRqyklgwFOC0K4r7ee1LPKstPh?usp=sharing" } }
+// { "title": "IntrA: 3D Intracranial Aneurysm Dataset for Deep Learning", "authors": "Xi Yang, Ding Xia, Taichi Kin, and Takeo Igarashi", "pub": "CVPR", "year": "2020", "ccf": "A", "image": "https://keepthinkingyx.github.io/Xi-Yang/pic/paperfinal.jpg", "links": { "code": "https://github.com/intra3d2019/IntrA", "paper": "https://arxiv.org/abs/2003.02920", "data": "https://drive.google.com/drive/folders/1yjLdofRRqyklgwFOC0K4r7ee1LPKstPh?usp=sharing" } }
 export default {
   props: {
     paper: {
