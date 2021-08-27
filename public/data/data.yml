@@ -128,7 +128,7 @@ memberData:
 paperList:
   -
     title: Part2Word: Learning Joint Embedding of Point Clouds and Text by Matching Parts to Words
-    authors: Chuan Tang, <b>Xi Yang</b>, Bojian Wu, Zhizhong Han, Yi Chang
+    authors: Chuan Tang, Xi Yang, Bojian Wu, Zhizhong Han, Yi Chang
     year: 2021
     pub: arXiv
     image: img/researchImg/arxiv2021_tc.jpg
