@@ -144,3 +144,11 @@ paperList:
       code: https://github.com/intra3d2019/IntrA
       paper: https://arxiv.org/abs/2003.02920
       data: https://drive.google.com/drive/folders/1yjLdofRRqyklgwFOC0K4r7ee1LPKstPh?usp=sharing
+  -
+    title: Learning English to Chinese Character Calligraphic Art Production based on Transformer
+    authors: Yifan Jin, Yi Zhang, Xi Yang
+    year: 2021
+    pub: SIGGRAPH Asia
+    image: img/researchImg/SIGGRAPH_Asia2021.jpg
+    links:
+      paper: 
