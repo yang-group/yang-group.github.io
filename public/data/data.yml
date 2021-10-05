@@ -5,6 +5,9 @@ imgItems:
   - img/researchImg/CVPR2020.jpg
   - img/researchImg/arxiv2021_tc.jpg
 recentNews:
+ - 
+    date: 2021.09.28
+    content: Our paper "Learning English to Chinese Character:Calligraphic Art Production based on Transformer" is accepted by SIGGRAPH ASIA 2021 Posters.
   - 
     date: 2021.06.24
     content: Our web page is ready! 
@@ -126,7 +129,7 @@ memberData:
       homepage: https://h312h.github.io/
 paperList:
   -
-    title: Learning English to Chinese Character Calligraphic Art Production based on Transformer
+    title: Learning English to Chinese Character: Calligraphic Art Production based on Transformer
     authors: Yifan Jin, Yi Zhang, Xi Yang
     year: 2021
     pub: SIGGRAPH Asia
