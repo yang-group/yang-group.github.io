@@ -45,7 +45,6 @@ memberData:
       inerest:
         - 3D Reconstruction
       photo: img/studentImg/liuqiang.jpg
-  Undergraduate:
     - 
       name: Jia Cheng (刘家成)
       year: 2021-Now
@@ -127,6 +126,14 @@ memberData:
       homepage: https://h312h.github.io/
 paperList:
   -
+    title: Learning English to Chinese Character Calligraphic Art Production based on Transformer
+    authors: Yifan Jin, Yi Zhang, Xi Yang
+    year: 2021
+    pub: SIGGRAPH Asia
+    image: img/researchImg/SIGGRAPH_Asia2021.jpg
+    links:
+      paper: 
+  -
     title: Part2Word: Learning Joint Embedding of Point Clouds and Text by Matching Parts to Words
     authors: Chuan Tang, Xi Yang, Bojian Wu, Zhizhong Han, Yi Chang
     year: 2021
@@ -144,11 +151,4 @@ paperList:
       code: https://github.com/intra3d2019/IntrA
       paper: https://arxiv.org/abs/2003.02920
       data: https://drive.google.com/drive/folders/1yjLdofRRqyklgwFOC0K4r7ee1LPKstPh?usp=sharing
-  -
-    title: Learning English to Chinese Character Calligraphic Art Production based on Transformer
-    authors: Yifan Jin, Yi Zhang, Xi Yang
-    year: 2021
-    pub: SIGGRAPH Asia
-    image: img/researchImg/SIGGRAPH_Asia2021.jpg
-    links:
-      paper: 
+
