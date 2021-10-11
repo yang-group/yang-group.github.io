@@ -66,6 +66,19 @@ memberData:
       inerest:
         - CV
       photo: img/studentImg/weijiafu.jpg
+  Undergraduate:
+    - 
+      name: Tang Yi(唐艺)
+      year: 2021-Now
+      inerest:
+        - CV
+      photo: img/studentImg/tangyi.jpg
+      - 
+      name: Hong Lin(庞宏林)
+      year: 2021-Now
+      inerest:
+        - CV
+      photo: img/studentImg/panghonglin.jpg
   Past Members:
     -
   Collaborators:
