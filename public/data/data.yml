@@ -66,8 +66,19 @@ memberData:
       inerest:
         - CV
       photo: img/studentImg/weijiafu.jpg
-  Past Members:
-    -
+  Undergraduate:
+    - 
+      name: Hong Lin(庞宏林)
+      year: 2021-Now
+      inerest:
+        - CV
+      photo: img/studentImg/panghonglin.jpg
+    - 
+      name: Tang Yi(唐艺)
+      year: 2021-Now
+      inerest:
+        - CV
+      photo: img/studentImg/tangyi.jpg
   Collaborators:
     - 
       name: Bojian Wu 
