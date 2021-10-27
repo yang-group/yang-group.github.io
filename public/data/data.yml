@@ -66,6 +66,12 @@ memberData:
       inerest:
         - CV
       photo: img/studentImg/weijiafu.jpg
+    - 
+      name: Xin Ran(付新然)
+      year: 2021-Now
+      inerest:
+        - CV
+      photo: img/studentImg/fuxinran.jpg
   Undergraduate:
     - 
       name: Hong Lin(庞宏林)
