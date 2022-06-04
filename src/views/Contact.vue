@@ -1,5 +1,5 @@
 <template>
-  <v-main>
+  <v-main class="contactPage">
     <v-card flat>
       <v-row>
           <v-col>
@@ -23,3 +23,9 @@
 export default {
 }
 </script>
+<style lang="css" scoped>
+.contactPage{
+  max-width: 1185px;
+  margin: auto;
+}
+</style>

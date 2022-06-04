@@ -47,6 +47,14 @@
               </v-icon>
             </v-btn>
           </span>
+          <span v-show="paper.links.vedio != null">
+            <v-btn class="ma-1" color="red lighten-2" dark :href="paper.links.vedio">
+              vedio
+              <v-icon right>
+                mdi-attachment
+              </v-icon>
+            </v-btn>
+          </span>
         </div>
       </v-col>
     </v-row>

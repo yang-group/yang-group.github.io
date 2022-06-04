@@ -1,11 +1,11 @@
 <template>
   <div>
-    <v-card class="mx-auto" max-width="400">
+    <v-card class="mx-auto" max-width="400" min-height="430">
       <v-img class="white--text align-end" height="250px" :src="stu.photo">
       </v-img>
 
       <v-card-subtitle class="pb-0">
-        <h3> {{ stu.name }} </h3>
+        <h3 style="min-height:88px"> {{ stu.name }} </h3>
         <p>Year: {{ stu.year }}</p>
         <p>
           <i v-show="stu.email != null" class="mr-2">
@@ -31,7 +31,7 @@
         </p>
       </v-card-subtitle>
 
-      <v-card-text class="text--primary">
+      <!-- <v-card-text class="text--primary">
         <v-chip-group column mandatory>
           <v-chip
             small
@@ -44,7 +44,7 @@
             {{ i }}
           </v-chip>
         </v-chip-group>
-      </v-card-text>
+      </v-card-text> -->
     </v-card>
   </div>
 </template>

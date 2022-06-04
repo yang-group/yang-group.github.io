@@ -1,5 +1,5 @@
 <template>
-  <v-main>
+  <v-main class="peoplePage">
     <Leader/>
     <Members :memberData="memberData" />
   </v-main>
@@ -23,3 +23,9 @@ export default {
   })
 }
 </script>
+<style lang="css" scoped>
+.peoplePage{
+  max-width: 1185px;
+  margin: auto;
+}
+</style>

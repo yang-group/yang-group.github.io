@@ -25,4 +25,11 @@ export default {
     papers: jsondata.paperList
   })
 }
+
 </script>
+<style lang="css" scoped>
+.publication{
+  max-width: 1185px;
+  margin: auto;
+}
+</style>
