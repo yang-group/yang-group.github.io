@@ -8,6 +8,12 @@ imgItems:
   - img/researchImg/ijcai_demo_2022.jpg
 recentNews:
   -
+    date: 2022.09.08
+    content: Our group received project support from the Young Scientists Fund of the National Natural Science Foundation of China. 
+  -
+    date: 2022.09.06
+    content: Four students received three-month internship support at the University of Tokyo. 
+  -
     date: 2022.04.17
     content: Our paper "Fine-tuning Deep Neural Networks by Interactively Refining the 2D Latent Space of Ambiguous Images" is accepted by IJCAI 2022 Demonstrations, the paper acceptance rate is 26%.
   -
@@ -26,13 +32,6 @@ memberData:
         - CV
       photo: img/studentImg/zhourixin.jpeg
   Master:
-    -
-      name: Yi He (何毅) Co-supervised with Prof. Xie, JAIST.
-      year: 2021-Now
-      email: s2010035@jaist.ac.jp
-      inerest:
-        - User Interface
-      photo: img/studentImg/heyi.jpg
     -
       name: Chuan Tang (唐川) Co-supervised with Prof. Chang, JLU.
       year: 2020-Now
@@ -90,7 +89,6 @@ memberData:
       inerest:
         - CV
       photo: img/studentImg/fuxinran.jpg
-  Undergraduate:
     -
       name: Hong Lin(庞宏林)
       year: 2021-Now
@@ -112,6 +110,14 @@ memberData:
       inerest:
         - CV
       photo: img/studentImg/lizhaokang.jpg
+  Past Members:
+    -
+      name: Yi He (何毅) Co-supervised with Prof. Xie, JAIST.
+      year: 2021-Now
+      email: s2010035@jaist.ac.jp
+      inerest:
+        - User Interface
+      photo: img/studentImg/heyi.jpg
   Collaborators:
     -
       name: Bojian Wu
