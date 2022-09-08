@@ -113,11 +113,11 @@ memberData:
   Past Members:
     -
       name: Yi He (何毅) Co-supervised with Prof. Xie, JAIST.
-      year: 2021-Now
-      email: s2010035@jaist.ac.jp
-      inerest:
-        - User Interface
-      photo: img/studentImg/heyi.jpg
+      year: 2021-2022
+      # email: s2010035@jaist.ac.jp
+      # inerest:
+      #   - User Interface
+      # photo: img/studentImg/heyi.jpg
   Collaborators:
     -
       name: Bojian Wu

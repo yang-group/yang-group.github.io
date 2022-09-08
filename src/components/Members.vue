@@ -25,6 +25,26 @@
                 </v-col>
             </v-row>
           </div>
+          <div :key="index" v-if="key == 'Past Members'">
+            <v-row>
+              <div class="mt-2 mb-2">
+
+                <h2 class="mb-4">{{ key }}</h2>
+                <p v-for="(pastlab,idx) in value" :key="`${key}${idx}`" style="line-height:13px; ">
+                  <a v-if="pastlab['homepage'] != None" :href="pastlab['homepage']">
+                    <b>
+                      {{pastlab['name']}}
+                    </b>
+                  </a>
+                  <b v-else>
+                    {{pastlab['name']}}
+                  </b>
+                  <span>{{pastlab['year']}}</span>
+                  <!-- <i>{{pastlab['affiliation']}}</i> -->
+                </p>
+              </div>
+            </v-row>
+          </div>
           <div :key="index" v-if="key == 'Collaborators'">
             <v-row>
               <div class="mt-2 mb-2">
@@ -59,7 +79,7 @@ export default {
   },
   data: () => ({
     std_cat: {},
-    cards: ['Master', 'Undergraduate', 'Ph.D.', 'Past Members'] // 这里可以加入 Ph.D.以及 Past Members
+    cards: ['Master', 'Undergraduate', 'Ph.D.'] // 这里可以加入 Ph.D.以及 Past Members
   }),
   mounted () {
     this.std_cat = this.memberData
