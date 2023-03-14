@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>Efficient Human-in-the-loop System for Guiding DNNs Attention</title>
+</head>
+
+<body style="width: 78%; margin-left: 10%; margin-right: 10%;">
+    <header>
+        <h1 style="text-align: center;"><img src="assets/iui_logo.png" alt="" /><br />
+                Efficient Human-in-the-loop System for Guiding DNNs Attention<br />
+        </h1>
+        <h3 style="text-align: center;">
+           Yi He&ensp;&ensp;&ensp;
+                <a href="https://keepthinkingyx.github.io/Xi-Yang/" target="_blank" style="color:black;">Xi Yang</a>&ensp;&ensp;&ensp;
+                <a href="http://chiamingchang.com/" target="_blank" style="color:black;">Chia-Ming Chang</a>&ensp;&ensp;&ensp;
+                <a href="http://www.jaist.ac.jp/~xie/" target="_blank" style="color:black;">Haoran Xie</a>&ensp;&ensp;&ensp;
+                <a href="https://www-ui.is.s.u-tokyo.ac.jp/~takeo/" target="_blank" style="color:black;">Takeo Igarashi</a><br /><br />
+                <img src="assets/jaist_logo.png" height="40" alt="" />&ensp;&ensp;<img
+                    src="assets/jilin_logo.png" height="44" alt="" />&ensp;&ensp;<img
+                    src="assets/utokyo_logo.png" height="40" alt="" /></h3>
+    </header>
+    <div style="vertical-align: auto; margin: 10px;">
+        <div style="text-align: center;">
+            <img src="assets/teaser.png" width="80%" />
+        </div>
+
+        <div style="font-family:Arial, Helvetica, sans-serif; text-align: justify;">
+            <h4 style="text-align: center;">Abstract</h4>
+            <p>Attention guidance is used to address dataset bias in deep learning, where the model relies on incorrect features to make decisions. Focusing on image classification tasks, we propose an efficient human-in-the-loop system to interactively direct the attention of classifiers to regions specified by users, thereby reducing the effect of co-occurrence bias and improving the transferability and interpretability of a deep neural network (DNN). Previous approaches for attention guidance require the preparation of pixel-level annotations and are not designed as interactive systems. We herein present a new interactive method that allows users to annotate images via simple clicks. Additionally, we identify a novel active learning strategy that can significantly reduce the number of annotations. We conduct both numerical evaluations and a user study to evaluate the proposed system using multiple datasets. Compared
+            with the existing non-active-learning approach, which typically relies on considerable amounts of polygon-based segmentation masks to fine-tune or train the DNNs, our system can obtain fine-tuned networks on biased datasets in a more time- and cost-efficient manner and offers a more user-friendly experience. Our experimental results show that the proposed system is efficient, reasonable, and reliable. Our code is publicly available at <a href="https://github.com/ultratykis/Guiding-DNNs-Attention">here</a>.</p>
+        </div>
+        <div style="text-align: center;">
+            <h4 style="text-align: center;">Video</h4>
+            <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/2MD-z6vXKJ4" title="YouTube video player"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen></iframe>
+        </div>
+    </div>
+    <div style="font-family:Arial, Helvetica, sans-serif; text-align: justify;">
+        <h4 style="text-align: center;">Publication</h4>
+        <p>Yi He, Xi Yang, Chia-Ming Chang, Haoran Xie, and Takeo Igarashi. 2023. Efficient Human-in-the-loop System for Guiding DNNs Attention. The 28th Annual Conference on Intelligent User Interface (IUI 2023), Sydney, Australia, 27-31 March 2023.</p>
+    </div>
+</body>
+
+</html>

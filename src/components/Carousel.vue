@@ -16,6 +16,68 @@
       </v-sheet>
     </v-carousel-item> -->
     <v-carousel-item>
+      <v-sheet color="#F2F4FA" height="100%">
+          <img :src="imgItem[8]" class="carousel-img" id="carousel-img4">
+          <div class="carousel-text-even">
+            <h1 class="carousel-text-title font-color-thin" style="font-size:28px">SyncLabeling: A Synchronized Audio Segmentation Interface for Mobile Devices</h1>
+            <div class="carousel-text-content font-color-thin">Yi Tang, Chia-Ming Chang, Xi Yang, Takeo Igarashi</div>
+          </div>
+      </v-sheet>
+    </v-carousel-item>
+    <v-carousel-item>
+      <v-sheet color="#4582B4" height="100%">
+          <img :src="imgItem[6]" class="carousel-img" id="carousel-img3" style="margin-left: 5%">
+          <div class="carousel-text-odd">
+            <h1 class="carousel-text-title font-color-strong">Multi-Granularity Archaeological Dating of Chinese Bronze Dings Based on a Knowledge-Guided Relation Graph</h1>
+            <div class="carousel-text-content font-color-strong-content">Rixin Zhou, Wei Jiafu, Qian Zhang, Qi Ruihua, Xi Yang, Chuntao Li</div>
+          </div>
+      </v-sheet>
+    </v-carousel-item>
+    <v-carousel-item>
+      <v-sheet color="#F2F4FA" height="100%">
+          <img :src="imgItem[7]" class="carousel-img" id="carousel-img4">
+          <div class="carousel-text-even">
+            <h1 class="carousel-text-title font-color-thin" style="font-size:28px">Learning Joint Embedding of Point Clouds and Texts by Bidirectional Matching between Parts and Words</h1>
+            <div class="carousel-text-content font-color-thin">Chuan Tang, Xi Yang, Bojian Wu, Zhizhong Han, Yi Chang</div>
+          </div>
+      </v-sheet>
+    </v-carousel-item>
+    <v-carousel-item>
+      <v-sheet color="#4582B4" height="100%">
+          <img :src="imgItem[5]" class="carousel-img" id="carousel-img4" style="height:95%; margin-left: 15%; margin-top: 3%;">
+          <div class="carousel-text-odd">
+            <h1 class="carousel-text-title font-color-strong" style="font-size:28px">Four students received three-month internship support at the University of Tokyo. </h1>
+          </div>
+      </v-sheet>
+    </v-carousel-item>
+    <v-carousel-item>
+      <v-sheet color="#F2F4FA" height="100%">
+          <img :src="imgItem[4]" class="carousel-img" id="carousel-img4">
+          <div class="carousel-text-even">
+            <h1 class="carousel-text-title font-color-thin" style="font-size:28px">Efficient Human-in-the-loop System for Guiding DNNs Attention</h1>
+            <div class="carousel-text-content font-color-thin">Yi He, Xi Yang, Chia-Ming Chang, Haoran Xie, Takeo Igarashi</div>
+            <v-btn class="ma-2 btn-even  btn-mt-large ml-16" color="rgba(0,0,0,0)" height="40" :href="papers[0].links.paper">
+              paper
+              <v-icon right>
+                mdi-attachment
+              </v-icon>
+            </v-btn>
+            <v-btn class="ma-2 btn-even btn-mt-large" color="rgba(0,0,0,0)"  height="40" :href="papers[0].links.code">
+              code
+              <v-icon right>
+                mdi-github
+              </v-icon>
+            </v-btn>
+            <v-btn class="ma-2 btn-even btn-mt-large" color="rgba(0,0,0,0)" height="40" :href="papers[0].links.vedio">
+            vedio
+              <v-icon right>
+                mdi-attachment
+              </v-icon>
+            </v-btn>
+          </div>
+      </v-sheet>
+    </v-carousel-item>
+    <!-- <v-carousel-item>
       <v-sheet color="#4582B4" height="100%">
           <img :src="imgItem[0]" class="carousel-img" id="carousel-img1" ref="carousel-img1">
           <div class="carousel-text-odd">
@@ -23,19 +85,19 @@
             <div class="carousel-text-content font-color-strong-content">
               Xi Yang, Ding Xia, Taichi Kin, and Takeo Igarashi
             </div>
-            <v-btn class="ma-1 btn-odd btn-mt-large ml-16" color="rgba(0,0,0,0)" :href="papers[3].links.paper">
+            <v-btn class="ma-1 btn-odd btn-mt-large ml-16" color="rgba(0,0,0,0)" :href="papers[5].links.paper">
               paper
               <v-icon right>
                 mdi-attachment
               </v-icon>
             </v-btn>
-            <v-btn class="ma-1 btn-odd btn-mt-large" color="rgba(0,0,0,0)" dark :href="papers[3].links.code">
+            <v-btn class="ma-1 btn-odd btn-mt-large" color="rgba(0,0,0,0)" dark :href="papers[5].links.code">
               code
               <v-icon right>
                 mdi-github
               </v-icon>
             </v-btn>
-            <v-btn class="ma-1 btn-odd btn-mt-large" color="rgba(0,0,0,0)" dark :href="papers[3].links.data">
+            <v-btn class="ma-1 btn-odd btn-mt-large" color="rgba(0,0,0,0)" dark :href="papers[5].links.data">
               data
               <v-icon right>
                 mdi-database
@@ -43,8 +105,8 @@
             </v-btn>
           </div>
       </v-sheet>
-    </v-carousel-item>
-    <v-carousel-item>
+    </v-carousel-item> -->
+    <!-- <v-carousel-item>
       <v-sheet color="#F2F4FA" height="100%">
           <img :src="imgItem[1]" class="carousel-img" id="carousel-img2">
           <div class="carousel-text-even">
@@ -52,7 +114,7 @@
             <div class="carousel-text-content font-color-thin">
               Chuan Tang, Xi Yang, Bojian Wu, Zhizhong Han, Yi Chang
             </div>
-            <v-btn class="btn-even btn-ml  btn-mt" color="rgba(0,0,0,0)" width="130" height="40" :href="papers[2].links.paper">
+            <v-btn class="btn-even btn-ml  btn-mt" color="rgba(0,0,0,0)" width="130" height="40" :href="papers[4].links.paper">
               paper
               <v-icon right>
                 mdi-attachment
@@ -60,8 +122,8 @@
             </v-btn>
           </div>
       </v-sheet>
-    </v-carousel-item>
-    <v-carousel-item>
+    </v-carousel-item> -->
+    <!-- <v-carousel-item>
       <v-sheet color="#4582B4" height="100%">
           <img :src="imgItem[2]" class="carousel-img" id="carousel-img3">
           <div class="carousel-text-odd">
@@ -69,14 +131,14 @@
             <div class="carousel-text-content font-color-strong-content">Yifan Jin, Yi Zhang, Xi Yang</div>
           </div>
       </v-sheet>
-    </v-carousel-item>
+    </v-carousel-item> -->
     <v-carousel-item>
       <v-sheet color="#F2F4FA" height="100%">
           <img :src="imgItem[3]" class="carousel-img" id="carousel-img4">
           <div class="carousel-text-even">
             <h1 class="carousel-text-title font-color-thin" style="font-size:28px">Fine-tuning Deep Neural Networks by Interactively Refining the 2D Latent Space of Ambiguous Images</h1>
             <div class="carousel-text-content font-color-thin">Jiafu Wei, Haoran Xie, Chia-Ming Chang, Xi Yang</div>
-            <v-btn class="btn-even btn-ml btn-mt" color="rgba(0,0,0,0)" width="130" height="40" :href="papers[0].links.vedio">
+            <v-btn class="btn-even btn-ml btn-mt" color="rgba(0,0,0,0)" width="130" height="40" :href="papers[2].links.vedio">
             vedio
               <v-icon right>
                 mdi-attachment

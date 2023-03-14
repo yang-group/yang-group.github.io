@@ -49,6 +49,22 @@ const routes = [
     // this generates a separate chunk (about.[hash].js) for this route
     // which is lazy-loaded when the route is visited.
     component: () => import(/* webpackChunkName: "about" */ '../views/Contact.vue')
+  },
+  {
+    path: '/ProjectPageIUI2023',
+    name: 'ProjectPageIUI2023',
+    // route level code-splitting
+    // this generates a separate chunk (about.[hash].js) for this route
+    // which is lazy-loaded when the route is visited.
+    component: () => import(/* webpackChunkName: "about" */ '../views/projectpage/ProjectPageIUI2023.vue')
+  },
+  {
+    path: '/ProjectPageMobileHCI2023',
+    name: 'ProjectPageMobileHCI2023',
+    // route level code-splitting
+    // this generates a separate chunk (about.[hash].js) for this route
+    // which is lazy-loaded when the route is visited.
+    component: () => import(/* webpackChunkName: "about" */ '../views/projectpage/ProjectPageMobileHCI2023.vue')
   }
 
 ]

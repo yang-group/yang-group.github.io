@@ -10,7 +10,7 @@
                 cols="12"
                 v-show="value.length != 0"
               >
-                <h2>{{ key }}</h2>
+                <h1>{{ key }}</h1>
               </v-col>
             </v-row>
             <v-row v-show="value.length != 0" :key="index">
@@ -29,7 +29,7 @@
             <v-row>
               <div class="mt-2 mb-2">
 
-                <h2 class="mb-4">{{ key }}</h2>
+                <h1 class="mb-4">{{ key }}</h1>
                 <p v-for="(pastlab,idx) in value" :key="`${key}${idx}`" style="line-height:13px; ">
                   <a v-if="pastlab['homepage'] != None" :href="pastlab['homepage']">
                     <b>
@@ -49,7 +49,7 @@
             <v-row>
               <div class="mt-2 mb-2">
 
-                <h2 class="mb-4">{{ key }}</h2>
+                <h1 class="mb-4">{{ key }}</h1>
                 <p v-for="(collab,idx) in value" :key="`${key}${idx}`" style="line-height:13px">
                   <a v-if="collab['homepage'] != None" :href="collab['homepage']">
                     <b>

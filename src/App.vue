@@ -20,7 +20,7 @@
         </v-tab>
         <v-tab to="/people">
           <strong>
-            People
+            Member
           </strong>
         </v-tab>
         <!-- <v-tab to="/research">

@@ -6,7 +6,18 @@ imgItems:
   - img/researchImg/arxiv2021_tc.jpg
   - img/researchImg/SIGGRAPH_Asia2021.jpg
   - img/researchImg/ijcai_demo_2022.jpg
+  - img/researchImg/IUI2023.png
+  - img/researchImg/Tokyo.jpeg
+  - img/researchImg/CVPR2023_zhourixin.png
+  - img/researchImg/CVPR2023_tangchuan.png
+  - img/researchImg/MobileHCI2023.png
 recentNews:
+  -
+    date: 2023.02.28
+    content: Our work “Multi-Granularity Archaeological Dating of Chinese Bronze Dings Based on a Knowledge-Guided Relation Graph” and “Parts2Words: Learning Joint Embedding of Point Clouds and Texts by Bidirectional Matching between Parts and Words” will be presented at CVPR 2023. 
+  -
+    date: 2023.02.02
+    content: Our paper "Efficient Human-in-the-loop System for Guiding DNNs Attention" is accepted by IUI 2023, acceptance rate is 24%. 
   -
     date: 2022.09.08
     content: Our group received project support from the Young Scientists Fund of the National Natural Science Foundation of China. 
@@ -26,7 +37,7 @@ memberData:
   Ph.D.:
     -
       name: Rixin Zhou(周日鑫)
-      year: 2021-Now
+      year: 2021
       email: 757838685@qq.com
       inerest:
         - CV
@@ -34,7 +45,7 @@ memberData:
   Master:
     -
       name: Chuan Tang (唐川) Co-supervised with Prof. Chang, JLU.
-      year: 2020-Now
+      year: 2020
       email: tangchuan20@mails.jlu.edu.cn
       inerest:
         - 3D Deep Learning
@@ -42,74 +53,89 @@ memberData:
       photo: img/studentImg/tangchuan.jpg
     -
       name: Jinhao Sun (孙金浩)
-      year: 2020-Now
+      year: 2020
       email: sunjh20@mails.jlu.edu.cn
       inerest:
         - CV
       photo: img/studentImg/sunjinhao.jpg
     -
       name: Yifan (金逸凡)
-      year: 2020-Now
+      year: 2020
       email: 912250098@qq.com
       inerest:
         - GAN
       photo: img/studentImg/jinyifan.jpg
     -
       name: Qiang Liu (刘强)
-      year: 2020-Now
+      year: 2020
       email: liuqiang5799@163.com
       inerest:
         - 3D Reconstruction
       photo: img/studentImg/liuqiang.jpg
     -
       name: Jia Cheng (刘家成)
-      year: 2021-Now
+      year: 2021
       email: liuliujch@163.com
       inerest:
         - CV
       photo: img/studentImg/liujiacheng.jpg
     -
       name: Ai Yang(艾阳)
-      year: 2021-Now
+      year: 2021
       email: aiyangjlu21@gmail.com
       inerest:
         - CV
       photo: img/studentImg/aiyang.jpeg
     -
       name: Jia Fu(魏家富)
-      year: 2021-Now
+      year: 2021
       email: weijf21@mails.jlu.edu.cn
       inerest:
         - CV
       photo: img/studentImg/weijiafu.jpg
     -
       name: Xin Ran(付新然)
-      year: 2021-Now
+      year: 2021
       email: 13654311403@163.com
       inerest:
         - CV
       photo: img/studentImg/fuxinran.jpg
     -
       name: Hong Lin(庞宏林)
-      year: 2021-Now
+      year: 2021
       email: panghlwork@gmail.com
       inerest:
         - CV
       photo: img/studentImg/panghonglin.jpg
     -
       name: Tang Yi(唐艺)
-      year: 2021-Now
+      year: 2021
       email: tangyi2118@mails.jlu.edu.cn
       inerest:
         - CV
       photo: img/studentImg/tangyi.jpg
     -
       name: Li Zhaokang(李炤慷)
-      year: 2022-Now
+      year: 2022
       email: 2521960449@qq.com
       inerest:
         - CV
       photo: img/studentImg/lizhaokang.jpg
+  Undergraduate:
+    -
+      name: Xi Wang(王茜)
+      year: 2023
+      email: meao_wangxi@163.com
+      inerest:
+        - CV
+      photo: img/studentImg/wangxi.jpeg
+    -
+      name: Ye Tao(陶也)
+      year: 2023
+      email: taoye06282001@163.com
+      inerest:
+        - CV
+      photo: img/studentImg/taoye.jpeg
   Past Members:
     -
       name: Yi He (何毅) Co-supervised with Prof. Xie, JAIST.
@@ -179,6 +205,52 @@ memberData:
       homepage: https://h312h.github.io/
 paperList:
   -
+    title: SyncLabeling: A Synchronized Audio Segmentation Interface for Mobile Devices
+    authors: Yi Tang, Chia-Ming Chang, Xi Yang, Takeo Igarashi
+    year: 2023
+    pub: MobileHCI 
+    image: img/researchImg/MobileHCI2023.png
+    links:
+      paper: 
+      projectlink: projectpage/MobileHCI2023/index.html
+      toproject: /ProjectPageMobileHCI2023
+  -
+    title: Multi-Granularity Archaeological Dating of Chinese Bronze Dings Based on a Knowledge-Guided Relation Graph
+    authors: Rixin Zhou, Wei Jiafu, Qian Zhang, Qi Ruihua, Xi Yang, Chuntao Li
+    year: 2023
+    pub: CVPR 
+    image: img/researchImg/CVPR2023_zhourixin.png
+    links:
+      paper: 
+  -
+    title: Parts2Words: Learning Joint Embedding of Point Clouds and Texts by Bidirectional Matching between Parts and Words (v2)
+    authors: Chuan Tang, Xi Yang, Bojian Wu, Zhizhong Han, Yi Chang
+    year: 2023
+    pub: CVPR 
+    image: img/researchImg/CVPR2023_tangchuan.png
+    links:
+      paper: 
+  -
+    title: Efficient Human-in-the-loop System for Guiding DNNs Attention
+    authors: Yi He, Xi Yang, Chia-Ming Chang, Haoran Xie, and Takeo Igarashi
+    year: 2023
+    pub: IUI
+    image: img/researchImg/IUI2023.png
+    links: 
+      paper: https://arxiv.org/abs/2206.05981
+      code: https://github.com/ultratykis/Guiding-DNNs-Attention
+      vedio: https://www.bilibili.com/video/BV1YR4y18744/?vd_source=c9d0b51620e8cf77cc37d57e3b17cee5
+      projectlink: projectpage/IUI2023/index.html
+      toproject: /ProjectPageIUI2023
+  -
+    title: SpaceEditing: Integrating Human Knowledge into Deep Neural Networks via Interactive Latent Space Editing
+    authors: Jiafu Wei, Ding Xia, Haoran Xie, Chia-Ming Chang, Chuntao Li, and Xi Yang
+    year: 2022
+    pub: arXiv
+    image: img/researchImg/SpaceEditing.png
+    links: 
+      paper: https://arxiv.org/abs/2212.04065
+  -
     title: Fine-tuning Deep Neural Networks by Interactively Refining the 2D Latent Space of Ambiguous Images
     authors: Jiafu Wei, Haoran Xie, Chia-Ming Chang, Xi Yang
     year: 2022, Demos
@@ -196,7 +268,7 @@ paperList:
     links:
       paper: 
   -
-    title: Part2Word: Learning Joint Embedding of Point Clouds and Text by Matching Parts to Words
+    title: Part2Word: Learning Joint Embedding of Point Clouds and Text by Matching Parts to Words (v1)
     authors: Chuan Tang, Xi Yang, Bojian Wu, Zhizhong Han, Yi Chang
     year: 2021
     pub: arXiv
