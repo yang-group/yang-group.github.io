@@ -11,6 +11,7 @@ imgItems:
   - img/researchImg/CVPR2023_zhourixin.png
   - img/researchImg/CVPR2023_tangchuan.png
   - img/researchImg/MobileHCI2023.png
+  - img/researchImg/CVPR2023_tangchuan.gif
 recentNews:
   -
     date: 2023.02.28
@@ -205,16 +206,6 @@ memberData:
       homepage: https://h312h.github.io/
 paperList:
   -
-    title: SyncLabeling: A Synchronized Audio Segmentation Interface for Mobile Devices
-    authors: Yi Tang, Chia-Ming Chang, Xi Yang, Takeo Igarashi
-    year: 2023
-    pub: MobileHCI 
-    image: img/researchImg/MobileHCI2023.png
-    links:
-      paper: 
-      projectlink: projectpage/MobileHCI2023/index.html
-      toproject: /ProjectPageMobileHCI2023
-  -
     title: Multi-Granularity Archaeological Dating of Chinese Bronze Dings Based on a Knowledge-Guided Relation Graph
     authors: Rixin Zhou, Wei Jiafu, Qian Zhang, Qi Ruihua, Xi Yang, Chuntao Li
     year: 2023
@@ -227,9 +218,20 @@ paperList:
     authors: Chuan Tang, Xi Yang, Bojian Wu, Zhizhong Han, Yi Chang
     year: 2023
     pub: CVPR 
-    image: img/researchImg/CVPR2023_tangchuan.png
+    image: img/researchImg/CVPR2023_tangchuan.gif
+    links:
+      paper: https://arxiv.org/abs/2107.01872
+      code: https://github.com/JLUtangchuan/Parts2Words
+  -
+    title: SyncLabeling: A Synchronized Audio Segmentation Interface for Mobile Devices
+    authors: Yi Tang, Chia-Ming Chang, Xi Yang, Takeo Igarashi
+    year: 2023
+    pub: MobileHCI 
+    image: img/researchImg/MobileHCI2023.png
     links:
       paper: 
+      projectlink: projectpage/MobileHCI2023/index.html
+      toproject: /ProjectPageMobileHCI2023
   -
     title: Efficient Human-in-the-loop System for Guiding DNNs Attention
     authors: Yi He, Xi Yang, Chia-Ming Chang, Haoran Xie, and Takeo Igarashi
