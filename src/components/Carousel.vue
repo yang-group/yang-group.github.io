@@ -17,10 +17,22 @@
     </v-carousel-item> -->
     <v-carousel-item>
       <v-sheet color="#F2F4FA" height="100%">
-          <img :src="imgItem[8]" class="carousel-img" id="carousel-img4">
+          <img :src="imgItem[9]" class="carousel-img" id="carousel-img4">
           <div class="carousel-text-even">
-            <h1 class="carousel-text-title font-color-thin" style="font-size:28px">SyncLabeling: A Synchronized Audio Segmentation Interface for Mobile Devices</h1>
-            <div class="carousel-text-content font-color-thin">Yi Tang, Chia-Ming Chang, Xi Yang, Takeo Igarashi</div>
+            <h1 class="carousel-text-title font-color-thin" style="font-size:24px">Learning Joint Embedding of Point Clouds and Texts by Bidirectional Matching between Parts and Words</h1>
+            <div class="carousel-text-content font-color-thin">Chuan Tang, Xi Yang, Bojian Wu, Zhizhong Han, Yi Chang</div>
+            <v-btn class="ma-2 btn-even  btn-mt ml-16" color="rgba(0,0,0,0)" height="40" :href="papers[1].links.paper">
+              paper
+              <v-icon right>
+                mdi-attachment
+              </v-icon>
+            </v-btn>
+            <v-btn class="ma-2 btn-even btn-mt" color="rgba(0,0,0,0)"  height="40" :href="papers[1].links.code">
+              code
+              <v-icon right>
+                mdi-github
+              </v-icon>
+            </v-btn>
           </div>
       </v-sheet>
     </v-carousel-item>
@@ -35,10 +47,10 @@
     </v-carousel-item>
     <v-carousel-item>
       <v-sheet color="#F2F4FA" height="100%">
-          <img :src="imgItem[7]" class="carousel-img" id="carousel-img4">
+          <img :src="imgItem[8]" class="carousel-img" id="carousel-img4">
           <div class="carousel-text-even">
-            <h1 class="carousel-text-title font-color-thin" style="font-size:28px">Learning Joint Embedding of Point Clouds and Texts by Bidirectional Matching between Parts and Words</h1>
-            <div class="carousel-text-content font-color-thin">Chuan Tang, Xi Yang, Bojian Wu, Zhizhong Han, Yi Chang</div>
+            <h1 class="carousel-text-title font-color-thin" style="font-size:28px">SyncLabeling: A Synchronized Audio Segmentation Interface for Mobile Devices</h1>
+            <div class="carousel-text-content font-color-thin">Yi Tang, Chia-Ming Chang, Xi Yang, Takeo Igarashi</div>
           </div>
       </v-sheet>
     </v-carousel-item>
@@ -56,19 +68,19 @@
           <div class="carousel-text-even">
             <h1 class="carousel-text-title font-color-thin" style="font-size:28px">Efficient Human-in-the-loop System for Guiding DNNs Attention</h1>
             <div class="carousel-text-content font-color-thin">Yi He, Xi Yang, Chia-Ming Chang, Haoran Xie, Takeo Igarashi</div>
-            <v-btn class="ma-2 btn-even  btn-mt-large ml-16" color="rgba(0,0,0,0)" height="40" :href="papers[0].links.paper">
+            <v-btn class="ma-2 btn-even  btn-mt-large ml-16" color="rgba(0,0,0,0)" height="40" :href="papers[3].links.paper">
               paper
               <v-icon right>
                 mdi-attachment
               </v-icon>
             </v-btn>
-            <v-btn class="ma-2 btn-even btn-mt-large" color="rgba(0,0,0,0)"  height="40" :href="papers[0].links.code">
+            <v-btn class="ma-2 btn-even btn-mt-large" color="rgba(0,0,0,0)"  height="40" :href="papers[3].links.code">
               code
               <v-icon right>
                 mdi-github
               </v-icon>
             </v-btn>
-            <v-btn class="ma-2 btn-even btn-mt-large" color="rgba(0,0,0,0)" height="40" :href="papers[0].links.vedio">
+            <v-btn class="ma-2 btn-even btn-mt-large" color="rgba(0,0,0,0)" height="40" :href="papers[3].links.vedio">
             vedio
               <v-icon right>
                 mdi-attachment
