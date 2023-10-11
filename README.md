@@ -42,5 +42,16 @@ git push -f git@github.com:yang-group/yang-group.github.io master:gh-pages
 
 ```
 
+### 发布到dev分支
+```
+npm run build
+git init
+git add .
+git commit -m "dev"
+git push -f git@github.com:yang-group/yang-group.github.io dev:dev   
+
+```
+
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
