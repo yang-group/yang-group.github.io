@@ -12,7 +12,11 @@ imgItems:
   - img/researchImg/CVPR2023_tangchuan.png
   - img/researchImg/MobileHCI2023.png
   - img/researchImg/CVPR2023_tangchuan.gif
+  - img/2023TeamBuilding.jpeg
 recentNews:
+  -
+    date: 2023.06.03
+    content: Our paper "SyncLabeling: A Synchronized Audio Segmentation Interface for Mobile Devices" is accepted by MobileHCI 2023. 
   -
     date: 2023.02.28
     content: Our work “Multi-Granularity Archaeological Dating of Chinese Bronze Dings Based on a Knowledge-Guided Relation Graph” and “Parts2Words: Learning Joint Embedding of Point Clouds and Texts by Bidirectional Matching between Parts and Words” will be presented at CVPR 2023. 
@@ -38,113 +42,121 @@ memberData:
   Ph.D.:
     -
       name: Rixin Zhou(周日鑫)
-      year: 2021
+      year: 2022
       email: 757838685@qq.com
       inerest:
         - CV
       photo: img/studentImg/zhourixin.jpeg
   Master:
     -
-      name: Chuan Tang (唐川) Co-supervised with Prof. Chang, JLU.
-      year: 2020
-      email: tangchuan20@mails.jlu.edu.cn
-      inerest:
-        - 3D Deep Learning
-      github: JLUtangchuan
-      photo: img/studentImg/tangchuan.jpg
-    -
-      name: Jinhao Sun (孙金浩)
-      year: 2020
-      email: sunjh20@mails.jlu.edu.cn
-      inerest:
-        - CV
-      photo: img/studentImg/sunjinhao.jpg
-    -
-      name: Yifan (金逸凡)
-      year: 2020
-      email: 912250098@qq.com
-      inerest:
-        - GAN
-      photo: img/studentImg/jinyifan.jpg
-    -
-      name: Qiang Liu (刘强)
-      year: 2020
-      email: liuqiang5799@163.com
-      inerest:
-        - 3D Reconstruction
-      photo: img/studentImg/liuqiang.jpg
-    -
-      name: Jia Cheng (刘家成)
+      name: Jiacheng Liu (刘家成)
       year: 2021
       email: liuliujch@163.com
       inerest:
         - CV
       photo: img/studentImg/liujiacheng.jpg
     -
-      name: Ai Yang(艾阳)
+      name: Yang Ai (艾阳)
       year: 2021
       email: aiyangjlu21@gmail.com
       inerest:
         - CV
       photo: img/studentImg/aiyang.jpeg
     -
-      name: Jia Fu(魏家富)
+      name: Jiafu Wei (魏家富)
       year: 2021
       email: weijf21@mails.jlu.edu.cn
       inerest:
         - CV
-      photo: img/studentImg/weijiafu.jpg
+      photo: img/studentImg/weijiafu.jpeg
     -
-      name: Xin Ran(付新然)
+      name: Xinran Fu (付新然)
       year: 2021
       email: 13654311403@163.com
       inerest:
         - CV
       photo: img/studentImg/fuxinran.jpg
     -
-      name: Hong Lin(庞宏林)
-      year: 2021
+      name: Honglin Pang (庞宏林)
+      year: 2022
       email: panghlwork@gmail.com
       inerest:
         - CV
       photo: img/studentImg/panghonglin.jpg
     -
-      name: Tang Yi(唐艺)
-      year: 2021
+      name: Yi Tang (唐艺)
+      year: 2022
       email: tangyi2118@mails.jlu.edu.cn
       inerest:
         - CV
       photo: img/studentImg/tangyi.jpg
     -
-      name: Li Zhaokang(李炤慷)
+      name: Zhaokang Li (李炤慷)
       year: 2022
       email: 2521960449@qq.com
       inerest:
         - CV
       photo: img/studentImg/lizhaokang.jpg
-  Undergraduate:
     -
-      name: Xi Wang(王茜)
+      name: Xi Wang (王茜)
       year: 2023
       email: meao_wangxi@163.com
       inerest:
         - CV
       photo: img/studentImg/wangxi.jpeg
     -
-      name: Ye Tao(陶也)
+      name: Ye Tao (陶也)
       year: 2023
       email: taoye06282001@163.com
       inerest:
         - CV
       photo: img/studentImg/taoye.jpeg
+    -
+      name: Qiuwen Shao(邵湫雯)
+      year: 2023
+      email: shaoqiuwen0801@163.com
+      inerest:
+        - CV
+      photo: img/studentImg/shaoqiuwen.jpeg
+  # Undergraduate:
+  # Graduated:
   Past Members:
     -
-      name: Yi He (何毅) Co-supervised with Prof. Xie, JAIST.
+      name: Yi He (何毅) Co-supervised with Prof. Xie, JAIST. 日立(HITACHI)研究所. 
       year: 2021-2022
       # email: s2010035@jaist.ac.jp
       # inerest:
       #   - User Interface
       # photo: img/studentImg/heyi.jpg
+    -
+      name: Chuan Tang (唐川) Co-supervised with Prof. Chang, JLU. 理想, top offer. 
+      year: 2020-2023 (获优秀研究生学位论文)
+      email: tangchuan20@mails.jlu.edu.cn
+      inerest:
+        - 3D Deep Learning
+      github: JLUtangchuan
+      photo: img/studentImg/tangchuan.jpg
+    -
+      name: Jinhao Sun (孙金浩). 比亚迪. 
+      year: 2020-2023
+      email: sunjh20@mails.jlu.edu.cn
+      inerest:
+        - CV
+      photo: img/studentImg/sunjinhao.jpg
+    -
+      name: Yifan Jin (金逸凡). 比亚迪. 
+      year: 2020-2023
+      email: 912250098@qq.com
+      inerest:
+        - GAN
+      photo: img/studentImg/jinyifan.jpg
+    -
+      name: Qiang Liu (刘强). 浪潮. 
+      year: 2020-2023
+      email: liuqiang5799@163.com
+      inerest:
+        - 3D Reconstruction
+      photo: img/studentImg/liuqiang.jpg
   Collaborators:
     -
       name: Bojian Wu
@@ -196,6 +208,7 @@ memberData:
     -
       name: Ding Xia
       affiliation: The University of Tokyo, Japan.
+      homepage: https://scholar.google.com/citations?user=L_5Zzc8AAAAJ&hl=en
     -
       name: Chao Zhang
       affiliation: University of Fukui, Japan.
@@ -212,7 +225,8 @@ paperList:
     pub: CVPR 
     image: img/researchImg/CVPR2023_zhourixin.png
     links:
-      paper: 
+      paper: https://arxiv.org/abs/2303.15266
+      code: https://github.com/zhourixin/bronze-Ding
   -
     title: Parts2Words: Learning Joint Embedding of Point Clouds and Texts by Bidirectional Matching between Parts and Words (v2)
     authors: Chuan Tang, Xi Yang, Bojian Wu, Zhizhong Han, Yi Chang

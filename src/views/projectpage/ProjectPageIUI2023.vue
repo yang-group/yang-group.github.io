@@ -1,6 +1,6 @@
 <template>
-    <div style="height:100%; width:100%; margin-top: 88px;">
-        <iframe :src=src frameborder="0" width="100%" height="800px" scrolling="auto" ></iframe>
+    <div style="height:1400px; width:100%; margin-top: 88px;">
+        <iframe :src=src frameborder="0" width="100%" height="100%" scrolling="auto" ></iframe>
     </div>
 </template>
 <script>

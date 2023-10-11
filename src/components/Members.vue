@@ -79,7 +79,7 @@ export default {
   },
   data: () => ({
     std_cat: {},
-    cards: ['Master', 'Undergraduate', 'Ph.D.'] // 这里可以加入 Ph.D.以及 Past Members
+    cards: ['Master', 'Undergraduate', 'Ph.D.', 'Graduated'] // 这里可以加入 Ph.D.以及 Past Members
   }),
   mounted () {
     this.std_cat = this.memberData

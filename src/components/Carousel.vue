@@ -16,6 +16,14 @@
       </v-sheet>
     </v-carousel-item> -->
     <v-carousel-item>
+      <v-sheet color="#4582B4" height="100%">
+          <img :src="imgItem[10]" class="carousel-img" id="carousel-img3" style="margin-left: 5%">
+          <div class="carousel-text-odd">
+            <h1 class="carousel-text-title font-color-strong" style="font-size:30px; padding-top: 80px;">Successful Completion of IIGG Lab Team Building! </h1>
+          </div>
+      </v-sheet>
+    </v-carousel-item>
+    <v-carousel-item>
       <v-sheet color="#F2F4FA" height="100%">
           <img :src="imgItem[9]" class="carousel-img" id="carousel-img4">
           <div class="carousel-text-even">
@@ -40,8 +48,20 @@
       <v-sheet color="#4582B4" height="100%">
           <img :src="imgItem[6]" class="carousel-img" id="carousel-img3" style="margin-left: 5%">
           <div class="carousel-text-odd">
-            <h1 class="carousel-text-title font-color-strong">Multi-Granularity Archaeological Dating of Chinese Bronze Dings Based on a Knowledge-Guided Relation Graph</h1>
+            <h1 class="carousel-text-title font-color-strong" style="font-size:24px">Multi-Granularity Archaeological Dating of Chinese Bronze Dings Based on a Knowledge-Guided Relation Graph</h1>
             <div class="carousel-text-content font-color-strong-content">Rixin Zhou, Wei Jiafu, Qian Zhang, Qi Ruihua, Xi Yang, Chuntao Li</div>
+            <v-btn class="ma-2 btn-even  btn-mt ml-16" color="#4582B4" height="40" :href="papers[0].links.paper">
+              paper
+              <v-icon right>
+                mdi-attachment
+              </v-icon>
+            </v-btn>
+            <v-btn class="ma-2 btn-even btn-mt" color="#4582B4"  height="40" :href="papers[0].links.code">
+              code
+              <v-icon right>
+                mdi-github
+              </v-icon>
+            </v-btn>
           </div>
       </v-sheet>
     </v-carousel-item>
