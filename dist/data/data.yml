@@ -145,6 +145,13 @@ memberData:
       inerest:
         - CV
       photo: img/studentImg/jinyinghao.jpg
+    -
+      name: Peng Su(苏鹏)
+      year: 2023
+      email: supeng2668@126.com
+      inerest:
+        - CV
+      photo: img/studentImg/supeng.jpg
 
   # Graduated:
   Past Members:
