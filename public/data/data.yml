@@ -13,8 +13,14 @@ imgItems:
   - img/researchImg/MobileHCI2023.png
   - img/researchImg/CVPR2023_tangchuan.gif
   - img/2023TeamBuilding.jpeg
+  - img/BaoZhi1.png
+  - img/BaoZhi2.png
+  - img/researchImg/IUI2024WeiJiaFu.jpg
+  - img/researchImg/IUI2024TangYi.jpg
 recentNews:
-  
+  -
+    date: 2023.10.26
+    content: We released a mini-program called "Ji Jin Shi Bian"which was widely reported by Guangming Daily,Science and Techniology Daily and other media.
   -
     date: 2023.09.27
     content: Our work "Learning Multivariate Empirical Mode Decomposition for Spectral Motion Editing" will be presented at SIGGRAPH ASIA 2023 as a technical communication.
@@ -252,6 +258,22 @@ memberData:
       affiliation: Wayne State University, USA.
       homepage: https://h312h.github.io/
 paperList:
+  -
+    title: SpaceEditing: Integrating Human Knowledge into Deep Neural Networks via Interactive Latent Space Editing
+    authors: Jiafu Wei, Ding Xia, Haoran Xie, Chia-Ming Chang, Chuntao Li, Xi Yang
+    year: 2024
+    pub: IUI
+    image: img/researchImg/IUI2024WeiJiaFu.jpg
+    links:
+      paper:
+  -
+    title: PDFChatAnnotator: A Human-LLM Collaborative Multi-Modal Data Collection Tool for PDF-Format Catalogs
+    authors: Yi Tang, Chia-Ming Chang, Xi Yang
+    year: 2024
+    pub: IUI
+    image: img/researchImg/IUI2024TangYi.jpg
+    links:
+      paper:
   -
     title: Multi-Granularity Archaeological Dating of Chinese Bronze Dings Based on a Knowledge-Guided Relation Graph
     authors: Rixin Zhou, Wei Jiafu, Qian Zhang, Qi Ruihua, Xi Yang, Chuntao Li

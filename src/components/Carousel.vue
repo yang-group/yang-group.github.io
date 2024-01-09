@@ -17,6 +17,49 @@
     </v-carousel-item> -->
     <v-carousel-item>
       <v-sheet color="#4582B4" height="100%">
+          <img :src="imgItem[11]" class="carousel-img" id="carousel-img1" style="margin-left: 15%">
+          <img :src="imgItem[12]" class="carousel-img" id="carousel-img2" style="margin-left: 6%">
+          <div class="carousel-text-odd">
+            <h1 class="carousel-text-title font-color-strong" style="font-size:24px; padding-top:40px;">We released a mini-program called "Ji Jin Shi Bian"which was widely reported by Guangming Daily,Science and Techniology Daily and other media.</h1>
+          </div>
+      </v-sheet>
+    </v-carousel-item>
+    <v-carousel-item>
+      <v-sheet color="#F2F4FA" height="100%">
+          <img :src="imgItem[13]" class="carousel-img" id="carousel-img2">
+          <div class="carousel-text-even">
+            <h1 class="carousel-text-title font-color-thin" style="font-size: 26px;">SpaceEditing: Integrating Human Knowledge into Deep Neural Networks via Interactive Latent Space Editing</h1>
+            <div class="carousel-text-content font-color-thin">
+              Jiafu Wei, Ding Xia, Haoran Xie, Chia-Ming Chang, Chuntao Li, Xi Yang
+            </div>
+            <v-btn class="btn-even btn-ml  btn-mt" color="rgba(0,0,0,0)" width="130" height="40" :href="papers[0].links.paper">
+              paper
+              <v-icon right>
+                mdi-attachment
+              </v-icon>
+            </v-btn>
+          </div>
+      </v-sheet>
+    </v-carousel-item>
+    <v-carousel-item>
+      <v-sheet color="#F2F4FA" height="100%">
+          <img :src="imgItem[14]" class="carousel-img" id="carousel-img2" style="margin-left: 16%;">
+          <div class="carousel-text-even">
+            <h1 class="carousel-text-title font-color-thin" style="font-size: 26px;">PDFChatAnnotator: A Human-LLM Collaborative Multi-Modal Data Collection Tool for PDF-Format Catalogs</h1>
+            <div class="carousel-text-content font-color-thin">
+              Yi Tang, Chia-Ming Chang, Xi Yang
+            </div>
+            <v-btn class="btn-even btn-ml  btn-mt" color="rgba(0,0,0,0)" width="130" height="40" :href="papers[0].links.paper">
+              paper
+              <v-icon right>
+                mdi-attachment
+              </v-icon>
+            </v-btn>
+          </div>
+      </v-sheet>
+    </v-carousel-item>
+    <v-carousel-item>
+      <v-sheet color="#4582B4" height="100%">
           <img :src="imgItem[10]" class="carousel-img" id="carousel-img3" style="margin-left: 5%">
           <div class="carousel-text-odd">
             <h1 class="carousel-text-title font-color-strong" style="font-size:30px; padding-top: 80px;">Successful Completion of IIGG Lab Team Building! </h1>
@@ -29,13 +72,13 @@
           <div class="carousel-text-even">
             <h1 class="carousel-text-title font-color-thin" style="font-size:24px">Learning Joint Embedding of Point Clouds and Texts by Bidirectional Matching between Parts and Words</h1>
             <div class="carousel-text-content font-color-thin">Chuan Tang, Xi Yang, Bojian Wu, Zhizhong Han, Yi Chang</div>
-            <v-btn class="ma-2 btn-even  btn-mt ml-16" color="rgba(0,0,0,0)" height="40" :href="papers[1].links.paper">
+            <v-btn class="ma-2 btn-even  btn-mt ml-16" color="rgba(0,0,0,0)" height="40" :href="papers[3].links.paper">
               paper
               <v-icon right>
                 mdi-attachment
               </v-icon>
             </v-btn>
-            <v-btn class="ma-2 btn-even btn-mt" color="rgba(0,0,0,0)"  height="40" :href="papers[1].links.code">
+            <v-btn class="ma-2 btn-even btn-mt" color="rgba(0,0,0,0)"  height="40" :href="papers[3].links.code">
               code
               <v-icon right>
                 mdi-github
@@ -50,13 +93,13 @@
           <div class="carousel-text-odd">
             <h1 class="carousel-text-title font-color-strong" style="font-size:24px">Multi-Granularity Archaeological Dating of Chinese Bronze Dings Based on a Knowledge-Guided Relation Graph</h1>
             <div class="carousel-text-content font-color-strong-content">Rixin Zhou, Wei Jiafu, Qian Zhang, Qi Ruihua, Xi Yang, Chuntao Li</div>
-            <v-btn class="ma-2 btn-even  btn-mt ml-16" color="#4582B4" height="40" :href="papers[0].links.paper">
+            <v-btn class="ma-2 btn-even  btn-mt ml-16" color="#4582B4" height="40" :href="papers[2].links.paper">
               paper
               <v-icon right>
                 mdi-attachment
               </v-icon>
             </v-btn>
-            <v-btn class="ma-2 btn-even btn-mt" color="#4582B4"  height="40" :href="papers[0].links.code">
+            <v-btn class="ma-2 btn-even btn-mt" color="#4582B4"  height="40" :href="papers[2].links.code">
               code
               <v-icon right>
                 mdi-github
@@ -74,15 +117,15 @@
           </div>
       </v-sheet>
     </v-carousel-item>
-    <v-carousel-item>
+    <!-- <v-carousel-item>
       <v-sheet color="#4582B4" height="100%">
           <img :src="imgItem[5]" class="carousel-img" id="carousel-img4" style="height:95%; margin-left: 15%; margin-top: 3%;">
           <div class="carousel-text-odd">
             <h1 class="carousel-text-title font-color-strong" style="font-size:28px">Four students received three-month internship support at the University of Tokyo. </h1>
           </div>
       </v-sheet>
-    </v-carousel-item>
-    <v-carousel-item>
+    </v-carousel-item> -->
+    <!-- <v-carousel-item>
       <v-sheet color="#F2F4FA" height="100%">
           <img :src="imgItem[4]" class="carousel-img" id="carousel-img4">
           <div class="carousel-text-even">
@@ -108,7 +151,7 @@
             </v-btn>
           </div>
       </v-sheet>
-    </v-carousel-item>
+    </v-carousel-item> -->
     <!-- <v-carousel-item>
       <v-sheet color="#4582B4" height="100%">
           <img :src="imgItem[0]" class="carousel-img" id="carousel-img1" ref="carousel-img1">
@@ -164,7 +207,7 @@
           </div>
       </v-sheet>
     </v-carousel-item> -->
-    <v-carousel-item>
+    <!-- <v-carousel-item>
       <v-sheet color="#F2F4FA" height="100%">
           <img :src="imgItem[3]" class="carousel-img" id="carousel-img4">
           <div class="carousel-text-even">
@@ -178,7 +221,7 @@
             </v-btn>
           </div>
       </v-sheet>
-    </v-carousel-item>
+    </v-carousel-item> -->
   </v-carousel>
 </template>
 
