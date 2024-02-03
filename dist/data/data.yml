@@ -19,6 +19,9 @@ imgItems:
   - img/researchImg/IUI2024TangYi.jpg
 recentNews:
   -
+    date: 2024.02.01
+    content: Our paper "PDFChatAnnotator: A Human-LLM Collaborative Multi-Modal Data Collection Tool for PDF-Format Catalogs" and "SpaceEditing: Integrating Human Knowledge into Deep Neural Networks via Interactive Latent Space Editing" are accepted by IUI 2024.
+  -
     date: 2023.10.26
     content: We released a mini-program called "Ji Jin Shi Bian"which was widely reported by Guangming Daily,Science and Techniology Daily and other media.
   -
