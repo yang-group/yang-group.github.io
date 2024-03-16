@@ -276,7 +276,9 @@ paperList:
     pub: IUI
     image: img/researchImg/IUI2024TangYi.jpg
     links:
-      paper:
+      paper: 
+      projectlink: projectpage/IUI2024_YiTang/index.html
+      toproject: /ProjectPageIUIYiTang2024
   -
     title: Multi-Granularity Archaeological Dating of Chinese Bronze Dings Based on a Knowledge-Guided Relation Graph
     authors: Rixin Zhou, Wei Jiafu, Qian Zhang, Qi Ruihua, Xi Yang, Chuntao Li
