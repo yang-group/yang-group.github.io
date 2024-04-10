@@ -17,6 +17,23 @@
       </v-sheet>
     </v-carousel-item> -->
     <v-carousel-item>
+      <v-sheet color="#F2F4FA" height="100%">
+          <img :src="imgItem[15]" class="carousel-img" id="carousel-img2" style="margin-top: 7%;">
+          <div class="carousel-text-even">
+            <h1 class="carousel-text-title font-color-thin" style="font-size: 26px;">CanvasPic: An Interactive Tool for Freely Generating Facial Images Based on Spatial Layout</h1>
+            <div class="carousel-text-content font-color-thin">
+              Jiafu Wei, Chia-Ming Chang, Xi Yang, Takeo Igarashi
+            </div>
+            <v-btn class="btn-even btn-ml  btn-mt" color="rgba(0,0,0,0)" width="130" height="40" :href="papers[0].links.paper">
+              paper
+              <v-icon right>
+                mdi-attachment
+              </v-icon>
+            </v-btn>
+          </div>
+      </v-sheet>
+    </v-carousel-item>
+    <v-carousel-item>
       <v-sheet color="#4582B4" height="100%">
           <img :src="imgItem[11]" class="carousel-img" id="carousel-img1" style="margin-left: 15%">
           <img :src="imgItem[12]" class="carousel-img" id="carousel-img2" style="margin-left: 6%">
@@ -109,7 +126,7 @@
           </div>
       </v-sheet>
     </v-carousel-item>
-    <v-carousel-item>
+    <!--<v-carousel-item>
       <v-sheet color="#F2F4FA" height="100%">
           <img :src="imgItem[8]" class="carousel-img" id="carousel-img4">
           <div class="carousel-text-even">
@@ -117,7 +134,7 @@
             <div class="carousel-text-content font-color-thin">Yi Tang, Chia-Ming Chang, Xi Yang, Takeo Igarashi</div>
           </div>
       </v-sheet>
-    </v-carousel-item>
+    </v-carousel-item> -->
     <!-- <v-carousel-item>
       <v-sheet color="#4582B4" height="100%">
           <img :src="imgItem[5]" class="carousel-img" id="carousel-img4" style="height:95%; margin-left: 15%; margin-top: 3%;">

@@ -17,7 +17,14 @@ imgItems:
   - img/BaoZhi2.png
   - img/researchImg/IUI2024WeiJiaFu.jpg
   - img/researchImg/IUI2024TangYi.jpg
+  - img/researchImg/CHI-LBW2024Wei.jpg
 recentNews:
+  -
+    date: 2024.04.03
+    content: Our paper "Detecting Oracle Bone Inscriptions Via Pseudo Category Labels" is accepted by Heritage Science.
+  -
+    date: 2024.03.02
+    content: Our paper "CanvasPic: An Interactive Tool for Freely Generating Facial Images Based on Spatial Layout" is accepted by CHI-LBW 2024.
   -
     date: 2024.02.01
     content: Our paper "PDFChatAnnotator: A Human-LLM Collaborative Multi-Modal Data Collection Tool for PDF-Format Catalogs" and "SpaceEditing: Integrating Human Knowledge into Deep Neural Networks via Interactive Latent Space Editing" are accepted by IUI 2024.
@@ -141,13 +148,6 @@ memberData:
       photo: img/studentImg/shaoqiuwen.jpeg
   Undergraduate:
     -
-      name: Zengjue Chen(陈增爵)
-      year: 2023
-      email: 1179210529@qq.com
-      inerest:
-        - CV
-      photo: img/studentImg/chenzengjue.jpg
-    -
       name: Yinghao Jin(金颖豪)
       year: 2023
       email: yinghao.jyh@outlook.com
@@ -261,6 +261,14 @@ memberData:
       affiliation: Wayne State University, USA.
       homepage: https://h312h.github.io/
 paperList:
+  -
+    title: CanvasPic: An Interactive Tool for Freely Generating Facial Images Based on Spatial Layout
+    authors: Jiafu Wei, Chia-Ming Chang, Xi Yang, Takeo Igarashi
+    year: 2024
+    pub: CHI-LBW
+    image: img/researchImg/CHI-LBW2024Wei.jpg
+    links:
+      paper:
   -
     title: SpaceEditing: Integrating Human Knowledge into Deep Neural Networks via Interactive Latent Space Editing
     authors: Jiafu Wei, Ding Xia, Haoran Xie, Chia-Ming Chang, Chuntao Li, Xi Yang
