@@ -2,7 +2,7 @@
   <div>
       <h1 class="mt-4">Staff</h1>
       <p class="mt-2 mb-4">(Interdisciplinary Youth Innovation Team of Jilin University, 吉林大学学科交叉青年创新团队)</p>
-      <p class="mt-2 mb-4">(Key Laboratory of Ancient Chinese Script, Culture relics and Artificial Intelligence, Jilin Province,  吉林省古文字古文物人工智能重点实验室)</p>
+      <p class="mt-2 mb-4">(Key Laboratory of Ancient Chinese Script, Culture relics and Artificial Intelligence, Jilin University,  吉林大学古文字古文物人工智能重点实验室)</p>
       <v-row>
         <v-col cols="2">
           <div>

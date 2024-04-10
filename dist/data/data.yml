@@ -336,14 +336,6 @@ paperList:
       projectlink: projectpage/IUI2023/index.html
       toproject: /ProjectPageIUI2023
   -
-    title: SpaceEditing: Integrating Human Knowledge into Deep Neural Networks via Interactive Latent Space Editing
-    authors: Jiafu Wei, Ding Xia, Haoran Xie, Chia-Ming Chang, Chuntao Li, and Xi Yang
-    year: 2022
-    pub: arXiv
-    image: img/researchImg/SpaceEditing.png
-    links: 
-      paper: https://arxiv.org/abs/2212.04065
-  -
     title: Fine-tuning Deep Neural Networks by Interactively Refining the 2D Latent Space of Ambiguous Images
     authors: Jiafu Wei, Haoran Xie, Chia-Ming Chang, Xi Yang
     year: 2022, Demos
