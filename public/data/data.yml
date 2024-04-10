@@ -262,6 +262,14 @@ memberData:
       homepage: https://h312h.github.io/
 paperList:
   -
+    title: Detecting Oracle Bone Inscriptions Via Pseudo Category Labels
+    authors: Xinran Fu, Rixin Zhou, Xi Yang, Chuntao Li
+    year: 2024
+    pub: Heritage Science
+    image: img/researchImg/HSLaoda.png
+    links:
+      paper: https://link.springer.com/article/10.1186/s40494-024-01221-5?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20240403&utm_content=10.1186/s40494-024-01221-5
+  -
     title: CanvasPic: An Interactive Tool for Freely Generating Facial Images Based on Spatial Layout
     authors: Jiafu Wei, Chia-Ming Chang, Xi Yang, Takeo Igarashi
     year: 2024
