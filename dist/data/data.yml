@@ -276,7 +276,8 @@ paperList:
     pub: CHI-LBW
     image: img/researchImg/CHI-LBW2024Wei.jpg
     links:
-      paper:
+      projectlink: projectpage/CHILBW2024_WeiJiafu/index.html
+      toproject: /ProjectPageCHILBW2024WeiJiafu
   -
     title: SpaceEditing: Integrating Human Knowledge into Deep Neural Networks via Interactive Latent Space Editing
     authors: Jiafu Wei, Ding Xia, Haoran Xie, Chia-Ming Chang, Chuntao Li, Xi Yang
@@ -284,7 +285,8 @@ paperList:
     pub: IUI
     image: img/researchImg/IUI2024WeiJiaFu.jpg
     links:
-      paper:
+      projectlink: projectpage/IUI2024_WeiJiafu/index.html
+      toproject: /ProjectPageIUIWeiJiafu2024
   -
     title: PDFChatAnnotator: A Human-LLM Collaborative Multi-Modal Data Collection Tool for PDF-Format Catalogs
     authors: Yi Tang, Chia-Ming Chang, Xi Yang
@@ -292,7 +294,7 @@ paperList:
     pub: IUI
     image: img/researchImg/IUI2024TangYi.jpg
     links:
-      paper: 
+      paper: https://doi.org/10.1145/3640543.3645174
       projectlink: projectpage/IUI2024_YiTang/index.html
       toproject: /ProjectPageIUIYiTang2024
   -
@@ -320,7 +322,7 @@ paperList:
     pub: MobileHCI 
     image: img/researchImg/MobileHCI2023.png
     links:
-      paper: 
+      paper: https://doi.org/10.1145/3604273
       projectlink: projectpage/MobileHCI2023/index.html
       toproject: /ProjectPageMobileHCI2023
   -
