@@ -74,8 +74,16 @@ memberData:
       inerest:
         - CV
       photo: img/studentImg/Baiqiang.png
+    -
+      name: Shan Cao (曹山)
+      year: 2024
+      email: 1480622383@qq.com
+      inerest:
+        - CV
+      photo: img/studentImg/caoshan.jpg
 
   Master:
+    
     -
       name: Honglin Pang (庞宏林)
       year: 2022
@@ -133,14 +141,15 @@ memberData:
         - CV
       photo: img/studentImg/supeng.jpg
     -
-      name: Xue Jing(薛靖)
+      name: Jing Xue(薛靖)
       year: 2024
       email: jxue1010@gmail.com
       inerest:
         - CV
       photo: img/studentImg/xuejing.jpg
   Undergraduate:
-    
+    -
+      
 
   # Graduated:
   Past Members:
@@ -183,31 +192,31 @@ memberData:
     -
       name: Jiacheng Liu (刘家成)
       year: 2021-2024
-      email: liuliujch@163.com
-      inerest:
-        - CV
-      photo: img/studentImg/liujiacheng.jpg
+      # email: liuliujch@163.com
+      # inerest:
+      #   - CV
+      # photo: img/studentImg/liujiacheng.jpg
     -
       name: Yang Ai (艾阳). 华为海思.
       year: 2021-2024
-      email: aiyangjlu21@gmail.com
-      inerest:
-        - CV
-      photo: img/studentImg/aiyang.jpeg
+      # email: aiyangjlu21@gmail.com
+      # inerest:
+      #   - CV
+      # photo: img/studentImg/aiyang.jpeg
     -
       name: Jiafu Wei (魏家富). 腾讯.
-      year: 2021-2024
-      email: weijf21@mails.jlu.edu.cn
-      inerest:
-        - CV
-      photo: img/studentImg/weijiafu.jpeg
+      year: 2021-2024(获优秀研究生学位论文)
+      # email: weijf21@mails.jlu.edu.cn
+      # inerest:
+      #   - CV
+      # photo: img/studentImg/weijiafu.jpeg
     -
       name: Xinran Fu (付新然)
       year: 2021-2024
-      email: 13654311403@163.com
-      inerest:
-        - CV
-      photo: img/studentImg/fuxinran.jpg
+      # email: 13654311403@163.com
+      # inerest:
+      #   - CV
+      # photo: img/studentImg/fuxinran.jpg
   Collaborators:
     -
       name: Bojian Wu
