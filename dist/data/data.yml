@@ -77,34 +77,6 @@ memberData:
 
   Master:
     -
-      name: Jiacheng Liu (刘家成)
-      year: 2021
-      email: liuliujch@163.com
-      inerest:
-        - CV
-      photo: img/studentImg/liujiacheng.jpg
-    -
-      name: Yang Ai (艾阳)
-      year: 2021
-      email: aiyangjlu21@gmail.com
-      inerest:
-        - CV
-      photo: img/studentImg/aiyang.jpeg
-    -
-      name: Jiafu Wei (魏家富)
-      year: 2021
-      email: weijf21@mails.jlu.edu.cn
-      inerest:
-        - CV
-      photo: img/studentImg/weijiafu.jpeg
-    -
-      name: Xinran Fu (付新然)
-      year: 2021
-      email: 13654311403@163.com
-      inerest:
-        - CV
-      photo: img/studentImg/fuxinran.jpg
-    -
       name: Honglin Pang (庞宏林)
       year: 2022
       email: panghlwork@gmail.com
@@ -147,27 +119,28 @@ memberData:
         - CV
       photo: img/studentImg/shaoqiuwen.jpeg
     -
-      name: lanyangyang()
-      year: 2023
-      email: shaoqiuwen0801@163.com
-      inerest:
-        - CV
-      photo: img/studentImg/lanyangyang.jpg
-  Undergraduate:
-    -
       name: Yinghao Jin(金颖豪)
-      year: 2023
+      year: 2024
       email: yinghao.jyh@outlook.com
       inerest:
         - CV
       photo: img/studentImg/jinyinghao.jpg
     -
       name: Peng Su(苏鹏)
-      year: 2023
+      year: 2024
       email: supeng2668@126.com
       inerest:
         - CV
       photo: img/studentImg/supeng.jpg
+    -
+      name: Xue Jing(薛靖)
+      year: 2024
+      email: jxue1010@gmail.com
+      inerest:
+        - CV
+      photo: img/studentImg/xuejing.jpg
+  Undergraduate:
+    
 
   # Graduated:
   Past Members:
@@ -207,6 +180,34 @@ memberData:
       inerest:
         - 3D Reconstruction
       photo: img/studentImg/liuqiang.jpg
+    -
+      name: Jiacheng Liu (刘家成)
+      year: 2021-2024
+      email: liuliujch@163.com
+      inerest:
+        - CV
+      photo: img/studentImg/liujiacheng.jpg
+    -
+      name: Yang Ai (艾阳). 华为海思.
+      year: 2021-2024
+      email: aiyangjlu21@gmail.com
+      inerest:
+        - CV
+      photo: img/studentImg/aiyang.jpeg
+    -
+      name: Jiafu Wei (魏家富). 腾讯.
+      year: 2021-2024
+      email: weijf21@mails.jlu.edu.cn
+      inerest:
+        - CV
+      photo: img/studentImg/weijiafu.jpeg
+    -
+      name: Xinran Fu (付新然)
+      year: 2021-2024
+      email: 13654311403@163.com
+      inerest:
+        - CV
+      photo: img/studentImg/fuxinran.jpg
   Collaborators:
     -
       name: Bojian Wu
