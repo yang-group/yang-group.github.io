@@ -146,6 +146,13 @@ memberData:
       inerest:
         - CV
       photo: img/studentImg/shaoqiuwen.jpeg
+    -
+      name: lanyangyang()
+      year: 2023
+      email: shaoqiuwen0801@163.com
+      inerest:
+        - CV
+      photo: img/studentImg/lanyangyang.jpg
   Undergraduate:
     -
       name: Yinghao Jin(金颖豪)
