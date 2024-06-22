@@ -161,6 +161,34 @@ memberData:
       #   - User Interface
       # photo: img/studentImg/heyi.jpg
     -
+      name: Jiafu Wei (魏家富). 腾讯, top offer.
+      year: 2021-2024(获优秀研究生学位论文)
+      # email: weijf21@mails.jlu.edu.cn
+      # inerest:
+      #   - CV
+      # photo: img/studentImg/weijiafu.jpeg
+    -
+      name: Yang Ai (艾阳). 华为海思.
+      year: 2021-2024
+      # email: aiyangjlu21@gmail.com
+      # inerest:
+      #   - CV
+      # photo: img/studentImg/aiyang.jpeg
+    -
+      name: Xinran Fu (付新然). 吉利.
+      year: 2021-2024
+      # email: 13654311403@163.com
+      # inerest:
+      #   - CV
+      # photo: img/studentImg/fuxinran.jpg
+    -
+      name: Jiacheng Liu (刘家成). 某事业单位.
+      year: 2021-2024
+      # email: liuliujch@163.com
+      # inerest:
+      #   - CV
+      # photo: img/studentImg/liujiacheng.jpg
+    -
       name: Chuan Tang (唐川) Co-supervised with Prof. Chang, JLU. 理想, top offer. 
       year: 2020-2023 (获优秀研究生学位论文)
       email: tangchuan20@mails.jlu.edu.cn
@@ -189,34 +217,7 @@ memberData:
       inerest:
         - 3D Reconstruction
       photo: img/studentImg/liuqiang.jpg
-    -
-      name: Jiacheng Liu (刘家成)
-      year: 2021-2024
-      # email: liuliujch@163.com
-      # inerest:
-      #   - CV
-      # photo: img/studentImg/liujiacheng.jpg
-    -
-      name: Yang Ai (艾阳). 华为海思.
-      year: 2021-2024
-      # email: aiyangjlu21@gmail.com
-      # inerest:
-      #   - CV
-      # photo: img/studentImg/aiyang.jpeg
-    -
-      name: Jiafu Wei (魏家富). 腾讯.
-      year: 2021-2024(获优秀研究生学位论文)
-      # email: weijf21@mails.jlu.edu.cn
-      # inerest:
-      #   - CV
-      # photo: img/studentImg/weijiafu.jpeg
-    -
-      name: Xinran Fu (付新然)
-      year: 2021-2024
-      # email: 13654311403@163.com
-      # inerest:
-      #   - CV
-      # photo: img/studentImg/fuxinran.jpg
+    
   Collaborators:
     -
       name: Bojian Wu
