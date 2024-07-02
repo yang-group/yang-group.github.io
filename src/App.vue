@@ -31,9 +31,14 @@
             Publication
           </strong>
         </v-tab>
-        <v-tab to="/contact">
+        <v-tab to="/Contact">
           <strong>
             Contact
+          </strong>
+        </v-tab>
+        <v-tab to="/Awards">
+          <strong>
+            Awards
           </strong>
         </v-tab>
       </v-tabs>

@@ -278,7 +278,25 @@ memberData:
       name: Zhizhong Han
       affiliation: Wayne State University, USA.
       homepage: https://h312h.github.io/
+AwardData:
+  Awards:
+    -
+      name: Rixin Zhou
+      award: 研究生学业奖学金(10000)
+      # email: s2010035@jaist.ac.jp
+      # inerest:
+      #   - User Interface
+      # photo: img/studentImg/heyi.jpg
+
 paperList:
+  -
+    title: PairingNet: A Learning-based Pair-searching and -matching Network for Image Fragments
+    authors: Rixin Zhou, Ding Xia, Yi Zhang, Honglin Pang, Xi Yang, Chuntao Li
+    year: 2024
+    pub: ECCV 2024
+    image: img/researchImg/ECCV2024ZRX.png
+    links:
+      paper: https://arxiv.org/abs/2312.08704
   -
     title: Detecting Oracle Bone Inscriptions Via Pseudo Category Labels
     authors: Xinran Fu, Rixin Zhou, Xi Yang, Chuntao Li
