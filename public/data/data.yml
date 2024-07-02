@@ -20,6 +20,9 @@ imgItems:
   - img/researchImg/CHI-LBW2024Wei.jpg
 recentNews:
   -
+    date: 2024.07.02
+    content: Our paper "PairingNet: A Learning-based Pair-searching and -matching Network for Image Fragments" is accepted by ECCV 2024.
+  -
     date: 2024.04.03
     content: Our paper "Detecting Oracle Bone Inscriptions Via Pseudo Category Labels" is accepted by Heritage Science.
   -
@@ -283,10 +286,10 @@ AwardData:
     -
       name: Rixin Zhou
       award: 研究生学业奖学金(10000)
-      # email: s2010035@jaist.ac.jp
-      # inerest:
-      #   - User Interface
-      # photo: img/studentImg/heyi.jpg
+  Reports:
+    -
+      name: 吉林:构筑优秀科技人才回归“强磁场”
+      link: https://m.jlntv.cn/video?id=676054&sign=a7f75149a    
 
 paperList:
   -

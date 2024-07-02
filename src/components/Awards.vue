@@ -21,6 +21,25 @@
               </div>
             </v-row>
           </div>
+          <div :key="index" v-if="key == 'Reports'">
+            <v-row>
+              <div class="mt-2 mb-2">
+                <h1 class="mb-4">{{ key }}</h1>
+                <p v-for="(reportlab,idx) in value" :key="`${key}${idx}`" style="line-height:13px; ">
+                  <a v-if="reportlab['link'] != None" :href="reportlab['link']">
+                    <b>
+                      {{reportlab['name']}}
+                    </b>
+                  </a>
+                  <b v-else>
+                    {{reportlab['name']}}
+                  </b>
+                  <!-- <span>{{reportlab['link']}}</span> -->
+                  <!-- <i>{{reportlab['affiliation']}}</i> -->
+                </p>
+              </div>
+            </v-row>
+          </div>
         </template>
       </v-container>
     </div>
@@ -31,7 +50,7 @@ export default {
   props: ['AwardData'],
   data: () => ({
     std_cat: {},
-    cards: ['Awards'] // 这里可以加入 Ph.D.以及 Past Members
+    cards: ['Awards', 'Reports'] // 这里可以加入 Ph.D.以及 Past Members
   }),
   mounted () {
     this.std_cat = this.AwardData
