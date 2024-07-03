@@ -285,7 +285,37 @@ AwardData:
   Awards:
     -
       name: Rixin Zhou
-      award: 研究生学业奖学金(10000)
+      award: 研究生学业奖学金2022(10000)
+    -
+      name: Yifan Jin
+      award: 研究生学业奖学金2022(8000)
+    -
+      name: Jiacheng Liu
+      award: 研究生学业奖学金2022(8000)
+    -
+      name: Yi Tang
+      award: 研究生学业奖学金2022(8000)
+    -
+      name: Honglin Pang
+      award: 研究生学业奖学金2022(8000)
+    -
+      name: Rixin Zhou
+      award: 研究生学业奖学金2023(10000)
+    -
+      name: Rixin Zhou
+      award: 2022-2023研究生优秀奖学金（二等奖）(800)
+    -
+      name: Rixin Zhou
+      award: 吉林大学“中国一汽本科生奖学金”（三等奖）(10000)
+    -
+      name: Qiang bai
+      award: 研究生学业奖学金2023(10000)
+    -
+      name: Jiacheng Liu
+      award: 研究生学业奖学金2023(8000)
+    -
+      name: Xi Wang
+      award: 研究生学业奖学金2023(8000)
   Reports:
     -
       name: 吉林:构筑优秀科技人才回归“强磁场”
