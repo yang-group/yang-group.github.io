@@ -289,7 +289,17 @@ AwardData:
   Reports:
     -
       name: 吉林:构筑优秀科技人才回归“强磁场”
-      link: https://m.jlntv.cn/video?id=676054&sign=a7f75149a    
+      link: https://m.jlntv.cn/video?id=676054&sign=a7f75149a 
+    -
+      name: 小程序探秘青铜器--光明日报
+      link: https://epaper.gmw.cn/gmrb/html/2023-10/31/nw.D110000gmrb_20231031_3-09.htm
+    -
+      name: 人工智能技术首次用于青铜器研究--科技日报
+      link: http://digitalpaper.stdaily.com/http_www.kjrb.com/kjrb/html/2023-10/28/node_2.htm
+    -
+      name: 吉林大学“古文字古文物人工智能重点实验室”揭牌仪式暨“吉金识辨·青铜器智能断代与辨类”程序发布会举行
+      link: https://news.jlu.edu.cn/info/1211/57636.htm
+   
 
 paperList:
   -
@@ -299,7 +309,23 @@ paperList:
     pub: ECCV 2024
     image: img/researchImg/ECCV2024ZRX.png
     links:
-      paper: https://arxiv.org/abs/2312.08704
+      paper: https://arxiv.org/abs/2312.08704 
+  -
+    title: FilterPrompt: Guiding Image Transfer in Diffusion Models
+    authors: Xi Wang, Yichen Peng, Heng Fang, Haoran Xie, Xi Yang, Chuntao Li
+    year: 2024
+    pub: arXiv 2024
+    image: img/researchImg/ECCVWX.png
+    links:
+      paper: https://arxiv.org/abs/2404.13263  
+  -
+    title: Efficient Point Cloud Registration using Dynamic Networks
+    authors: Yang Ai, Xi Yang
+    year: 2024
+    pub: arXiv 2024
+    image: img/researchImg/AY.png
+    links:
+      paper: https://arxiv.org/abs/2312.02877
   -
     title: Detecting Oracle Bone Inscriptions Via Pseudo Category Labels
     authors: Xinran Fu, Rixin Zhou, Xi Yang, Chuntao Li
