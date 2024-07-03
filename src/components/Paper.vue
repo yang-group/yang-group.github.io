@@ -65,6 +65,14 @@
               </v-icon>
             </v-btn>
           </span>
+          <span v-show="paper.links.projectpagelink != null">
+            <v-btn class="ma-1" color="purple lighten-2" dark :href="paper.links.projectpagelink">
+              project page
+              <v-icon right>
+                mdi-attachment
+              </v-icon>
+            </v-btn>
+          </span>
         </div>
       </v-col>
     </v-row>

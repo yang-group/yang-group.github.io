@@ -317,7 +317,8 @@ paperList:
     pub: arXiv 2024
     image: img/researchImg/ECCVWX.png
     links:
-      paper: https://arxiv.org/abs/2404.13263  
+      paper: https://arxiv.org/abs/2404.13263 
+      projectpagelink: https://meaoxixi.github.io/FilterPrompt/  
   -
     title: Efficient Point Cloud Registration using Dynamic Networks
     authors: Yang Ai, Xi Yang
