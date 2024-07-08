@@ -21,7 +21,7 @@
               </div>
             </v-row>
           </div>
-          <div :key="index" v-if="key == 'Reports'">
+          <div :key="index" v-if="key == 'Media'">
             <v-row>
               <div class="mt-2 mb-2">
                 <h1 class="mb-4">{{ key }}</h1>
@@ -50,7 +50,7 @@ export default {
   props: ['AwardData'],
   data: () => ({
     std_cat: {},
-    cards: ['Awards', 'Reports'] // 这里可以加入 Ph.D.以及 Past Members
+    cards: ['Awards', 'Media'] // 这里可以加入 Ph.D.以及 Past Members
   }),
   mounted () {
     this.std_cat = this.AwardData

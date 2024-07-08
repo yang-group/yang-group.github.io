@@ -30,7 +30,7 @@
               <div class="mt-2 mb-2">
 
                 <h1 class="mb-4">{{ key }}</h1>
-                <p v-for="(pastlab,idx) in value" :key="`${key}${idx}`" style="line-height:13px; ">
+                <p v-for="(pastlab,idx) in value" :key="`${key}${idx}`" style="line-height:13px;">
                   <a v-if="pastlab['homepage'] != None" :href="pastlab['homepage']">
                     <b>
                       {{pastlab['name']}}

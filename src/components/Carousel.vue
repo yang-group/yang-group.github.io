@@ -18,6 +18,23 @@
     </v-carousel-item> -->
     <v-carousel-item>
       <v-sheet color="#F2F4FA" height="100%">
+          <img :src="imgItem[16]" class="carousel-img" id="carousel-img2" style="margin-top: 7%;">
+          <div class="carousel-text-even">
+            <h1 class="carousel-text-title font-color-thin" style="font-size: 26px;">PairingNet: A Learning-based Pair-searching and -matching Network for Image Fragmentsc</h1>
+            <div class="carousel-text-content font-color-thin">
+              Rixin Zhou, Ding Xia, Yi Zhang, Honglin Pang, Xi Yang, Chuntao Lic
+            </div>
+            <v-btn class="btn-even btn-ml  btn-mt" color="rgba(0,0,0,0)" width="130" height="40" :href="papers[0].links.paper">
+              paper
+              <v-icon right>
+                mdi-attachment
+              </v-icon>
+            </v-btn>
+          </div>
+      </v-sheet>
+    </v-carousel-item>
+    <v-carousel-item>
+      <v-sheet color="#F2F4FA" height="100%">
           <img :src="imgItem[15]" class="carousel-img" id="carousel-img2" style="margin-top: 7%;">
           <div class="carousel-text-even">
             <h1 class="carousel-text-title font-color-thin" style="font-size: 26px;">CanvasPic: An Interactive Tool for Freely Generating Facial Images Based on Spatial Layout</h1>
