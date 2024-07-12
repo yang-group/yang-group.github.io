@@ -13,7 +13,7 @@
                     </b>
                   </a>
                   <b v-else>
-                    {{pastlab['name']}}
+                    · {{pastlab['name']}} &nbsp;
                   </b>
                   <span>{{pastlab['award']}}</span>
                   <!-- <i>{{pastlab['affiliation']}}</i> -->

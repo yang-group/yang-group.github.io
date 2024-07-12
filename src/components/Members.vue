@@ -33,11 +33,11 @@
                 <p v-for="(pastlab,idx) in value" :key="`${key}${idx}`" style="line-height:13px;">
                   <a v-if="pastlab['homepage'] != None" :href="pastlab['homepage']">
                     <b>
-                      {{pastlab['name']}}
+                      {{pastlab['name']}} &nbsp;
                     </b>
                   </a>
                   <b v-else>
-                    {{pastlab['name']}}
+                    {{pastlab['name']}} &nbsp;
                   </b>
                   <span>{{pastlab['year']}}</span>
                   <!-- <i>{{pastlab['affiliation']}}</i> -->
