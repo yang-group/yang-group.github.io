@@ -87,7 +87,7 @@ memberData:
       photo: img/studentImg/caoshan.jpg
 
   Master:
-    
+
     -
       name: Honglin Pang (庞宏林)
       year: 2022
@@ -95,6 +95,7 @@ memberData:
       inerest:
         - CV
       photo: img/studentImg/panghonglin.jpg
+      github: http://pugguphl.github.io
     -
       name: Yi Tang (唐艺)
       year: 2022
@@ -336,6 +337,22 @@ AwardData:
    
 
 paperList:
+  -
+    title: Gamification of virtual museum curation: a case study of Chinese bronze wares
+    authors: Zhaokang Li, Xi Yang, Chuntao Li
+    year: 2024
+    pub: Heritage Science
+    image: img/researchImg/LZKHS.png
+    links:
+      paper: https://link.springer.com/article/10.1186/s40494-024-01464-2?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20241008&utm_content=10.1186%2Fs40494-024-01464-2
+  -
+    title: Pottery Evolution Pattern Discovery based on Deep Learning: Case Study of Miaozigou Culture in China
+    authors: Honglin Pang, Xiujin Qi, Chengjun Xiao, Ziying Xu,Guangchen Ding, Yi Chang, Xi Yang, Tianjing Duan
+    year: 2024
+    pub: Heritage Science
+    image: img/researchImg/HSPHL.png
+    links:
+      paper: https://www.researchgate.net/publication/382731722_Pottery_Evolution_Pattern_Discovery_based_on_Deep_Learning_Case_Study_of_Miaozigou_Culture_in_China/fulltext/66aaa9e575fcd863e5ed3cb9/Pottery-Evolution-Pattern-Discovery-based-on-Deep-Learning-Case-Study-of-Miaozigou-Culture-in-China.pdf?origin=publication_detail&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uRG93bmxvYWQiLCJwcmV2aW91c1BhZ2UiOiJwdWJsaWNhdGlvbiJ9fQ
   -
     title: PairingNet: A Learning-based Pair-searching and -matching Network for Image Fragments
     authors: Rixin Zhou, Ding Xia, Yi Zhang, Honglin Pang, Xi Yang, Chuntao Li
