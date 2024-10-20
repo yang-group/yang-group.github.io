@@ -18,9 +18,43 @@
     </v-carousel-item> -->
     <v-carousel-item>
       <v-sheet color="#F2F4FA" height="100%">
+          <img :src="imgItem[18]" class="carousel-img" id="carousel-img2" style="margin-top: 7%;">
+          <div class="carousel-text-even">
+            <h1 class="carousel-text-title font-color-thin" style="font-size: 26px;">Gamification of virtual museum curation: a case study of Chinese bronze wares</h1>
+            <div class="carousel-text-content font-color-thin">
+              Zhaokang Li, Xi Yang, Chuntao Li
+            </div>
+            <v-btn class="btn-even btn-ml  btn-mt" color="rgba(0,0,0,0)" width="130" height="40" :href="papers[0].links.paper">
+              paper
+              <v-icon right>
+                mdi-attachment
+              </v-icon>
+            </v-btn>
+          </div>
+      </v-sheet>
+    </v-carousel-item>
+    <v-carousel-item>
+      <v-sheet color="#F2F4FA" height="100%">
+          <img :src="imgItem[17]" class="carousel-img" id="carousel-img2" style="margin-top: 7%;">
+          <div class="carousel-text-even">
+            <h1 class="carousel-text-title font-color-thin" style="font-size: 26px;">Pottery Evolution Pattern Discovery based on Deep Learning: Case Study of Miaozigou Culture in China</h1>
+            <div class="carousel-text-content font-color-thin">
+              Honglin Pang, Xiujin Qi, Chengjun Xiao, Ziying Xu,Guangchen Ding, Yi Chang, Xi Yang, Tianjing Duan
+            </div>
+            <v-btn class="btn-even btn-ml  btn-mt" color="rgba(0,0,0,0)" width="130" height="40" :href="papers[1].links.paper">
+              paper
+              <v-icon right>
+                mdi-attachment
+              </v-icon>
+            </v-btn>
+          </div>
+      </v-sheet>
+    </v-carousel-item>
+    <v-carousel-item>
+      <v-sheet color="#F2F4FA" height="100%">
           <img :src="imgItem[16]" class="carousel-img" id="carousel-img2" style="margin-top: 7%;">
           <div class="carousel-text-even">
-            <h1 class="carousel-text-title font-color-thin" style="font-size: 26px;">PairingNet: A Learning-based Pair-searching and -matching Network for Image Fragmentsc</h1>
+            <h1 class="carousel-text-title font-color-thin" style="font-size: 26px;">PairingNet: A Learning-based Pair-searching and -matching Network for Image Fragments</h1>
             <div class="carousel-text-content font-color-thin">
               Rixin Zhou, Ding Xia, Yi Zhang, Honglin Pang, Xi Yang, Chuntao Lic
             </div>
