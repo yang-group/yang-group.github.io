@@ -22,7 +22,7 @@
           <div class="carousel-text-even">
             <h1 class="carousel-text-title font-color-thin" style="font-size: 26px;">Gamification of virtual museum curation: a case study of Chinese bronze wares</h1>
             <div class="carousel-text-content font-color-thin">
-              Zhaokang Li, Xi Yang, Chuntao Li
+              Zhaokang Li, Qian zhang, jiayue Xu, Chuntao Li, Xi Yang
             </div>
             <v-btn class="btn-even btn-ml  btn-mt" color="rgba(0,0,0,0)" width="130" height="40" :href="papers[0].links.paper">
               paper
