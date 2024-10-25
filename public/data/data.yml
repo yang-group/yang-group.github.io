@@ -131,7 +131,7 @@ memberData:
       email: taoye06282001@163.com
       inerest:
         - CV
-      photo: img/studentImg/taoye.jpeg
+      photo: img/studentImg/taoye2.jpg
     -
       name: Qiuwen Shao(邵湫雯)
       year: 2023
@@ -370,6 +370,7 @@ paperList:
     image: img/researchImg/LZKHS.png
     links:
       paper: https://link.springer.com/article/10.1186/s40494-024-01464-2?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20241008&utm_content=10.1186%2Fs40494-024-01464-2
+      vedio: https://www.bilibili.com/video/BV1upypYYEAh/?spm_id_from=333.999.0.0&vd_source=1f9796de4e6991771ed348c41f498cdc
   -
     title: Pottery Evolution Pattern Discovery based on Deep Learning: Case Study of Miaozigou Culture in China
     authors: Honglin Pang, Xiujin Qi, Chengjun Xiao, Ziying Xu,Guangchen Ding, Yi Chang, Xi Yang, Tianjing Duan
