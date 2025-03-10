@@ -363,6 +363,15 @@ AwardData:
 
 paperList:
   -
+    title: LineArt: A Knowledge-guided Training-free High-quality Appearance Transfer for Design Drawing with Diffusion Model
+    authors: Xi Wang, Hongzhen Li, Heng Fang, Yichen Peng, Haoran Xie, Xi Yang, Chuntao Li
+    year: 2025
+    pub: CVPR
+    image: img/researchImg/WXCVPR.jpg
+    links:
+      paper: https://arxiv.org/abs/2412.11519
+      projectpagelink: https://meaoxixi.github.io/LineArt/
+  -
     title: Gamification of virtual museum curation: a case study of Chinese bronze wares
     authors: Zhaokang Li, Qian zhang, jiayue Xu, Chuntao Li, Xi Yang
     year: 2024
