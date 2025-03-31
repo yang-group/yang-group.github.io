@@ -21,7 +21,11 @@ imgItems:
   - img/researchImg/ECCV2024ZRX.png
   - img/researchImg/HSPHL.png
   - img/researchImg/LZKHS.png
+  - img/researchImg/WXCVPR.jpg
 recentNews:
+  -
+    date: 2025.02.27
+    content: Our paper "LineArt: A Knowledge-guided Training-free High-quality Appearance Transfer for Design Drawing with Diffusion Model" is accepted by CVPR2025.
   -
     date: 2024.09.28
     content: Our paper "Pottery Evolution Pattern Discovery based on Deep Learning: Case Study of Miaozigou Culture in China" is accepted by Heritage Science.
