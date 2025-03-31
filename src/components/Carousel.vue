@@ -20,9 +20,9 @@
       <v-sheet color="#F2F4FA" height="100%">
           <img :src="imgItem[19]" class="carousel-img" id="carousel-img2" style="margin-top: 7%;">
           <div class="carousel-text-even">
-            <h1 class="carousel-text-title font-color-thin" style="font-size: 26px;">LineArt: A Knowledge-guided Training-free High-quality Appearance Transfer for Design Drawing with Diffusion Model</h1>
+            <h1 class="carousel-text-title font-color-thin" style="font-size: 20px;">LineArt: A Knowledge-guided Training-free High-quality Appearance Transfer for Design Drawing with Diffusion Model</h1>
             <div class="carousel-text-content font-color-thin">
-              Xi Wang, Hongzhen Li, Heng Fang, Yichen Peng, Haoran Xie, Xi Yang, Chuntao Li
+              Xi Wang, Hongzhen Li, Heng Fang, Yichen Peng, Haoran Xie, Xi Yang, Chuntao Li
             </div>
             <v-btn class="btn-even btn-ml  btn-mt" color="rgba(0,0,0,0)" width="130" height="40" :href="papers[0].links.paper">
               paper
@@ -41,7 +41,7 @@
             <div class="carousel-text-content font-color-thin">
               Zhaokang Li, Qian zhang, jiayue Xu, Chuntao Li, Xi Yang
             </div>
-            <v-btn class="btn-even btn-ml  btn-mt" color="rgba(0,0,0,0)" width="130" height="40" :href="papers[1].links.paper">
+            <v-btn class="btn-even btn-ml  btn-mt" color="rgba(0,0,0,0)" width="130" height="40" :href="papers[1].links.paper" style="z-index: 999">
               paper
               <v-icon right>
                 mdi-attachment
@@ -58,7 +58,7 @@
             <div class="carousel-text-content font-color-thin">
               Honglin Pang, Xiujin Qi, Chengjun Xiao, Ziying Xu,Guangchen Ding, Yi Chang, Xi Yang, Tianjing Duan
             </div>
-            <v-btn class="btn-even btn-ml  btn-mt" color="rgba(0,0,0,0)" width="130" height="40" :href="papers[1].links.paper">
+            <v-btn class="btn-even btn-ml  btn-mt" color="rgba(0,0,0,0)" width="130" height="40" :href="papers[2].links.paper">
               paper
               <v-icon right>
                 mdi-attachment
@@ -75,7 +75,7 @@
             <div class="carousel-text-content font-color-thin">
               Rixin Zhou, Ding Xia, Yi Zhang, Honglin Pang, Xi Yang, Chuntao Lic
             </div>
-            <v-btn class="btn-even btn-ml  btn-mt" color="rgba(0,0,0,0)" width="130" height="40" :href="papers[0].links.paper">
+            <v-btn class="btn-even btn-ml  btn-mt" color="rgba(0,0,0,0)" width="130" height="40" :href="papers[3].links.paper">
               paper
               <v-icon right>
                 mdi-attachment

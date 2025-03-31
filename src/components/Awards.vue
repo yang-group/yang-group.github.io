@@ -21,6 +21,24 @@
               </div>
             </v-row>
           </div>
+          <div :key="index" v-if="key == 'Grants'">
+            <v-row>
+              <div class="mt-2 mb-2">
+                <h1 class="mb-4">{{ key }}</h1>
+                <p v-for="(pastlab,idx) in value" :key="`${key}${idx}`" style="line-height:13px; ">
+                  <a v-if="pastlab['homepage'] != None" :href="pastlab['homepage']">
+                    <b>
+                      {{pastlab['name']}}
+                    </b>
+                  </a>
+                  <b v-else>
+                    · {{pastlab['name']}} &nbsp;
+                  </b>
+                  <!-- <i>{{pastlab['affiliation']}}</i> -->
+                </p>
+              </div>
+            </v-row>
+          </div>
           <div :key="index" v-if="key == 'Media'">
             <v-row>
               <div class="mt-2 mb-2">
