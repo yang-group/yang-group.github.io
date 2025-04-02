@@ -26,7 +26,7 @@
               <div class="mt-2 mb-2">
                 <h1 class="mb-4">{{ key }}</h1>
                 <p v-for="(pastlab,idx) in value" :key="`${key}${idx}`" style="line-height:13px; ">
-                  <span style="font-weight: normal; font-size: 0.85em;">
+                  <span style="font-weight: normal; ">
                     <template v-if="pastlab['homepage'] != null">
                       {{ pastlab['name'] }}
                     </template>
