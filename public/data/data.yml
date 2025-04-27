@@ -386,6 +386,15 @@ AwardData:
 
 paperList:
   -
+    title: LineArt: An archaeological Catalog Collection Method Based on Large Vision-Language Models
+    authors: Honglin Pang, Yi Chang, Tianjing Duan, Xi Yang
+    year: 2025
+    pub: arXiv
+    image: img/researchImg/arXiv2025_PHL.png
+    links:
+      paper: https://arxiv.org/abs/2412.20088
+      code: https://github.com/Pugguphl/catalogextractor/tree/main
+  -
     title: LineArt: A Knowledge-guided Training-free High-quality Appearance Transfer for Design Drawing with Diffusion Model
     authors: Xi Wang, Hongzhen Li, Heng Fang, Yichen Peng, Haoran Xie, Xi Yang, Chuntao Li
     year: 2025
@@ -473,6 +482,7 @@ paperList:
     image: img/researchImg/IUI2024TangYi.jpg
     links:
       paper: https://doi.org/10.1145/3640543.3645174
+      code: https://github.com/VanillaTY/PDFChatAnnotator
       projectlink: projectpage/IUI2024_YiTang/index.html
       toproject: /ProjectPageIUIYiTang2024
   -
