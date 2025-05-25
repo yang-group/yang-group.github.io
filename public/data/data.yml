@@ -97,7 +97,20 @@ memberData:
       inerest:
         - CV
       photo: img/studentImg/caoshan.jpg
-
+    # -
+    #   name: Qingzhe Zhu (朱沁哲)
+    #   year: 2025
+    #   email: zqz061314@gmail.com
+    #   inerest:
+    #     - CV
+    #   photo: img/studentImg/zhuqingzhe.jpg
+    # -
+    #   name: Shichao Fan (范世朝)
+    #   year: 2025
+    #   email: fanshichao1998@163.com
+    #   inerest:
+    #     - CV
+    #   photo: img/studentImg/fanshichao.jpg
   Master:
 
     -
@@ -164,19 +177,33 @@ memberData:
       inerest:
         - CV
       photo: img/studentImg/xuejing.jpg
+    # -
+    #   name: Yukun Si(司钰坤)
+    #   year: 2025
+    #   email: 3043691609@qq.com
+    #   inerest:
+    #     - CV
+    #   photo: img/studentImg/siyukun.jpg
+    # -
+    #   name: Yikai Gao(高一凯)
+    #   year: 2025
+    #   email: 
+    #   inerest:
+    #     - CV
+    #   photo: img/studentImg/gaoyikai.jpg
+    # -
+    #   name: GuoQing Wu(吴国庆)
+    #   year: 2025
+    #   email: 2758898494@qq.com
+    #   inerest:
+    #     - CV
+    #   photo: img/studentImg/wuguoqing.jpg
   Undergraduate:
     -
       
 
   # Graduated:
   Past Members:
-    -
-      name: Yi He (何毅) Co-supervised with Prof. Xie, JAIST. 日立(HITACHI)研究所.
-      year: 2021-2022
-      # email: s2010035@jaist.ac.jp
-      # inerest:
-      #   - User Interface
-      # photo: img/studentImg/heyi.jpg
     -
       name: Jiafu Wei (魏家富). 腾讯, top offer.
       year: 2021-2024(获优秀研究生学位论文)
@@ -205,6 +232,13 @@ memberData:
       # inerest:
       #   - CV
       # photo: img/studentImg/liujiacheng.jpg
+    -
+      name: Yi He (何毅) Co-supervised with Prof. Xie, JAIST. 日立(HITACHI)研究所.
+      year: 2021-2022
+      # email: s2010035@jaist.ac.jp
+      # inerest:
+      #   - User Interface
+      # photo: img/studentImg/heyi.jpg
     -
       name: Chuan Tang (唐川) Co-supervised with Prof. Chang, JLU. 理想, top offer. 
       year: 2020-2023 (获优秀研究生学位论文)
@@ -297,6 +331,10 @@ memberData:
       homepage: https://h312h.github.io/
 AwardData:
   Awards:
+    -
+      name: Honglin Pang
+      award: 2025届优秀毕业研究生
+      year: 2025
     -
       name: Rixin Zhou
       award: 学术业绩奖学金 2024(10000)
