@@ -97,44 +97,29 @@ memberData:
       inerest:
         - CV
       photo: img/studentImg/caoshan.jpg
-    # -
-    #   name: Qingzhe Zhu (朱沁哲)
-    #   year: 2025
-    #   email: zqz061314@gmail.com
-    #   inerest:
-    #     - CV
-    #   photo: img/studentImg/zhuqingzhe.jpg
-    # -
-    #   name: Shichao Fan (范世朝)
-    #   year: 2025
-    #   email: fanshichao1998@163.com
-    #   inerest:
-    #     - CV
-    #   photo: img/studentImg/fanshichao.jpg
-  Master:
-
     -
       name: Honglin Pang (庞宏林)
-      year: 2022
+      year: 2025
       email: panghlwork@gmail.com
       inerest:
         - CV
       photo: img/studentImg/panghonglin.jpg
       github: http://pugguphl.github.io
     -
-      name: Yi Tang (唐艺)
-      year: 2022
-      email: tangyi2118@mails.jlu.edu.cn
+      name: Qingzhe Zhu (朱沁哲) Co-supervised with Prof. Feng
+      year: 2025
+      email: zqz061314@gmail.com
       inerest:
         - CV
-      photo: img/studentImg/tangyi.jpg
+      photo: img/studentImg/zhuqingzhe.jpg
     -
-      name: Zhaokang Li (李炤慷)
-      year: 2022
-      email: 2521960449@qq.com
+      name: Shichao Fan (范世朝)
+      year: 2025
+      email: fanshichao1998@163.com
       inerest:
         - CV
-      photo: img/studentImg/lizhaokang.jpg
+      photo: img/studentImg/fanshichao.jpg
+  Master:
     -
       name: Xi Wang (王茜)
       year: 2023
@@ -177,33 +162,48 @@ memberData:
       inerest:
         - CV
       photo: img/studentImg/xuejing.jpg
-    # -
-    #   name: Yukun Si(司钰坤)
-    #   year: 2025
-    #   email: 3043691609@qq.com
-    #   inerest:
-    #     - CV
-    #   photo: img/studentImg/siyukun.jpg
-    # -
-    #   name: Yikai Gao(高一凯)
-    #   year: 2025
-    #   email: 
-    #   inerest:
-    #     - CV
-    #   photo: img/studentImg/gaoyikai.jpg
-    # -
-    #   name: GuoQing Wu(吴国庆)
-    #   year: 2025
-    #   email: 2758898494@qq.com
-    #   inerest:
-    #     - CV
-    #   photo: img/studentImg/wuguoqing.jpg
+    -
+      name: Yukun Si(司钰坤)
+      year: 2025
+      email: 3043691609@qq.com
+      inerest:
+        - CV
+      photo: img/studentImg/siyukun.jpg
+    -
+      name: Yikai Gao(高一凯)
+      year: 2025
+      email: 2804200588@qq.com
+      inerest:
+        - CV
+      photo: img/studentImg/gaoyikai.jpg
+    -
+      name: GuoQing Wu(吴国庆)
+      year: 2025
+      email: 2758898494@qq.com
+      inerest:
+        - CV
+      photo: img/studentImg/wuguoqing.jpg
   Undergraduate:
     -
       
 
   # Graduated:
   Past Members:
+    -
+      name: Yi Tang (唐艺). 阿里巴巴淘天集团, top offer.
+      year: 2022-2025
+      homepage: https://vanillaty.github.io/
+      # email: tangyi2118@mails.jlu.edu.cn
+      # inerest:
+      #   - CV
+      # photo: img/studentImg/tangyi.jpg
+    -
+      name: Zhaokang Li (李炤慷). 中国卫星测控中心.
+      year: 2022-2025
+      # email: 2521960449@qq.com
+      # inerest:
+      #   - CV
+      # photo: img/studentImg/lizhaokang.jpg
     -
       name: Jiafu Wei (魏家富). 腾讯, top offer.
       year: 2021-2024(获优秀研究生学位论文)
@@ -332,12 +332,20 @@ memberData:
 AwardData:
   Awards:
     -
+      name: Yi Tang
+      award: 2024-2025学年优秀研究生
+      year: 2025
+    -
       name: Honglin Pang
       award: 2025届优秀毕业研究生
       year: 2025
     -
       name: Rixin Zhou
       award: 学术业绩奖学金 2024(10000)
+      year: 2024
+    -
+      name: Yi Tang
+      award: 研究生学业奖学金 2024(8000)
       year: 2024
     -
       name: Jian Pei
@@ -361,6 +369,10 @@ AwardData:
       year: 2023
     -
       name: Jiacheng Liu
+      award: 研究生学业奖学金 2023(8000)
+      year: 2023
+    -
+      name: Yi Tang
       award: 研究生学业奖学金 2023(8000)
       year: 2023
     -
