@@ -183,6 +183,13 @@ memberData:
       inerest:
         - CV
       photo: img/studentImg/wuguoqing.jpg
+    -
+      name: Nuo Xu(许诺)
+      year: 2025
+      email: 2238305800@qq.com
+      inerest:
+        - CV
+      photo: img/studentImg/xunuo.jpg
   Undergraduate:
     -
       
