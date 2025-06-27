@@ -112,13 +112,6 @@ memberData:
       inerest:
         - CV
       photo: img/studentImg/zhuqingzhe.jpg
-    -
-      name: Shichao Fan (范世朝)
-      year: 2025
-      email: fanshichao1998@163.com
-      inerest:
-        - CV
-      photo: img/studentImg/fanshichao.jpg
   Master:
     -
       name: Xi Wang (王茜)
