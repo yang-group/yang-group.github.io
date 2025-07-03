@@ -22,7 +22,11 @@ imgItems:
   - img/researchImg/HSPHL.png
   - img/researchImg/LZKHS.png
   - img/researchImg/WXCVPR.jpg
+  - img/researchImg/HS2025.png
 recentNews:
+  -
+    date: 2025.06.25
+    content: Our paper "Clustering-based feature representation learning for Oracle Bone Inscriptions detection" is accepted by Heritage Science.
   -
     date: 2025.02.27
     content: Our paper "LineArt: A Knowledge-guided Training-free High-quality Appearance Transfer for Design Drawing with Diffusion Model" is accepted by CVPR 2025.
@@ -435,6 +439,15 @@ AwardData:
    
 
 paperList:
+  -
+    title: Clustering-based feature representation learning for Oracle Bone Inscriptions detection
+    authors: Ye Tao, Xinran Fu, Honglin Pang, Xi Yang, Chuntao Li
+    year: 2025
+    pub: Heritage Science
+    image: img/researchImg/HS2025.png
+    links:
+      paper: https://www.nature.com/articles/s40494-025-01850-4
+      code: https://github.com/biscuit030/Clustering-based-Feature-Representation-Learning-for-Oracle-Bone-Inscriptions-Detection
   -
     title: An archaeological Catalog Collection Method Based on Large Vision-Language Models
     authors: Honglin Pang, Yi Chang, Tianjing Duan, Xi Yang
