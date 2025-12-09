@@ -462,6 +462,14 @@ AwardData:
 
 paperList:
   -
+    title: Learning Compact Latent Space for Representing Neural Signed Distance Functions with High-fidelity Geometry Details
+    authors: Qiang Bai, Bojian Wu, Xi Yang, Zhizhong Han
+    year: 2026
+    pub: AAAI
+    image: img/researchImg/AAAI26.png
+    links:
+      paper: https://arxiv.org/abs/2511.14539
+  -
     title: Clustering-based feature representation learning for Oracle Bone Inscriptions detection
     authors: Ye Tao, Xinran Fu, Honglin Pang, Xi Yang, Chuntao Li
     year: 2025
