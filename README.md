@@ -38,7 +38,7 @@ cd dist
 git init
 git add .
 git commit -m "update pages"
-git push -f git@github.com:yang-group/yang-group.github.io master:gh-pages   
+git push -f git@github.com:yang-group/yang-group.github.io master:gh-pages
 
 ```
 
@@ -48,7 +48,7 @@ npm run build
 git init
 git add .
 git commit -m "dev"
-git push -f git@github.com:yang-group/yang-group.github.io dev:dev   
+git push -f git@github.com:yang-group/yang-group.github.io dev:dev
 
 ```
 

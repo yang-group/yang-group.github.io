@@ -25,6 +25,9 @@ imgItems:
   - img/researchImg/HS2025.png
 recentNews:
   -
+    date: 2025.11.18
+    content: Our paper "Learning Compact Latent Space for Representing Neural Signed Distance Functions with High-fidelity Geometry Details" is accepted by AAAI 2026.
+  -
     date: 2025.06.25
     content: Our paper "Clustering-based feature representation learning for Oracle Bone Inscriptions detection" is accepted by Heritage Science.
   -
@@ -469,6 +472,7 @@ paperList:
     image: img/researchImg/AAAI26.png
     links:
       paper: https://arxiv.org/abs/2511.14539
+      code: https://github.com/eoozbq/Compact-SDF
   -
     title: Clustering-based feature representation learning for Oracle Bone Inscriptions detection
     authors: Ye Tao, Xinran Fu, Honglin Pang, Xi Yang, Chuntao Li
