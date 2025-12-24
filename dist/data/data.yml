@@ -23,6 +23,7 @@ imgItems:
   - img/researchImg/LZKHS.png
   - img/researchImg/WXCVPR.jpg
   - img/researchImg/HS2025.png
+  - img/researchImg/AAAI26.png
 recentNews:
   -
     date: 2025.11.18
@@ -424,6 +425,10 @@ AwardData:
       year: 2022
 
   Grants:
+    -
+      name: 2026年至2027年，吉林省教育厅科学研究项目，优秀青年
+    -
+      name: 2026年至2027年，吉林省研究生教育教学改革研究项目（一般项目）
     -
       name: 2026年至2029年，国家自然科学基金委，面上项目
     -
