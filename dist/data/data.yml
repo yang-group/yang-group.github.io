@@ -27,6 +27,9 @@ imgItems:
   - img/researchImg/ZRX_HS2025.png
 recentNews:
   -
+    date: 2026.02.20
+    content: Our paper "Rethinking Glyph Spatial Information in Font Generation" is accepted by CVPR2026.
+  -
     date: 2026.01.15
     content: Our paper "Ladder-side mixture of experts adapters for bronze inscription recognition" is accepted by Heritage Science.
   -
@@ -473,6 +476,14 @@ AwardData:
    
 
 paperList:
+  -
+    title: Rethinking Glyph Spatial Information in Font Generation
+    authors: Peng Su, Xi Yang
+    year: 2026
+    pub: CVPR
+    image: img/researchImg/sp_cvpr2026.png
+    links:
+      paper:
   -
     title: Ladder-side mixture of experts adapters for bronze inscription recognition
     authors: Rixin Zhou, Peiqiang Qiu, Qian Zhang, Chuntao Li, Xi Yang
