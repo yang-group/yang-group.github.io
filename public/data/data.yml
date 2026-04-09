@@ -26,7 +26,11 @@ imgItems:
   - img/researchImg/AAAI26.png
   - img/researchImg/ZRX_HS2025.png
   - img/researchImg/sp_cvpr2026.png
+  - img/researchImg/ZJN_ACL2026.jpg
 recentNews:
+  -
+    date: 2026.04.08
+    content: Our paper "Specializing Large Models for Oracle Bone Script Interpretation via Component-Grounded Multimodal Knowledge Augmentation" is accepted by ACL2026.
   -
     date: 2026.02.20
     content: Our paper "Rethinking Glyph Spatial Information in Font Generation" is accepted by CVPR2026.
@@ -477,6 +481,14 @@ AwardData:
    
 
 paperList:
+  -
+    title: Specializing Large Models for Oracle Bone Script Interpretation via Component-Grounded Multimodal Knowledge Augmentation
+    authors: Jianing Zhang, Runan Li, Honglin Pang, Ding Xia, Zhou Zhu, Qian Zhang, Chuntao Li, Xi Yang
+    year: 2026
+    pub: ACL
+    image: img/researchImg/ZJN_ACL2026.jpg
+    links:
+      paper: https://arxiv.org/abs/2604.06711v1
   -
     title: Rethinking Glyph Spatial Information in Font Generation
     authors: Peng Su, Xi Yang
