@@ -18,13 +18,92 @@
     </v-carousel-item> -->
     <v-carousel-item>
       <v-sheet color="#F2F4FA" height="100%">
+          <img :src="imgItem[24]" class="carousel-img" id="carousel-img2" style="margin-top: 5%;">
+          <div class="carousel-text-even">
+            <h1 class="carousel-text-title font-color-thin" style="font-size: 20px;">Specializing Large Models for Oracle Bone Script Interpretation via Component-Grounded Multimodal Knowledge Augmentation</h1>
+            <div class="carousel-text-content font-color-thin">
+              Jianing Zhang, Runan Li, Honglin Pang, Ding Xia, Zhou Zhu, Qian Zhang, Chuntao Li, Xi Yang
+            </div>
+            <v-btn class="btn-even btn-ml  btn-mt" color="rgba(0,0,0,0)" width="130" height="40" :href="papers[0].links.paper">
+              paper
+              <v-icon right>
+                mdi-attachment
+              </v-icon>
+            </v-btn>
+          </div>
+      </v-sheet>
+    </v-carousel-item>
+    <v-carousel-item>
+      <v-sheet color="#F2F4FA" height="100%">
+          <img :src="imgItem[23]" class="carousel-img" id="carousel-img2" style="margin-top: 2%; margin-left: 12%;">
+          <div class="carousel-text-even">
+            <h1 class="carousel-text-title font-color-thin" style="font-size: 20px;">Rethinking Glyph Spatial Information in Font Generation</h1>
+            <div class="carousel-text-content font-color-thin">
+              Peng Su, Xi Yang
+            </div>
+          </div>
+      </v-sheet>
+    </v-carousel-item>
+    <v-carousel-item>
+      <v-sheet color="#F2F4FA" height="100%">
+          <img :src="imgItem[22]" class="carousel-img" id="carousel-img2" style="margin-top: 2%; margin-left: 16%;">
+          <div class="carousel-text-even">
+            <h1 class="carousel-text-title font-color-thin" style="font-size: 20px;">Ladder-side mixture of experts adapters for bronze inscription recognition</h1>
+            <div class="carousel-text-content font-color-thin">
+              Rixin Zhou, Peiqiang Qiu, Qian Zhang, Chuntao Li, Xi Yang
+            </div>
+            <v-btn class="btn-even btn-ml  btn-mt" color="rgba(0,0,0,0)" width="130" height="40" :href="papers[2].links.paper">
+              paper
+              <v-icon right>
+                mdi-attachment
+              </v-icon>
+            </v-btn>
+          </div>
+      </v-sheet>
+    </v-carousel-item>
+    <v-carousel-item>
+      <v-sheet color="#F2F4FA" height="100%">
+          <img :src="imgItem[21]" class="carousel-img" id="carousel-img2" style="margin-top: 2%; margin-left: 11%;">
+          <div class="carousel-text-even">
+            <h1 class="carousel-text-title font-color-thin" style="font-size: 20px;">Learning Compact Latent Space for Representing Neural Signed Distance Functions with High-fidelity Geometry Details</h1>
+            <div class="carousel-text-content font-color-thin">
+              Qiang Bai, Bojian Wu, Xi Yang, Zhizhong Han
+            </div>
+            <v-btn class="btn-even btn-ml  btn-mt" color="rgba(0,0,0,0)" width="130" height="40" :href="papers[3].links.paper">
+              paper
+              <v-icon right>
+                mdi-attachment
+              </v-icon>
+            </v-btn>
+          </div>
+      </v-sheet>
+    </v-carousel-item>
+    <v-carousel-item>
+      <v-sheet color="#F2F4FA" height="100%">
+          <img :src="imgItem[20]" class="carousel-img" id="carousel-img2" style="margin-top: 7%;">
+          <div class="carousel-text-even">
+            <h1 class="carousel-text-title font-color-thin" style="font-size: 20px;">Clustering-based feature representation learning for Oracle Bone Inscriptions detection</h1>
+            <div class="carousel-text-content font-color-thin">
+              Ye Tao, Xinran Fu, Honglin Pang, Xi Yang, Chuntao Li
+            </div>
+            <v-btn class="btn-even btn-ml  btn-mt" color="rgba(0,0,0,0)" width="130" height="40" :href="papers[4].links.paper">
+              paper
+              <v-icon right>
+                mdi-attachment
+              </v-icon>
+            </v-btn>
+          </div>
+      </v-sheet>
+    </v-carousel-item>
+    <v-carousel-item>
+      <v-sheet color="#F2F4FA" height="100%">
           <img :src="imgItem[19]" class="carousel-img" id="carousel-img2" style="margin-top: 7%;">
           <div class="carousel-text-even">
             <h1 class="carousel-text-title font-color-thin" style="font-size: 20px;">LineArt: A Knowledge-guided Training-free High-quality Appearance Transfer for Design Drawing with Diffusion Model</h1>
             <div class="carousel-text-content font-color-thin">
               Xi Wang, Hongzhen Li, Heng Fang, Yichen Peng, Haoran Xie, Xi Yang, Chuntao Li
             </div>
-            <v-btn class="btn-even btn-ml  btn-mt" color="rgba(0,0,0,0)" width="130" height="40" :href="papers[0].links.paper">
+            <v-btn class="btn-even btn-ml  btn-mt" color="rgba(0,0,0,0)" width="130" height="40" :href="papers[6].links.paper">
               paper
               <v-icon right>
                 mdi-attachment
@@ -41,7 +120,7 @@
             <div class="carousel-text-content font-color-thin">
               Zhaokang Li, Qian zhang, jiayue Xu, Chuntao Li, Xi Yang
             </div>
-            <v-btn class="btn-even btn-ml  btn-mt" color="rgba(0,0,0,0)" width="130" height="40" :href="papers[1].links.paper" style="z-index: 999">
+            <v-btn class="btn-even btn-ml  btn-mt" color="rgba(0,0,0,0)" width="130" height="40" :href="papers[7].links.paper" style="z-index: 999">
               paper
               <v-icon right>
                 mdi-attachment
@@ -52,13 +131,13 @@
     </v-carousel-item>
     <v-carousel-item>
       <v-sheet color="#F2F4FA" height="100%">
-          <img :src="imgItem[17]" class="carousel-img" id="carousel-img2" style="margin-top: 7%;">
+          <img :src="imgItem[17]" class="carousel-img" id="carousel-img2" width="300" height="400" style="margin-top: 2%;">
           <div class="carousel-text-even">
             <h1 class="carousel-text-title font-color-thin" style="font-size: 26px;">Pottery Evolution Pattern Discovery based on Deep Learning: Case Study of Miaozigou Culture in China</h1>
             <div class="carousel-text-content font-color-thin">
               Honglin Pang, Xiujin Qi, Chengjun Xiao, Ziying Xu,Guangchen Ding, Yi Chang, Xi Yang, Tianjing Duan
             </div>
-            <v-btn class="btn-even btn-ml  btn-mt" color="rgba(0,0,0,0)" width="130" height="40" :href="papers[2].links.paper">
+            <v-btn class="btn-even btn-ml  btn-mt" color="rgba(0,0,0,0)" width="130" height="40" :href="papers[8].links.paper">
               paper
               <v-icon right>
                 mdi-attachment
@@ -75,7 +154,7 @@
             <div class="carousel-text-content font-color-thin">
               Rixin Zhou, Ding Xia, Yi Zhang, Honglin Pang, Xi Yang, Chuntao Lic
             </div>
-            <v-btn class="btn-even btn-ml  btn-mt" color="rgba(0,0,0,0)" width="130" height="40" :href="papers[3].links.paper">
+            <v-btn class="btn-even btn-ml  btn-mt" color="rgba(0,0,0,0)" width="130" height="40" :href="papers[9].links.paper">
               paper
               <v-icon right>
                 mdi-attachment
@@ -84,23 +163,23 @@
           </div>
       </v-sheet>
     </v-carousel-item>
-    <v-carousel-item>
-      <v-sheet color="#F2F4FA" height="100%">
-          <img :src="imgItem[15]" class="carousel-img" id="carousel-img2" style="margin-top: 7%;">
-          <div class="carousel-text-even">
-            <h1 class="carousel-text-title font-color-thin" style="font-size: 26px;">CanvasPic: An Interactive Tool for Freely Generating Facial Images Based on Spatial Layout</h1>
-            <div class="carousel-text-content font-color-thin">
-              Jiafu Wei, Chia-Ming Chang, Xi Yang, Takeo Igarashi
-            </div>
-            <v-btn class="btn-even btn-ml  btn-mt" color="rgba(0,0,0,0)" width="130" height="40" :href="papers[0].links.paper">
-              paper
-              <v-icon right>
-                mdi-attachment
-              </v-icon>
-            </v-btn>
-          </div>
-      </v-sheet>
-    </v-carousel-item>
+<!--    <v-carousel-item>-->
+<!--      <v-sheet color="#F2F4FA" height="100%">-->
+<!--          <img :src="imgItem[15]" class="carousel-img" id="carousel-img2" style="margin-top: 7%;">-->
+<!--          <div class="carousel-text-even">-->
+<!--            <h1 class="carousel-text-title font-color-thin" style="font-size: 26px;">CanvasPic: An Interactive Tool for Freely Generating Facial Images Based on Spatial Layout</h1>-->
+<!--            <div class="carousel-text-content font-color-thin">-->
+<!--              Jiafu Wei, Chia-Ming Chang, Xi Yang, Takeo Igarashi-->
+<!--            </div>-->
+<!--            <v-btn class="btn-even btn-ml  btn-mt" color="rgba(0,0,0,0)" width="130" height="40" :href="papers[13].links.paper">-->
+<!--              paper-->
+<!--              <v-icon right>-->
+<!--                mdi-attachment-->
+<!--              </v-icon>-->
+<!--            </v-btn>-->
+<!--          </div>-->
+<!--      </v-sheet>-->
+<!--    </v-carousel-item>-->
     <v-carousel-item>
       <v-sheet color="#4582B4" height="100%">
           <img :src="imgItem[11]" class="carousel-img" id="carousel-img1" style="margin-left: 15%">
@@ -110,40 +189,40 @@
           </div>
       </v-sheet>
     </v-carousel-item>
-    <v-carousel-item>
-      <v-sheet color="#F2F4FA" height="100%">
-          <img :src="imgItem[13]" class="carousel-img" id="carousel-img2">
-          <div class="carousel-text-even">
-            <h1 class="carousel-text-title font-color-thin" style="font-size: 26px;">SpaceEditing: Integrating Human Knowledge into Deep Neural Networks via Interactive Latent Space Editing</h1>
-            <div class="carousel-text-content font-color-thin">
-              Jiafu Wei, Ding Xia, Haoran Xie, Chia-Ming Chang, Chuntao Li, Xi Yang
-            </div>
-            <v-btn class="btn-even btn-ml  btn-mt" color="rgba(0,0,0,0)" width="130" height="40" :href="papers[0].links.paper">
-              paper
-              <v-icon right>
-                mdi-attachment
-              </v-icon>
-            </v-btn>
-          </div>
-      </v-sheet>
-    </v-carousel-item>
-    <v-carousel-item>
-      <v-sheet color="#F2F4FA" height="100%">
-          <img :src="imgItem[14]" class="carousel-img" id="carousel-img2" style="margin-left: 16%;">
-          <div class="carousel-text-even">
-            <h1 class="carousel-text-title font-color-thin" style="font-size: 26px;">PDFChatAnnotator: A Human-LLM Collaborative Multi-Modal Data Collection Tool for PDF-Format Catalogs</h1>
-            <div class="carousel-text-content font-color-thin">
-              Yi Tang, Chia-Ming Chang, Xi Yang
-            </div>
-            <v-btn class="btn-even btn-ml  btn-mt" color="rgba(0,0,0,0)" width="130" height="40" :href="papers[0].links.paper">
-              paper
-              <v-icon right>
-                mdi-attachment
-              </v-icon>
-            </v-btn>
-          </div>
-      </v-sheet>
-    </v-carousel-item>
+<!--    <v-carousel-item>-->
+<!--      <v-sheet color="#F2F4FA" height="100%">-->
+<!--          <img :src="imgItem[13]" class="carousel-img" id="carousel-img2">-->
+<!--          <div class="carousel-text-even">-->
+<!--            <h1 class="carousel-text-title font-color-thin" style="font-size: 26px;">SpaceEditing: Integrating Human Knowledge into Deep Neural Networks via Interactive Latent Space Editing</h1>-->
+<!--            <div class="carousel-text-content font-color-thin">-->
+<!--              Jiafu Wei, Ding Xia, Haoran Xie, Chia-Ming Chang, Chuntao Li, Xi Yang-->
+<!--            </div>-->
+<!--            <v-btn class="btn-even btn-ml  btn-mt" color="rgba(0,0,0,0)" width="130" height="40" :href="papers[12].links.paper">-->
+<!--              paper-->
+<!--              <v-icon right>-->
+<!--                mdi-attachment-->
+<!--              </v-icon>-->
+<!--            </v-btn>-->
+<!--          </div>-->
+<!--      </v-sheet>-->
+<!--    </v-carousel-item>-->
+<!--    <v-carousel-item>-->
+<!--      <v-sheet color="#F2F4FA" height="100%">-->
+<!--          <img :src="imgItem[14]" class="carousel-img" id="carousel-img2" style="margin-left: 16%;">-->
+<!--          <div class="carousel-text-even">-->
+<!--            <h1 class="carousel-text-title font-color-thin" style="font-size: 26px;">PDFChatAnnotator: A Human-LLM Collaborative Multi-Modal Data Collection Tool for PDF-Format Catalogs</h1>-->
+<!--            <div class="carousel-text-content font-color-thin">-->
+<!--              Yi Tang, Chia-Ming Chang, Xi Yang-->
+<!--            </div>-->
+<!--            <v-btn class="btn-even btn-ml  btn-mt" color="rgba(0,0,0,0)" width="130" height="40" :href="papers[0].links.paper">-->
+<!--              paper-->
+<!--              <v-icon right>-->
+<!--                mdi-attachment-->
+<!--              </v-icon>-->
+<!--            </v-btn>-->
+<!--          </div>-->
+<!--      </v-sheet>-->
+<!--    </v-carousel-item>-->
     <v-carousel-item>
       <v-sheet color="#4582B4" height="100%">
           <img :src="imgItem[10]" class="carousel-img" id="carousel-img3" style="margin-left: 5%">
@@ -152,27 +231,27 @@
           </div>
       </v-sheet>
     </v-carousel-item>
-    <v-carousel-item>
-      <v-sheet color="#F2F4FA" height="100%">
-          <img :src="imgItem[9]" class="carousel-img" id="carousel-img4">
-          <div class="carousel-text-even">
-            <h1 class="carousel-text-title font-color-thin" style="font-size:24px">Learning Joint Embedding of Point Clouds and Texts by Bidirectional Matching between Parts and Words</h1>
-            <div class="carousel-text-content font-color-thin">Chuan Tang, Xi Yang, Bojian Wu, Zhizhong Han, Yi Chang</div>
-            <v-btn class="ma-2 btn-even  btn-mt ml-16" color="rgba(0,0,0,0)" height="40" :href="papers[3].links.paper">
-              paper
-              <v-icon right>
-                mdi-attachment
-              </v-icon>
-            </v-btn>
-            <v-btn class="ma-2 btn-even btn-mt" color="rgba(0,0,0,0)"  height="40" :href="papers[3].links.code">
-              code
-              <v-icon right>
-                mdi-github
-              </v-icon>
-            </v-btn>
-          </div>
-      </v-sheet>
-    </v-carousel-item>
+<!--    <v-carousel-item>-->
+<!--      <v-sheet color="#F2F4FA" height="100%">-->
+<!--          <img :src="imgItem[9]" class="carousel-img" id="carousel-img4">-->
+<!--          <div class="carousel-text-even">-->
+<!--            <h1 class="carousel-text-title font-color-thin" style="font-size:24px">Learning Joint Embedding of Point Clouds and Texts by Bidirectional Matching between Parts and Words</h1>-->
+<!--            <div class="carousel-text-content font-color-thin">Chuan Tang, Xi Yang, Bojian Wu, Zhizhong Han, Yi Chang</div>-->
+<!--            <v-btn class="ma-2 btn-even  btn-mt ml-16" color="rgba(0,0,0,0)" height="40" :href="papers[3].links.paper">-->
+<!--              paper-->
+<!--              <v-icon right>-->
+<!--                mdi-attachment-->
+<!--              </v-icon>-->
+<!--            </v-btn>-->
+<!--            <v-btn class="ma-2 btn-even btn-mt" color="rgba(0,0,0,0)"  height="40" :href="papers[3].links.code">-->
+<!--              code-->
+<!--              <v-icon right>-->
+<!--                mdi-github-->
+<!--              </v-icon>-->
+<!--            </v-btn>-->
+<!--          </div>-->
+<!--      </v-sheet>-->
+<!--    </v-carousel-item>-->
     <v-carousel-item>
       <v-sheet color="#4582B4" height="100%">
           <img :src="imgItem[6]" class="carousel-img" id="carousel-img3" style="margin-left: 5%">
