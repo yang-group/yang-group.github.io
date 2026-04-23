@@ -27,7 +27,11 @@ imgItems:
   - img/researchImg/ZRX_HS2025.png
   - img/researchImg/sp_cvpr2026.png
   - img/researchImg/ZJN_ACL2026.jpg
+  - img/researchImg/XJ_HS.png
 recentNews:
+  -
+    date: 2026.04.15
+    content: Our paper "Generating archaeological line drawings from limited reference images" is accepted by Heritage Science.
   -
     date: 2026.04.08
     content: Our paper "Specializing Large Models for Oracle Bone Script Interpretation via Component-Grounded Multimodal Knowledge Augmentation" is accepted by ACL2026.
@@ -481,6 +485,14 @@ AwardData:
    
 
 paperList:
+  -
+    title: Generating archaeological line drawings from limited reference images
+    authors: Jing Xue, Xi Wang, Qian Zhang, Xi Yang, Chuntao Li
+    year: 2026
+    pub: Heritage Science
+    image: img/researchImg/XJ_HS.png
+    links:
+      paper: https://www.nature.com/articles/s40494-026-02526-3
   -
     title: Specializing Large Models for Oracle Bone Script Interpretation via Component-Grounded Multimodal Knowledge Augmentation
     authors: Jianing Zhang, Runan Li, Honglin Pang, Ding Xia, Zhou Zhu, Qian Zhang, Chuntao Li, Xi Yang
