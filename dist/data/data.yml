@@ -28,7 +28,11 @@ imgItems:
   - img/researchImg/sp_cvpr2026.png
   - img/researchImg/ZJN_ACL2026.jpg
   - img/researchImg/XJ_HS.png
+  - img/researchImg/ECCV2026.png
 recentNews:
+  -
+    date: 2026.06.22
+    content: Our paper "Combining Discrepancy-Confusion Uncertainty and Calibration Diversity for Active Fine-Grained Image Classification" is accepted by ECCV2026.
   -
     date: 2026.04.15
     content: Our paper "Generating archaeological line drawings from limited reference images" is accepted by Heritage Science.
@@ -485,6 +489,14 @@ AwardData:
    
 
 paperList:
+  -
+    title: Combining Discrepancy-Confusion Uncertainty and Calibration Diversity for Active Fine-Grained Image Classification
+    authors: Yinghao Jin, Xi Yang
+    year: 2026
+    pub: ECCV
+    image: img/researchImg/ECCV2026.png
+    links:
+      paper: https://arxiv.org/abs/2509.24181
   -
     title: Generating archaeological line drawings from limited reference images
     authors: Jing Xue, Xi Wang, Qian Zhang, Xi Yang, Chuntao Li
