@@ -491,6 +491,14 @@ AwardData:
 
 paperList:
   -
+    title: An image segmentation-based quantitative method for assessing corrosion risk levels in bronze artifacts
+    authors: Qinzhe Zhu, Tingting Pan, Liangbo Lv, Nan Feng, Xi Yang
+    year: 2026
+    pub: Heritage Science
+    image: img/researchImg/HS2026_ZhuQinzhe.jpg
+    links:
+      paper: https://www.nature.com/articles/s40494-026-02732-z
+  -
     title: Combining Discrepancy-Confusion Uncertainty and Calibration Diversity for Active Fine-Grained Image Classification
     authors: Yinghao Jin, Xi Yang
     year: 2026
