@@ -1,0 +1,755 @@
+admission:
+intro:  We are the Interdisciplinary Intelligent Graphics Group (IIGG) based in the School of Artificial Intelligence, Jilin University. We conduct a broad range of research on Computer Graphics, Deep Learning, and User Interface. And focus on interdisciplinary topics across intelligent techniques and other fields, including archaeology, medicine, etc.
+welcome: Welcome to JLU SAI IIGG!
+imgItems:
+  - img/researchImg/CVPR2020.jpg
+  - img/researchImg/arxiv2021_tc.jpg
+  - img/researchImg/SIGGRAPH_Asia2021.jpg
+  - img/researchImg/ijcai_demo_2022.jpg
+  - img/researchImg/IUI2023.png
+  - img/researchImg/Tokyo.jpeg
+  - img/researchImg/CVPR2023_zhourixin.png
+  - img/researchImg/CVPR2023_tangchuan.png
+  - img/researchImg/MobileHCI2023.png
+  - img/researchImg/CVPR2023_tangchuan.gif
+  - img/2023TeamBuilding.jpeg
+  - img/BaoZhi1.png
+  - img/BaoZhi2.png
+  - img/researchImg/IUI2024WeiJiaFu.jpg
+  - img/researchImg/IUI2024TangYi.jpg
+  - img/researchImg/CHI-LBW2024Wei.jpg
+  - img/researchImg/ECCV2024ZRX.png
+  - img/researchImg/HSPHL.png
+  - img/researchImg/LZKHS.png
+  - img/researchImg/WXCVPR.jpg
+  - img/researchImg/HS2025.png
+  - img/researchImg/AAAI26.png
+  - img/researchImg/ZRX_HS2025.png
+  - img/researchImg/sp_cvpr2026.png
+  - img/researchImg/ZJN_ACL2026.jpg
+  - img/researchImg/XJ_HS.png
+  - img/researchImg/ECCV2026.png
+recentNews:
+  -
+    date: 2026.08.24
+    content: Our paper "An image segmentation-based quantitative method for assessing corrosion risk levels in bronze artifacts" is accepted by Heritage Science.
+  -
+    date: 2026.06.22
+    content: Our paper "Combining Discrepancy-Confusion Uncertainty and Calibration Diversity for Active Fine-Grained Image Classification" is accepted by ECCV2026.
+  -
+    date: 2026.04.15
+    content: Our paper "Generating archaeological line drawings from limited reference images" is accepted by Heritage Science.
+  -
+    date: 2026.04.08
+    content: Our paper "Specializing Large Models for Oracle Bone Script Interpretation via Component-Grounded Multimodal Knowledge Augmentation" is accepted by ACL2026.
+  -
+    date: 2026.02.20
+    content: Our paper "Rethinking Glyph Spatial Information in Font Generation" is accepted by CVPR2026.
+  -
+    date: 2026.01.15
+    content: Our paper "Ladder-side mixture of experts adapters for bronze inscription recognition" is accepted by Heritage Science.
+  -
+    date: 2025.11.18
+    content: Our paper "Learning Compact Latent Space for Representing Neural Signed Distance Functions with High-fidelity Geometry Details" is accepted by AAAI 2026.
+  -
+    date: 2025.06.25
+    content: Our paper "Clustering-based feature representation learning for Oracle Bone Inscriptions detection" is accepted by Heritage Science.
+  -
+    date: 2025.02.27
+    content: Our paper "LineArt: A Knowledge-guided Training-free High-quality Appearance Transfer for Design Drawing with Diffusion Model" is accepted by CVPR 2025.
+  -
+    date: 2024.09.28
+    content: Our paper "Pottery Evolution Pattern Discovery based on Deep Learning: Case Study of Miaozigou Culture in China" is accepted by Heritage Science.
+  -
+    date: 2024.09.26
+    content: Our paper "Gamification of virtual museum curation: a case study of Chinese bronze wares" is accepted by Heritage Science.
+  -
+    date: 2024.07.02
+    content: Our paper "PairingNet: A Learning-based Pair-searching and -matching Network for Image Fragments" is accepted by ECCV 2024.
+  -
+    date: 2024.04.03
+    content: Our paper "Detecting Oracle Bone Inscriptions Via Pseudo Category Labels" is accepted by Heritage Science.
+  -
+    date: 2024.03.02
+    content: Our paper "CanvasPic: An Interactive Tool for Freely Generating Facial Images Based on Spatial Layout" is accepted by CHI-LBW 2024.
+  -
+    date: 2024.02.01
+    content: Our paper "PDFChatAnnotator: A Human-LLM Collaborative Multi-Modal Data Collection Tool for PDF-Format Catalogs" and "SpaceEditing: Integrating Human Knowledge into Deep Neural Networks via Interactive Latent Space Editing" are accepted by IUI 2024.
+  -
+    date: 2023.10.26
+    content: We released a mini-program called "Ji Jin Shi Bian"which was widely reported by Guangming Daily,Science and Techniology Daily and other media.
+  -
+    date: 2023.09.27
+    content: Our work "Learning Multivariate Empirical Mode Decomposition for Spectral Motion Editing" will be presented at SIGGRAPH ASIA 2023 as a technical communication.
+  -
+    date: 2023.06.03
+    content: Our paper "SyncLabeling: A Synchronized Audio Segmentation Interface for Mobile Devices" is accepted by MobileHCI 2023. 
+  -
+    date: 2023.02.28
+    content: Our work “Multi-Granularity Archaeological Dating of Chinese Bronze Dings Based on a Knowledge-Guided Relation Graph” and “Parts2Words: Learning Joint Embedding of Point Clouds and Texts by Bidirectional Matching between Parts and Words” will be presented at CVPR 2023. 
+  -
+    date: 2023.02.02
+    content: Our paper "Efficient Human-in-the-loop System for Guiding DNNs Attention" is accepted by IUI 2023, acceptance rate is 24%. 
+  -
+    date: 2022.09.08
+    content: Our group received project support from the Young Scientists Fund of the National Natural Science Foundation of China. 
+  -
+    date: 2022.09.06
+    content: Four students received three-month internship support at the University of Tokyo. 
+  -
+    date: 2022.04.17
+    content: Our paper "Fine-tuning Deep Neural Networks by Interactively Refining the 2D Latent Space of Ambiguous Images" is accepted by IJCAI 2022 Demonstrations, the paper acceptance rate is 26%.
+  -
+    date: 2021.09.28
+    content: Our paper "Learning English to Chinese Character:Calligraphic Art Production based on Transformer" is accepted by SIGGRAPH ASIA 2021 Posters.
+  -
+    date: 2021.06.24
+    content: Our web page is ready!
+memberData:
+  Ph.D.:
+    -
+      name: Qiang Bai (白强)
+      year: 2023
+      email: baiqiang23@mails.jlu.edu.cn
+      inerest:
+        - CV
+      photo: img/studentImg/baiqiang.png
+    -
+      name: Shan Cao (曹山)
+      year: 2024
+      email: 1480622383@qq.com
+      inerest:
+        - CV
+      photo: img/studentImg/caoshan.jpg
+    -
+      name: Honglin Pang (庞宏林)
+      year: 2025
+      email: panghlwork@gmail.com
+      inerest:
+        - CV
+      photo: img/studentImg/panghonglin.jpg
+      github: http://pugguphl.github.io
+    -
+      name: Qingzhe Zhu (朱沁哲) Co-supervised with Prof. Feng
+      year: 2025
+      email: zqz061314@gmail.com
+      inerest:
+        - CV
+      photo: img/studentImg/zhuqingzhe.jpg
+    -
+      name: Wenda Luo (罗闻达)
+      year: 2026
+      email: luowenda1998@gmail.com
+      inerest:
+        - CV
+      photo: img/studentImg/luowenda.jpg
+  Master:
+    -
+      name: Yinghao Jin(金颖豪)
+      year: 2024
+      email: yinghao.jyh@outlook.com
+      inerest:
+        - CV
+      photo: img/studentImg/jinyinghao.jpg
+    -
+      name: Peng Su(苏鹏)
+      year: 2024
+      email: supeng2668@126.com
+      inerest:
+        - CV
+      photo: img/studentImg/supeng.jpg
+    -
+      name: Jing Xue(薛靖)
+      year: 2024
+      email: jxue1010@gmail.com
+      inerest:
+        - CV
+      photo: img/studentImg/xuejing.jpg
+    -
+      name: Yukun Si(司钰坤)
+      year: 2025
+      email: 3043691609@qq.com
+      inerest:
+        - CV
+      photo: img/studentImg/siyukun.jpg
+    -
+      name: Yikai Gao(高一凯)
+      year: 2025
+      email: 2804200588@qq.com
+      inerest:
+        - CV
+      photo: img/studentImg/gaoyikai.jpg
+    -
+      name: GuoQing Wu(吴国庆)
+      year: 2025
+      email: 2758898494@qq.com
+      inerest:
+        - CV
+      photo: img/studentImg/wuguoqing.jpg
+    -
+      name: Nuo Xu(许诺)
+      year: 2025
+      email: 2238305800@qq.com
+      inerest:
+        - CV
+      photo: img/studentImg/xunuo.jpg
+    -
+      name: Zixiu Ma (马子修)
+      year: 2026
+      email: mazixiu2004@163.com
+      inerest:
+        - CV
+      photo: img/studentImg/mazixiu.jpg
+  Undergraduate:
+    -
+      
+
+  # Graduated:
+  Past Members:
+    -
+      name: Rixin Zhou (周日鑫). 内蒙古大学.
+      year: 2022-2026
+      homepage: https://zhourixin.github.io/
+      # email: 757838685@qq.com
+      # inerest:
+      #   - CV
+      # photo: img/studentImg/zhourixin.jpeg
+    -
+      name: Xi Wang (王茜). GAP.
+      year: 2023-2026 (获优秀研究生学位论文)
+      # email: meao_wangxi@163.com
+      # inerest:
+      #   - CV
+      # photo: img/studentImg/wangxi.jpeg
+    -
+      name: Ye Tao (陶也). 赛力斯.
+      year: 2023-2026
+      # email: taoye06282001@163.com
+      # inerest:
+      #   - CV
+      # photo: img/studentImg/taoye2.jpg
+    -
+      name: Qiuwen Shao (邵湫雯). 中国矿产资源集团有限公司.
+      year: 2023-2026
+      # email: shaoqiuwen0801@163.com
+      # inerest:
+      #   - CV
+      # photo: img/studentImg/shaoqiuwen2.jpg
+    -
+      name: Yi Tang (唐艺). 阿里巴巴淘天集团, top offer.
+      year: 2022-2025
+      homepage: https://vanillaty.github.io/
+      # email: tangyi2118@mails.jlu.edu.cn
+      # inerest:
+      #   - CV
+      # photo: img/studentImg/tangyi.jpg
+    -
+      name: Zhaokang Li (李炤慷). 中国卫星测控中心.
+      year: 2022-2025
+      # email: 2521960449@qq.com
+      # inerest:
+      #   - CV
+      # photo: img/studentImg/lizhaokang.jpg
+    -
+      name: Jiafu Wei (魏家富). 腾讯, top offer.
+      year: 2021-2024 (获优秀研究生学位论文)
+      # email: weijf21@mails.jlu.edu.cn
+      # inerest:
+      #   - CV
+      # photo: img/studentImg/weijiafu.jpeg
+    -
+      name: Yang Ai (艾阳). 华为海思.
+      year: 2021-2024
+      # email: aiyangjlu21@gmail.com
+      # inerest:
+      #   - CV
+      # photo: img/studentImg/aiyang.jpeg
+    -
+      name: Xinran Fu (付新然). 吉利.
+      year: 2021-2024
+      # email: 13654311403@163.com
+      # inerest:
+      #   - CV
+      # photo: img/studentImg/fuxinran.jpg
+    -
+      name: Jiacheng Liu (刘家成). 某事业单位.
+      year: 2021-2024
+      # email: liuliujch@163.com
+      # inerest:
+      #   - CV
+      # photo: img/studentImg/liujiacheng.jpg
+    -
+      name: Yi He (何毅) Co-supervised with Prof. Xie, JAIST. 日立(HITACHI)研究所.
+      year: 2021-2022
+      # email: s2010035@jaist.ac.jp
+      # inerest:
+      #   - User Interface
+      # photo: img/studentImg/heyi.jpg
+    -
+      name: Chuan Tang (唐川) Co-supervised with Prof. Chang, JLU. 理想, top offer. 
+      year: 2020-2023 (获优秀研究生学位论文)
+      email: tangchuan20@mails.jlu.edu.cn
+      inerest:
+        - 3D Deep Learning
+      github: JLUtangchuan
+      photo: img/studentImg/tangchuan.jpg
+    # -
+    #   name: Jinhao Sun (孙金浩). 比亚迪. 
+    #   year: 2020-2023
+    #   email: sunjh20@mails.jlu.edu.cn
+    #   inerest:
+    #     - CV
+    #   photo: img/studentImg/sunjinhao.jpg
+    -
+      name: Yifan Jin (金逸凡). 比亚迪. 
+      year: 2020-2023
+      email: 912250098@qq.com
+      inerest:
+        - GAN
+      photo: img/studentImg/jinyifan.jpg
+    -
+      name: Qiang Liu (刘强). 浪潮. 
+      year: 2020-2023
+      email: liuqiang5799@163.com
+      inerest:
+        - 3D Reconstruction
+      photo: img/studentImg/liuqiang.jpg
+    
+  Collaborators:
+    -
+      name: Bojian Wu
+      affiliation: Alibaba DAMO Academy, China.
+      homepage: https://bojianwu.github.io/
+    -
+      name: Zi Ye
+      affiliation: Alibaba, China.
+      homepage: https://geo.ma.tum.de/en/people/zi-ye.html
+    -
+      name: Oliver van Kaick
+      affiliation:  Carleton University, Canada.
+      homepage: http://people.scs.carleton.ca/~olivervankaick/
+    -
+      name: Tong Zhang
+      affiliation: Changchun Institute of Applied Chemeistry Chinese Academy of Sciences, China.
+      homepage: http://xnyang.ciac.jl.cn/members/张通/
+    -
+      name: Kouichi Konno
+      affiliation: Iwate University, Japan.
+      homepage: http://gmhost.lk.cis.iwate-u.ac.jp/en/index.html
+    -
+      name: Haoran Xie
+      affiliation: Japan Advanced Institute of Science and Technology, Japan.
+      homepage: http://www.jaist.ac.jp/~xie/
+    -
+      name: Yan Zhao
+      affiliation: Jiangsu University, China.
+      homepage: https://chatyan.github.io/index_en.html
+    -
+      name: Yi Zhang
+      affiliation: National University of Defense Technology, China.
+    -
+      name: Takeo Igarashi
+      affiliation: The University of Tokyo, Japan.
+      homepage: https://www-ui.is.s.u-tokyo.ac.jp/~takeo/
+    -
+      name: Taichi Kin
+      affiliation: The University of Tokyo, Japan.
+      homepage: https://www.u-tokyo.ac.jp/focus/en/people/people003717.html
+    -
+      name: Tsukasa Fukusato
+      affiliation: The University of Tokyo, Japan.
+      homepage: https://sites.google.com/view/tsukasafukusato
+    -
+      name: Chiaming Chang
+      affiliation: The University of Tokyo, Japan.
+      homepage: http://www.chiamingchang.com/
+    -
+      name: Ding Xia
+      affiliation: The University of Tokyo, Japan.
+      homepage: https://scholar.google.com/citations?user=L_5Zzc8AAAAJ&hl=en
+    -
+      name: Chao Zhang
+      affiliation: University of Fukui, Japan.
+      homepage: https://sites.google.com/view/chao-zhang/profile
+    -
+      name: Zhizhong Han
+      affiliation: Wayne State University, USA.
+      homepage: https://h312h.github.io/
+AwardData:
+  Awards:
+    -
+      name: Xi Wang
+      award: 2026届优秀毕业研究生
+      year: 2026
+    -
+      name: Ye Tao
+      award: 2024-2025学年研究生优秀奖学金（二等）
+      year: 2025
+    -
+      name: Xi Wang
+      award: 2025年至2026年吉林大学研究生创新研究计划项目【王茜、薛靖】
+      year: 2025
+    -
+      name: Chenghao Liu
+      award: 吉林大学“大学生创新创业训练计划”国家级项目【刘承晧、林伟煌、常艺豪、胡亚卓】
+      year: 2025
+    -
+      name: Xi Wang
+      award: 【A类竞赛】2025年第十九届“挑战杯”大学生课外学术科技作品竞赛省赛主体赛特等奖【王茜，陶也，李炤慷】
+      year: 2025
+    -
+      name: Yi Tang
+      award: 2024-2025学年优秀研究生
+      year: 2025
+    -
+      name: Honglin Pang
+      award: 2025届优秀毕业研究生
+      year: 2025
+    -
+      name: Rixin Zhou
+      award: 学术业绩奖学金 2024(10000)
+      year: 2024
+    -
+      name: Yi Tang
+      award: 研究生学业奖学金 2024(8000)
+      year: 2024
+    -
+      name: Jian Pei
+      award: 裴健，刘双雪，智绘宝——AI绘本创意工坊，吉林大学中国国际大学生创新大赛（2024），校金奖。
+      year: 2024
+    -
+      name: Rixin Zhou
+      award: 研究生学业奖学金 2023(10000)
+      year: 2023
+    -
+      name: Rixin Zhou
+      award: 2022-2023研究生优秀奖学金（二等奖）(800)
+      year: 2023
+    -
+      name: Rixin Zhou
+      award: 吉林大学“中国一汽奖学金”（三等奖）(10000)
+      year: 2023
+    -
+      name: Qiang bai
+      award: 研究生学业奖学金 2023(10000)
+      year: 2023
+    -
+      name: Jiacheng Liu
+      award: 研究生学业奖学金 2023(8000)
+      year: 2023
+    -
+      name: Yi Tang
+      award: 研究生学业奖学金 2023(8000)
+      year: 2023
+    -
+      name: Xi Wang
+      award: 研究生学业奖学金 2023(8000)
+      year: 2023
+    -
+      name: Rixin Zhou
+      award: 研究生学业奖学金 2022(10000)
+      year: 2022
+    -
+      name: Yifan Jin
+      award: 研究生学业奖学金 2022(8000)
+      year: 2022
+    -
+      name: Jiacheng Liu
+      award: 研究生学业奖学金 2022(8000)
+      year: 2022
+    -
+      name: Yi Tang
+      award: 研究生学业奖学金 2022(8000)
+      year: 2022
+    -
+      name: Honglin Pang
+      award: 研究生学业奖学金 2022(8000)
+      year: 2022
+
+  Grants:
+    -
+      name: 2026年至2027年，吉林省教育厅科学研究项目，优秀青年
+    -
+      name: 2026年至2027年，吉林省研究生教育教学改革研究项目（一般项目）
+    -
+      name: 2026年至2029年，国家自然科学基金委，面上项目
+    -
+      name: 2024年至2026年，吉林大学，研究生教育教学改革研究项目（重点项目）
+    -
+      name: 2024年，吉林大学，研究生精品课程建设项目（卓越工程师专项）
+    -
+      name: 2021年至2024年，吉林大学，励新优秀青年教师培养计划（重点培养）
+    -
+      name: 2025年至2030年，国家文物局，全国考古人才振兴计划
+    -
+      name: 2024年至2025年，吉林大学，研究生教育教学改革研究项目
+    -
+      name: 2023年至2024年，吉林大学生物考古实验室，学科交叉融合创新项目
+    -
+      name: 2023年至2025年，国家自然科学基金委，青年基金项目
+    -
+      name: 2022年至2023年，吉林大学，学科交叉融合创新项目
+    -
+      name: 2022年至2025年，吉林大学，交叉青年创新团队
+    -
+      name: 2022年至2022年，吉林大学，吉大学子全球胜任力计划项目
+    
+
+  Media:
+    -
+      name: 吉林:构筑优秀科技人才回归“强磁场”
+      link: https://m.jlntv.cn/video?id=676054&sign=a7f75149a 
+    -
+      name: 小程序探秘青铜器--光明日报
+      link: https://epaper.gmw.cn/gmrb/html/2023-10/31/nw.D110000gmrb_20231031_3-09.htm
+    -
+      name: 人工智能技术首次用于青铜器研究--科技日报
+      link: http://digitalpaper.stdaily.com/http_www.kjrb.com/kjrb/html/2023-10/28/node_2.htm
+    -
+      name: 吉林大学“古文字古文物人工智能重点实验室”揭牌仪式暨“吉金识辨·青铜器智能断代与辨类”程序发布会举行
+      link: https://news.jlu.edu.cn/info/1211/57636.htm
+   
+
+paperList:
+  -
+    title: An image segmentation-based quantitative method for assessing corrosion risk levels in bronze artifacts
+    authors: Qinzhe Zhu, Tingting Pan, Liangbo Lv, Nan Feng, Xi Yang
+    year: 2026
+    pub: Heritage Science
+    image: img/researchImg/HS2026_ZhuQinzhe.jpg
+    links:
+      paper: https://www.nature.com/articles/s40494-026-02732-z
+  -
+    title: Combining Discrepancy-Confusion Uncertainty and Calibration Diversity for Active Fine-Grained Image Classification
+    authors: Yinghao Jin, Xi Yang
+    year: 2026
+    pub: ECCV
+    image: img/researchImg/ECCV2026.png
+    links:
+      paper: https://arxiv.org/abs/2509.24181
+  -
+    title: Generating archaeological line drawings from limited reference images
+    authors: Jing Xue, Xi Wang, Qian Zhang, Xi Yang, Chuntao Li
+    year: 2026
+    pub: Heritage Science
+    image: img/researchImg/XJ_HS.png
+    links:
+      paper: https://www.nature.com/articles/s40494-026-02526-3
+  -
+    title: Specializing Large Models for Oracle Bone Script Interpretation via Component-Grounded Multimodal Knowledge Augmentation
+    authors: Jianing Zhang, Runan Li, Honglin Pang, Ding Xia, Zhou Zhu, Qian Zhang, Chuntao Li, Xi Yang
+    year: 2026
+    pub: ACL
+    image: img/researchImg/ZJN_ACL2026.jpg
+    links:
+      paper: https://arxiv.org/abs/2604.06711v1
+  -
+    title: Rethinking Glyph Spatial Information in Font Generation
+    authors: Peng Su, Xi Yang
+    year: 2026
+    pub: CVPR
+    image: img/researchImg/sp_cvpr2026.png
+    links:
+      paper:
+  -
+    title: Ladder-side mixture of experts adapters for bronze inscription recognition
+    authors: Rixin Zhou, Peiqiang Qiu, Qian Zhang, Chuntao Li, Xi Yang
+    year: 2026
+    pub: Heritage Science
+    image: img/researchImg/ZRX_HS2025.png
+    links:
+      paper: https://www.nature.com/articles/s40494-025-02294-6?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20260115&utm_content=10.1038/s40494-025-02294-6
+  -
+    title: Learning Compact Latent Space for Representing Neural Signed Distance Functions with High-fidelity Geometry Details
+    authors: Qiang Bai, Bojian Wu, Xi Yang, Zhizhong Han
+    year: 2026
+    pub: AAAI
+    image: img/researchImg/AAAI26.png
+    links:
+      paper: https://arxiv.org/abs/2511.14539
+      code: https://github.com/eoozbq/Compact-SDF
+  -
+    title: Clustering-based feature representation learning for Oracle Bone Inscriptions detection
+    authors: Ye Tao, Xinran Fu, Honglin Pang, Xi Yang, Chuntao Li
+    year: 2025
+    pub: Heritage Science
+    image: img/researchImg/HS2025.png
+    links:
+      paper: https://www.nature.com/articles/s40494-025-01850-4
+      code: https://github.com/biscuit030/Clustering-based-Feature-Representation-Learning-for-Oracle-Bone-Inscriptions-Detection
+  -
+    title: An archaeological Catalog Collection Method Based on Large Vision-Language Models
+    authors: Honglin Pang, Yi Chang, Tianjing Duan, Xi Yang
+    year: 2025
+    pub: arXiv
+    image: img/researchImg/arXiv2025_PHL.png
+    links:
+      paper: https://arxiv.org/abs/2412.20088
+      code: https://github.com/Pugguphl/catalogextractor/tree/main
+  -
+    title: LineArt: A Knowledge-guided Training-free High-quality Appearance Transfer for Design Drawing with Diffusion Model
+    authors: Xi Wang, Hongzhen Li, Heng Fang, Yichen Peng, Haoran Xie, Xi Yang, Chuntao Li
+    year: 2025
+    pub: CVPR
+    image: img/researchImg/WXCVPR.jpg
+    links:
+      paper: https://arxiv.org/abs/2412.11519
+      projectpagelink: https://meaoxixi.github.io/LineArt/
+  -
+    title: Gamification of virtual museum curation: a case study of Chinese bronze wares
+    authors: Zhaokang Li, Qian zhang, jiayue Xu, Chuntao Li, Xi Yang
+    year: 2024
+    pub: Heritage Science
+    image: img/researchImg/LZKHS.png
+    links:
+      paper: https://link.springer.com/article/10.1186/s40494-024-01464-2?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20241008&utm_content=10.1186%2Fs40494-024-01464-2
+      vedio: https://www.bilibili.com/video/BV1upypYYEAh/?spm_id_from=333.999.0.0&vd_source=1f9796de4e6991771ed348c41f498cdc
+  -
+    title: Pottery Evolution Pattern Discovery based on Deep Learning: Case Study of Miaozigou Culture in China
+    authors: Honglin Pang, Xiujin Qi, Chengjun Xiao, Ziying Xu,Guangchen Ding, Yi Chang, Xi Yang, Tianjing Duan
+    year: 2024
+    pub: Heritage Science
+    image: img/researchImg/HSPHL.png
+    links:
+      paper: https://www.researchgate.net/publication/382731722_Pottery_Evolution_Pattern_Discovery_based_on_Deep_Learning_Case_Study_of_Miaozigou_Culture_in_China/fulltext/66aaa9e575fcd863e5ed3cb9/Pottery-Evolution-Pattern-Discovery-based-on-Deep-Learning-Case-Study-of-Miaozigou-Culture-in-China.pdf?origin=publication_detail&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uRG93bmxvYWQiLCJwcmV2aW91c1BhZ2UiOiJwdWJsaWNhdGlvbiJ9fQ
+  -
+    title: PairingNet: A Learning-based Pair-searching and -matching Network for Image Fragments
+    authors: Rixin Zhou, Ding Xia, Yi Zhang, Honglin Pang, Xi Yang, Chuntao Li
+    year: 2024
+    pub: ECCV
+    image: img/researchImg/ECCV2024ZRX.png
+    links:
+      paper: https://arxiv.org/abs/2312.08704 
+      projectpagelink: https://github.com/zhourixin/PairingNet.git
+      vedio: https://youtu.be/bHb6zOHbO8Y
+
+  -
+    title: FilterPrompt: Guiding Image Transfer in Diffusion Models
+    authors: Xi Wang, Yichen Peng, Heng Fang, Haoran Xie, Xi Yang, Chuntao Li
+    year: 2024
+    pub: arXiv
+    image: img/researchImg/ECCVWX.png
+    links:
+      paper: https://arxiv.org/abs/2404.13263 
+      projectpagelink: https://meaoxixi.github.io/FilterPrompt/  
+  -
+    title: Efficient Point Cloud Registration using Dynamic Networks
+    authors: Yang Ai, Xi Yang
+    year: 2024
+    pub: arXiv
+    image: img/researchImg/AY.png
+    links:
+      paper: https://arxiv.org/abs/2312.02877
+  -
+    title: Detecting Oracle Bone Inscriptions Via Pseudo Category Labels
+    authors: Xinran Fu, Rixin Zhou, Xi Yang, Chuntao Li
+    year: 2024
+    pub: Heritage Science
+    image: img/researchImg/HSLaoda.png
+    links:
+      paper: https://link.springer.com/article/10.1186/s40494-024-01221-5?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20240403&utm_content=10.1186/s40494-024-01221-5
+  -
+    title: CanvasPic: An Interactive Tool for Freely Generating Facial Images Based on Spatial Layout
+    authors: Jiafu Wei, Chia-Ming Chang, Xi Yang, Takeo Igarashi
+    year: 2024
+    pub: CHI-LBW
+    image: img/researchImg/CHI-LBW2024Wei.jpg
+    links:
+      projectlink: projectpage/CHILBW2024_WeiJiafu/index.html
+      toproject: /ProjectPageCHILBW2024WeiJiafu
+  -
+    title: SpaceEditing: Integrating Human Knowledge into Deep Neural Networks via Interactive Latent Space Editing
+    authors: Jiafu Wei, Ding Xia, Haoran Xie, Chia-Ming Chang, Chuntao Li, Xi Yang
+    year: 2024
+    pub: IUI
+    image: img/researchImg/IUI2024WeiJiaFu.jpg
+    links:
+      projectlink: projectpage/IUI2024_WeiJiafu/index.html
+      toproject: /ProjectPageIUIWeiJiafu2024
+  -
+    title: PDFChatAnnotator: A Human-LLM Collaborative Multi-Modal Data Collection Tool for PDF-Format Catalogs
+    authors: Yi Tang, Chia-Ming Chang, Xi Yang
+    year: 2024
+    pub: IUI
+    image: img/researchImg/IUI2024TangYi.jpg
+    links:
+      paper: https://doi.org/10.1145/3640543.3645174
+      code: https://github.com/VanillaTY/PDFChatAnnotator
+      projectlink: projectpage/IUI2024_YiTang/index.html
+      toproject: /ProjectPageIUIYiTang2024
+  -
+    title: Multi-Granularity Archaeological Dating of Chinese Bronze Dings Based on a Knowledge-Guided Relation Graph
+    authors: Rixin Zhou, Wei Jiafu, Qian Zhang, Qi Ruihua, Xi Yang, Chuntao Li
+    year: 2023
+    pub: CVPR 
+    image: img/researchImg/CVPR2023_zhourixin.png
+    links:
+      paper: https://arxiv.org/abs/2303.15266
+      code: https://github.com/zhourixin/bronze-Ding
+  -
+    title: Parts2Words: Learning Joint Embedding of Point Clouds and Texts by Bidirectional Matching between Parts and Words (v2)
+    authors: Chuan Tang, Xi Yang, Bojian Wu, Zhizhong Han, Yi Chang
+    year: 2023
+    pub: CVPR 
+    image: img/researchImg/CVPR2023_tangchuan.gif
+    links:
+      paper: https://arxiv.org/abs/2107.01872
+      code: https://github.com/JLUtangchuan/Parts2Words
+  -
+    title: SyncLabeling: A Synchronized Audio Segmentation Interface for Mobile Devices
+    authors: Yi Tang, Chia-Ming Chang, Xi Yang, Takeo Igarashi
+    year: 2023
+    pub: MobileHCI 
+    image: img/researchImg/MobileHCI2023.png
+    links:
+      paper: https://doi.org/10.1145/3604273
+      projectlink: projectpage/MobileHCI2023/index.html
+      toproject: /ProjectPageMobileHCI2023
+  -
+    title: Efficient Human-in-the-loop System for Guiding DNNs Attention
+    authors: Yi He, Xi Yang, Chia-Ming Chang, Haoran Xie, and Takeo Igarashi
+    year: 2023
+    pub: IUI
+    image: img/researchImg/IUI2023.png
+    links: 
+      paper: https://arxiv.org/abs/2206.05981
+      code: https://github.com/ultratykis/Guiding-DNNs-Attention
+      vedio: https://www.bilibili.com/video/BV1YR4y18744/?vd_source=c9d0b51620e8cf77cc37d57e3b17cee5
+      projectlink: projectpage/IUI2023/index.html
+      toproject: /ProjectPageIUI2023
+  -
+    title: Fine-tuning Deep Neural Networks by Interactively Refining the 2D Latent Space of Ambiguous Images
+    authors: Jiafu Wei, Haoran Xie, Chia-Ming Chang, Xi Yang
+    year: 2022, Demos
+    pub: IJCAI
+    image: img/researchImg/ijcai_demo_2022.jpg
+    links:
+      vedio: https://youtu.be/5EvDa3XiTiY
+      paper:
+  -
+    title: Learning English to Chinese Character: Calligraphic Art Production based on Transformer
+    authors: Yifan Jin, Yi Zhang, Xi Yang
+    year: 2021,posters
+    pub: SIGGRAPH Asia
+    image: img/researchImg/SIGGRAPH_Asia2021.jpg
+    links:
+      paper: 
+  -
+    title: Part2Word: Learning Joint Embedding of Point Clouds and Text by Matching Parts to Words (v1)
+    authors: Chuan Tang, Xi Yang, Bojian Wu, Zhizhong Han, Yi Chang
+    year: 2021
+    pub: arXiv
+    image: img/researchImg/arxiv2021_tc.jpg
+    links:
+      paper: https://arxiv.org/abs/2107.01872
+  -
+    title: IntrA: 3D Intracranial Aneurysm Dataset for Deep Learning
+    authors: Xi Yang, Ding Xia, Taichi Kin, and Takeo Igarashi
+    year: 2020(Oral)
+    pub: CVPR 
+    image: img/researchImg/CVPR2020.jpg
+    links:
+      code: https://github.com/intra3d2019/IntrA
+      paper: https://arxiv.org/abs/2003.02920
+      data: https://drive.google.com/drive/folders/1yjLdofRRqyklgwFOC0K4r7ee1LPKstPh?usp=sharing
+
