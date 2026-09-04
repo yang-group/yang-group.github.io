@@ -31,6 +31,9 @@ imgItems:
   - img/researchImg/ECCV2026.png
 recentNews:
   -
+    date: 2026.08.24
+    content: Our paper "An image segmentation-based quantitative method for assessing corrosion risk levels in bronze artifacts" is accepted by Heritage Science.
+  -
     date: 2026.06.22
     content: Our paper "Combining Discrepancy-Confusion Uncertainty and Calibration Diversity for Active Fine-Grained Image Classification" is accepted by ECCV2026.
   -
@@ -133,6 +136,13 @@ memberData:
       inerest:
         - CV
       photo: img/studentImg/zhuqingzhe.jpg
+    -
+      name: Wenda Luo (罗闻达)
+      year: 2026
+      email: luowenda1998@gmail.com
+      inerest:
+        - CV
+      photo: img/studentImg/luowenda.jpg
   Master:
     -
       name: Yinghao Jin(金颖豪)
@@ -183,6 +193,13 @@ memberData:
       inerest:
         - CV
       photo: img/studentImg/xunuo.jpg
+    -
+      name: Zixiu Ma (马子修)
+      year: 2026
+      email: mazixiu2004@163.com
+      inerest:
+        - CV
+      photo: img/studentImg/mazixiu.jpg
   Undergraduate:
     -
       
@@ -199,7 +216,7 @@ memberData:
       # photo: img/studentImg/zhourixin.jpeg
     -
       name: Xi Wang (王茜). GAP.
-      year: 2023-2026
+      year: 2023-2026 (获优秀研究生学位论文)
       # email: meao_wangxi@163.com
       # inerest:
       #   - CV
@@ -235,7 +252,7 @@ memberData:
       # photo: img/studentImg/lizhaokang.jpg
     -
       name: Jiafu Wei (魏家富). 腾讯, top offer.
-      year: 2021-2024(获优秀研究生学位论文)
+      year: 2021-2024 (获优秀研究生学位论文)
       # email: weijf21@mails.jlu.edu.cn
       # inerest:
       #   - CV
@@ -360,6 +377,10 @@ memberData:
       homepage: https://h312h.github.io/
 AwardData:
   Awards:
+    -
+      name: Xi Wang
+      award: 2026届优秀毕业研究生
+      year: 2026
     -
       name: Ye Tao
       award: 2024-2025学年研究生优秀奖学金（二等）
