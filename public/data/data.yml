@@ -31,6 +31,9 @@ imgItems:
   - img/researchImg/ECCV2026.png
 recentNews:
   -
+    date: 2026.09.14
+    content: Our paper "Exploiting Surviving Features: Interpretable Fragmented Bamboo Slips Character Recognition via Prototype-based Vision Transformers" is published in EAAI.
+  -
     date: 2026.08.24
     content: Our paper "An image segmentation-based quantitative method for assessing corrosion risk levels in bronze artifacts" is accepted by Heritage Science.
   -
@@ -511,6 +514,14 @@ AwardData:
    
 
 paperList:
+  -
+    title: Exploiting Surviving Features: Interpretable Fragmented Bamboo Slips Character Recognition via Prototype-based Vision Transformers
+    authors: Shan Cao, Mu Ye, Rixin Zhou, Chuntao Li, Xi Yang
+    year: 2026
+    pub: EAAI
+    image: img/researchImg/EAAI2026_CaoShan.png
+    links:
+      paper: https://www.sciencedirect.com/science/article/pii/S0952197626025157
   -
     title: An image segmentation-based quantitative method for assessing corrosion risk levels in bronze artifacts
     authors: Qinzhe Zhu, Tingting Pan, Liangbo Lv, Nan Feng, Xi Yang
