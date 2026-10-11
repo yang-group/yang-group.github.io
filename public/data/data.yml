@@ -190,7 +190,7 @@ memberData:
         - CV
       photo: img/studentImg/wuguoqing.jpg
     -
-      name: Nuo Xu(许诺)
+      name: Nuo Xu(许诺) Co-supervised with Prof. Chang
       year: 2025
       email: 2238305800@qq.com
       inerest:
@@ -203,6 +203,13 @@ memberData:
       inerest:
         - CV
       photo: img/studentImg/mazixiu.jpg
+    -
+      name: Yuqin Hou (侯羽秦)
+      year: 2026
+      email: 2919466929@qq.com
+      inerest:
+        - CV
+      photo: img/studentImg/houyuqin.jpg
   Undergraduate:
     -
       
@@ -380,6 +387,26 @@ memberData:
       homepage: https://h312h.github.io/
 AwardData:
   Awards:
+    -
+      name: Qinzhe Zhu
+      award: 2025-2026研究生优秀奖学金（一等奖）
+      year: 2026
+    -
+      name: Peng Su
+      award: 2025-2026研究生优秀奖学金（一等奖）
+      year: 2026
+    -
+      name: Yinghao Jin
+      award: 2025-2026研究生优秀奖学金（二等奖）
+      year: 2026
+    -
+      name: Jing Xue
+      award: 2025-2026研究生优秀奖学金（二等奖）
+      year: 2026
+    -
+      name: Nuo Xu
+      award: 2025-2026研究生优秀奖学金（二等奖）
+      year: 2026
     -
       name: Xi Wang
       award: 2026届优秀毕业研究生
